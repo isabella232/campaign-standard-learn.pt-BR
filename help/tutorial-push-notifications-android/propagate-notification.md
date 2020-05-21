@@ -1,0 +1,133 @@
+---
+title: Etapa 5 - Propagar notificações
+description: Nesta parte, propagaremos a mensagem recebida do Adobe Campaign usando o Android Notification Manager.Firebase
+feature: Push
+topics: Mobile
+kt: 4829
+doc-type: tutorial
+activity: use
+team: TM
+translation-type: tm+mt
+source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
+workflow-type: tm+mt
+source-wordcount: '154'
+ht-degree: 0%
+
+---
+
+# Adicionar serviço para enviar notificação
+
+Nesta parte, propagaremos a mensagem recebida do Adobe Campaign usando [!DNL Android Notification Manager]. [!DNL Notification manager] é usada para notificar o usuário sobre eventos que ocorrem.
+É assim que você diz ao usuário que algo aconteceu em segundo plano:
+
+* Iniciar [!DNL Android Studio]
+* Abrir *[!DNL ACSPushTutorial]* projeto
+* Expandir a estrutura do projeto
+* Clique com o botão direito do mouse na pasta do pacote ([!DNL com.example.acspushtutorial]) e [!DNL New ->Java Class]
+* Nomeie esta classe *[!DNL MyService]* e certifique-se de estender [!DNL FirebaseMessagingService]
+* Criar *[!DNL sendNotification]* método nesta classe. Nesse método, é necessário definir o conteúdo e o canal da notificação usando um [!DNL NotificationCompat.Builder] objeto. Para fazer a notificação aparecer, chame [!DNL NotificationManagerCompat.notify()], transmitindo uma ID exclusiva para a notificação e o resultado do [!DNL NotificationCompat.Builder.build()].
+
+```java {.line-numbers}
+package com.example.pushmessaging;
+import android.app.NotificationChannel;
+import android.app.NotificationManager;
+import android.app.PendingIntent;
+import android.content.Context;
+import android.content.Intent;
+import android.media.RingtoneManager;
+import android.net.Uri;
+import android.os.Build;
+import android.util.Log;
+
+import androidx.core.app.NotificationCompat;
+
+import com.google.firebase.messaging.FirebaseMessagingService;
+import com.google.firebase.messaging.RemoteMessage;
+
+import java.util.Map;
+
+public class MyService extends FirebaseMessagingService {
+@Override
+public void onMessageReceived(RemoteMessage remoteMessage)
+{
+Map<String,String> data  = remoteMessage.getData();
+Log.d("data payload: ", data.toString());
+sendNotification(remoteMessage);
+}
+
+
+private void sendNotification(RemoteMessage message) {
+Intent intent = new Intent(this, MainActivity.class);
+intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+PendingIntent pendingIntent = PendingIntent.getActivity(this, 0 /* Request code */, intent, PendingIntent.FLAG_ONE_SHOT);
+
+String channelId = "0";
+Uri defaultSoundUri = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION);
+NotificationCompat.Builder notificationBuilder =
+        new NotificationCompat.Builder(this, channelId)
+                .setSmallIcon(R.drawable.ic_launcher_background)
+                .setContentTitle("Message from AEM")
+                .setContentText(message.getData().get("body"))
+                .setAutoCancel(true)
+                .setSound(defaultSoundUri)
+                .setContentIntent(pendingIntent);
+
+NotificationManager notificationManager =
+        (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
+
+// Since android Oreo notification channel is needed.
+if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+    NotificationChannel channel = new NotificationChannel(channelId,
+            "Channel human readable title",
+            NotificationManager.IMPORTANCE_DEFAULT);
+    notificationManager.createNotificationChannel(channel);
+}
+
+notificationManager.notify(0 /* ID of notification */, notificationBuilder.build());
+}
+}
+```
+
+## Modificar [!DNL AndroidManifest.xml]
+
+Adicione o serviço que foi criado ao seu [!DNL AndroidManifest.xml]. A versão final [!DNL AndroidManifest.xml] deve ser a seguinte:
+
+```xml {.line-numbers}
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pushmessaging">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".MainApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <service
+            android:name=".MyService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
+```
+
+## Executar o aplicativo
+
+Execute o aplicativo clicando na seta **** verde na barra de ferramentas ou no [!DNL Run] menu.
