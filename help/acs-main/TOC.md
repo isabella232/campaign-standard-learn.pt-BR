@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: b6d8914043194c7589859d919c3a62c0035b5497
+source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '489'
 ht-degree: 9%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 9%
 
 + [Visão geral](/help/overview.md)
 + Introdução {#getting-started}
+   + [Visão geral](/help/getting-started/getting-started-overview.md)
    + [Introdução ao Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Visão geral funcional](/help/getting-started/functional-overview.md)
    + [Introdução à interface do usuário](/help/getting-started/getting-started-with-the-ui.md)
