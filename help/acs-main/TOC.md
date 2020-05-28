@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 6aa25917e32ca40af73ef33fbfd51c2b14902b04
+source-git-commit: b6d8914043194c7589859d919c3a62c0035b5497
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 8%
+source-wordcount: '488'
+ht-degree: 9%
 
 ---
 
@@ -99,17 +99,6 @@ ht-degree: 8%
 + Desenvolvimento {#developing}
    + Custom Resources {#custom-resources-develop}
       + [Criação de recursos personalizados](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
-+ Integração {#integrating}
-   + Conector do Microsoft Dynamics 365 {#microsoft-dynamics365-connector}
-      + [Introdução](/help/integrating/microsoft-dynamics-365-connector/introduction.md)
-      + [Logon único (SSO)](/help/integrating/microsoft-dynamics-365-connector/single-sign-on.md)
-      + [Suporte para URL de Mirror page](/help/integrating/microsoft-dynamics-365-connector/mirror-page-url.md)
-      + [Configurar o Microsoft Dynamics 365](/help/integrating/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
-      + [Configurar o Adobe IO](/help/integrating/microsoft-dynamics-365-connector/configure-adobe-io.md)
-      + [Configurar Unifi - Introdução](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
-      + [Trabalhos Unifi - Visão geral](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
-      + [Trabalhos unificadores - entrada e saída](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
-      + [Unifi - operacionalização e monitoramento](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
 + Administração {#administrating}
    + [Gerenciamento de direitos de acesso do usuário](/help/administrating/managing-user-access-rights.md)
    + Painel de controle {#control-panel}
