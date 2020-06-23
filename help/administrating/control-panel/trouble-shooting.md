@@ -1,6 +1,6 @@
 ---
 title: Problemas ao fotografar o Painel de controle
-description: O Painel de controle permite que você monitore e gerencie seu armazenamento SFTP por instância e endereços IP de lista de permissões.
+description: O Painel de controle permite que você monitore e gerencie seu armazenamento SFTP por instância e permita endereços IP de lista.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -8,10 +8,10 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 0%
+source-wordcount: '336'
+ht-degree: 1%
 
 ---
 
@@ -62,11 +62,11 @@ O administrador precisa adicionar o usuário ao Perfil do Produto `Campaign-xxx-
 
 A conexão com servidores SFTP requer:
 
-* [!UICONTROL Whitelisting] o endereço IP do qual você está se conectando ao servidor SFTP
+* [!UICONTROL allow listing] o endereço IP do qual você está se conectando ao servidor SFTP
 * Par de chave privada/pública que precisa ser registrado com Adobe Campaign
 * Se você se conectar diretamente ao servidor SFTP, também precisará do software cliente SFTP
 
 ### Documentação útil
 
-* [Fazer logon em seu servidor SFTP](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
+* [Fazer logon no servidor SFTP](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
 
