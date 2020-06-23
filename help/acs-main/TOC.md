@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Tutoriais padrão do Adobe Campaign
+user-guide-title: Tutoriais de Adobe Campaign Standard
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Liga de experiência
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
+source-git-commit: 837aeb12ed95929b291c25097a9e91e34fa5d4a6
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '495'
 ht-degree: 9%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 9%
    + Destinos da Audiência (BETA){#audience-destinations}
       + [Visão geral](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Criar uma nova audiência usando o Construtor de segmentos unificados](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [Ativar audiências da plataforma Adobe Experience em um fluxo de trabalho](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + [Ativar audiências Adobe Experience Platform em um fluxo de trabalho](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Alterar o targeting dimension](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canais de comunicação {#communication-channels}
    + Email {#email}
@@ -70,7 +70,7 @@ ht-degree: 9%
          + [Usuários do Público alvo com base em seus perfis de Campanha](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
          + [Criar um delivery no aplicativo em um fluxo de trabalho](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [Relatório sobre seu delivery no aplicativo](/help/communication-channels/mobile/in-app/in-app-reporting.md)
-      + [Configurar um aplicativo móvel usando o SDK da plataforma Adobe Experience](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
+      + [Configurar um aplicativo móvel usando o SDK do Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
    + [Correspondência direta](/help/communication-channels/direct-mail/directmail.md)
    + Páginas de aterrissagem {#landing-pages}
       + [Criar e editar uma landing page](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
@@ -102,18 +102,19 @@ ht-degree: 9%
       + [Criação de recursos personalizados](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Administração {#administrating}
    + [Gerenciamento de direitos de acesso do usuário](/help/administrating/managing-user-access-rights.md)
-   + Painel de controle {#control-panel}
+   + Painel de controle do Campaign {#control-panel}
       + [Visão geral do painel de controle](/help/administrating/control-panel/control-panel-overview.md)
-      + [Monitorando a capacidade do servidor, os endereços IP da lista de permissões e adicionando chaves SSH](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+      + [Monitorando a capacidade do servidor, permitindo a listagem de endereços IP e a adição de chaves SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Gerando uma chave SSH](/help/administrating/control-panel/generate-ssh-key.md)
       + [Conexão com um servidor SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [Delegar subdomínios](/help/administrating/control-panel/subdomain-delegation.md)
       + [Adicionar certificados SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Gerenciamento de certificados SSL](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Gerenciamento de registros TXT do Google](/help/administrating/control-panel/google-txt-record-management.md)
+      + [Geração e instalação de chaves GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
       + [Solução de problemas](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-Connector}
-      + [Como entender o conector de dados da plataforma Adobe Experience](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+      + [Noções básicas sobre o conector de dados Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mapeamento de recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Mapeamento de Eventos de experiência](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Mapeamento de dados da tabela semente](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
