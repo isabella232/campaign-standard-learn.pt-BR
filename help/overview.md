@@ -3,7 +3,7 @@ title: Tutoriais de Adobe Campaign Standard - Visão geral
 description: O Adobe Campaign fornece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e capacidades do Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 3f3fec14bcd2777146a08a269c298f9b8ca17acd
+source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 21%
@@ -17,15 +17,17 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
 
 ## Novidades
 
-* **[Painel de controle Geração e instalação de teclas GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
+* **[Painel de controle - Geração e instalação de teclas GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
    *Saiba como gerar e instalar um novo par de chaves GPG públicas/privadas em uma instância especificada e como importar e instalar uma chave pública para a instância do Adobe Campaign.*
 
-* **[Atividade de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
+* **[Atividade de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+
    *Saiba como configurar e executar um fluxo de trabalho com a atividade de API externa.*
 
-* **[Substituição de Perfil - Testando mensagens de email usando perfis direcionados](/help/communication-channels/email/profile-substitution.md)**   <br>
-   *Saiba como enviar uma prova para revisão com a representação exata da mensagem que o perfil receberá.*
+* **[Substituição de Perfil - Testando mensagens de email usando perfis direcionados](/help/communication-channels/email/profile-substitution.md)**
 
+   *Saiba como enviar uma prova para revisão com a representação exata da mensagem que o perfil receberá.*
 
 ## Separações de Pessoal
 
