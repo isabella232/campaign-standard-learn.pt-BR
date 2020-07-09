@@ -1,6 +1,6 @@
 ---
 title: Painel de controle do Campaign
-description: O Painel de controle permite que você monitore e gerencie seu armazenamento SFTP por instância e permita endereços IP de lista.
+description: O Painel de controle permite que você monitore e gerencie seu armazenamento SFTP por instância e endereços IP de lista de permissões.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
+source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '386'
 ht-degree: 5%
 
 ---
@@ -60,7 +60,7 @@ O vídeo a seguir explica como adicionar um administrador a uma instância de Ca
 
 * **Gerenciamento de servidores SFTP**
 
-   *Saiba como monitorar a capacidade do servidor, permitir endereços IP de lista e adicionar chaves SSH*
+   *Saiba como monitorar a capacidade do servidor, lista de permissões endereços IP e adicionar chaves SSH:*
 
    * [Monitorando a capacidade do servidor, permitindo a listagem de endereços IP e a adição de chaves SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Gerando uma Chave SSH](/help/administrating/control-panel/generate-ssh-key.md)
@@ -78,9 +78,13 @@ O vídeo a seguir explica como adicionar um administrador a uma instância de Ca
 
    *Saiba como adicionar o registro de verificação de site do Google TXT a todos os seus subdomínios usados para enviar emails para endereços GMAIL por meio do Painel de controle de Campanha.*
 
-* **[Geração e instalação de chaves GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **Gerenciamento de chaves GPG**
 
-   *Saiba como gerar e instalar um novo par de chaves GPG públicas/privadas em uma instância especificada e como importar e instalar uma chave pública para a instância do Adobe Campaign.*
+   *Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância de Campanha especificada para a criptografia de dados de saída, bem como importar e instalar uma chave pública em uma instância de Campanha para a descriptografia de dados de entrada:*
+
+   * [Geração e instalação de chaves GPG para criptografia de dados](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   * [Uso de uma chave GPG para criptografar dados](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   * [Descriptografia de dados](./gpg-key-management/decrypting-data.md)
 
 * **[Solução de problemas](/help/administrating/control-panel/trouble-shooting.md)**
 
