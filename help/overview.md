@@ -3,9 +3,9 @@ title: Tutoriais de Adobe Campaign Standard - Visão geral
 description: O Adobe Campaign fornece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e capacidades do Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '308'
 ht-degree: 21%
 
 ---
@@ -17,9 +17,9 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
 
 ## Novidades
 
-* **[Painel de controle - Geração e instalação de teclas GPG](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **[Gerenciamento de chaves GPG](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Saiba como gerar e instalar um novo par de chaves GPG públicas/privadas em uma instância especificada e como importar e instalar uma chave pública para a instância do Adobe Campaign.*
+   *Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância de Campanha especificada para a criptografia de dados de saída, bem como importar e instalar uma chave pública em uma instância de Campanha para a descriptografia de dados de entrada.*
 
 * **[Atividade de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
