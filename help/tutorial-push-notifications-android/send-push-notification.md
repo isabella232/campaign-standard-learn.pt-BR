@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 3%
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 Agora precisamos criar e enviar um Adobe Campaign [!UICONTROL Push Notification] usando. . Para criar uma notificação por push simples para fins de teste, siga as etapas a seguir.
 
-* Faça logon na sua instância do Adobe Campaign Standard
+* Faça logon na sua instância Adobe Campaign Standard
 * Clique em **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
 * Select **[!UICONTROL Send push to app subscribers(mobileApp)]** and click Next
 * Selecione o aplicativo móvel apropriado na lista **[!UICONTROL Associate a Mobile App to a delivery]** suspensa e clique em **[!UICONTROL Next]**
