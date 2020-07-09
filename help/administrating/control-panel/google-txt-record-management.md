@@ -8,17 +8,17 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 1%
+ht-degree: 24%
 
 ---
 
 
 # [!DNL Google] Gerenciamento de registros TXT
 
-Para garantir altas taxas de caixa de entrada e baixas taxas de spam, alguns serviços como [!DNL Google] o exigem a adição de um registro TXT à configuração do domínio para verificar se você é o proprietário do domínio. Os registros TXT são um tipo de registro DNS usado para fornecer informações de texto sobre um domínio, que pode ser lido por fontes externas.
+To ensure high inbox rates and low spam rates, some services like [!DNL Google] require that you add a TXT record to your domain setting to verify that you own the domain. Os registros TXT são um tipo de registro DNS usado para fornecer informações de texto sobre um domínio, que pode ser lido por fontes externas.
 
 O vídeo abaixo descreve como você pode adicionar registros de verificação do site [!DNL Google] TXT a todos os seus subdomínios usados para enviar emails para endereços GMAIL com [!UICONTROL Campaign Control Panel].
 
