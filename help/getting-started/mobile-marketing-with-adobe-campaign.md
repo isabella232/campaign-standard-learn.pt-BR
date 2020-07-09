@@ -1,6 +1,6 @@
 ---
 title: Marketing móvel com Adobe Campaign
-description: Este vídeo explica quais recursos do Adobe Campaign Standard suportam sua estratégia de marketing móvel.
+description: Este vídeo explica quais recursos de Adobe Campaign Standard podem suportar sua estratégia de marketing móvel.
 feature: Mobile
 topics: null
 kt: 3976
@@ -8,7 +8,7 @@ doc-type: value video
 activity: understand
 team: PMM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 3%
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 # Marketing móvel com Adobe Campaign
 
-Este vídeo explica quais recursos do Adobe Campaign Standard suportam sua estratégia de marketing móvel.
+Este vídeo explica quais recursos de Adobe Campaign Standard podem suportar sua estratégia de marketing móvel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12)
 
