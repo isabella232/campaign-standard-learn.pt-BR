@@ -1,6 +1,6 @@
 ---
 title: Introdução ao relatórios
-description: Este vídeo fornece uma visão geral sobre os recursos do relatórios Standard para Adobe Campaign
+description: Este vídeo oferece uma visão geral sobre os recursos do relatórios
 feature: Dynamic Reports
 topics: null
 kt: 3974
@@ -8,7 +8,7 @@ doc-type: value video
 activity: understand
 team: PMM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 3%
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 # Introdução ao relatórios
 
-Este vídeo fornece uma visão geral sobre os recursos do relatórios Standard para Adobe Campaign
+Este vídeo oferece uma visão geral sobre os recursos do relatórios
 
 >[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12)
 
