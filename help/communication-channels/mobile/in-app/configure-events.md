@@ -1,6 +1,6 @@
 ---
 title: Configurar Eventos
-description: 'Ao configurar uma mensagem no aplicativo nos eventos do Adobe Campaign Standard (ACS), defina qual ação iniciada pelo usuário disparará a mensagem a ser exibida. '
+description: 'Ao configurar uma mensagem no aplicativo em eventos Adobe Campaign Standard (ACS), defina qual ação iniciada pelo usuário disparará a mensagem a ser exibida. '
 feature: In-App
 topics: Mobile
 kt: 2548
@@ -10,8 +10,8 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -59,7 +59,7 @@ As três categorias a seguir são suportadas, dependendo do instrumentado no apl
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] requer uma licença do Adobe Analytics. Depois que você tiver a extensão [[!DNL Analytics] configurada](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) e tiver adicionado o [Analytics ao seu aplicativo](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), esses eventos ficarão disponíveis na [!UICONTROL In-App] configuração no ACS.
+>[!UICONTROL Analytics events] exigir uma licença da Adobe Analytics. Depois que você tiver a [[!DNL Analytics] extensão configurada](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) e tiver adicionado o [Analytics ao seu aplicativo](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), esses eventos ficarão disponíveis na configuração do [!UICONTROL In-App] ACS.
 
 ## Recursos adicionais
 
