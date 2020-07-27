@@ -1,6 +1,6 @@
 ---
-title: Problemas ao fotografar o Painel de controle
-description: O Painel de controle permite que você monitore e gerencie seu armazenamento SFTP por instância e permita endereços IP de lista.
+title: Problemas ao tirar o Painel de controle do Campaign
+description: O Painel de controle do Campaign permite que você monitore e gerencie seu armazenamento SFTP por instância e endereços IP de lista de permissões.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -10,15 +10,15 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '330'
 ht-degree: 1%
 
 ---
 
 
-# Problema ao fotografar o [!UICONTROL Control Panel}
+# Problema ao fotografar o [!UICONTROL Painel de controle do Campaign}
 
-Saiba como solucionar problemas ao usar o Painel de controle.
+Saiba como solucionar problemas ao usar o Painel de controle do Campaign.
 
 ## Logon e página inicial
 
@@ -40,7 +40,7 @@ O administrador precisa adicionar o usuário ao [!UICONTROL product profile] *[!
 ### Sintoma: Uma Instância não está listada no [!UICONTROL Control Panel]
 
 **Causa:**
-Provavelmente, o usuário precisa ser adicionado como um Perfil *[!UICONTROL user]* de Produto `!DNL Campaign-xxx-Administrators/Admin` para a instância que está faltando
+Provavelmente, o usuário precisa ser adicionado como um Perfil *[!UICONTROL user]* de Produto `!DNL Campaign-xxx-Administrators/Admin` para a instância que está ausente
 
 **O que fazer:**
 O administrador precisa adicionar o usuário ao Perfil do Produto `Campaign-xxx-Admins` para cada instância que ele deseja gerenciar. Se o usuário for um administrador de todas as instâncias, ainda será necessário adicioná-lo como *[!UICONTROL user]*.
@@ -55,8 +55,8 @@ O administrador precisa adicionar o usuário ao Perfil do Produto `Campaign-xxx-
 
 ### Documentação útil
 
-* [Descubra o [!Painel de Controle UICONTROL]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [Gerenciando permissões para o [!Painel de Controle do UICONTROL]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
+* [Descubra o [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
+* [Gerenciamento de permissões para o [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
 
 ## Estabelecendo conexão com o servidor SFTP (cliente ou API)
 
