@@ -21,9 +21,10 @@ ht-degree: 9%
 >[!NOTE]
 >
 >Esse recurso está atualmente em beta e sujeito a atualizações e modificações frequentes sem aviso prévio.
+>
 >Entre em contato se [!UICONTROL Adobe Customer Support] planeja implementar esse recurso.
 
-Saiba como verificar o status de um trabalho de ingestão de dados e se os dados foram assimilados do Adobe Campaign Standard para a Adobe Experience Platform.
+Saiba como verificar o status de um trabalho de ingestão de dados e se os dados foram ingeridos do Adobe Campaign Standard para o Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
 
@@ -31,4 +32,4 @@ Saiba como verificar o status de um trabalho de ingestão de dados e se os dados
 
 * [Definição de mapeamento](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Ativação de mapeamento](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
-* [Acionando a ingestão de dados por meio de APIs](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)
+* [Acionando a assimilação de dados por meio de APIs](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)
