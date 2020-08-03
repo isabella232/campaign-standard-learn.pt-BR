@@ -10,13 +10,13 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '330'
 ht-degree: 1%
 
 ---
 
 
-# Problemas ao fotografar a [!UICONTROL Control Panel]
+# Problema ao fotografar o [!UICONTROL Painel de controle do Campaign}
 
 Saiba como solucionar problemas ao usar o Painel de controle do Campaign.
 
@@ -24,7 +24,7 @@ Saiba como solucionar problemas ao usar o Painel de controle do Campaign.
 
 Problemas que ocorrem com o logon e a página inicial.
 
-### Sintoma: Não é possível fazer logon na Adobe Experience Cloud
+### Sintoma: Não é possível fazer logon no Adobe Experience Cloud
 
 **O que fazer:**
 O usuário precisa localizar seus [!DNL IMS Org ID] (xxx). O administrador precisa adicionar o usuário ao [!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”] para cada instância que ele deseja gerenciar. Se o usuário for um administrador de todas as instâncias, ainda será necessário adicioná-lo como *[!UICONTROL user]*.
@@ -40,7 +40,7 @@ O administrador precisa adicionar o usuário ao [!UICONTROL product profile] *[!
 ### Sintoma: Uma Instância não está listada no [!UICONTROL Control Panel]
 
 **Causa:**
-Provavelmente, o usuário precisa ser adicionado como um Perfil *[!UICONTROL user]* de Produto `!DNL Campaign-xxx-Administrators/Admin` para a instância que está ausente
+Provavelmente, o usuário precisa ser adicionado como um Perfil *[!UICONTROL user]* de Produto `!DNL Campaign-xxx-Administrators/Admin` para a instância que está faltando
 
 **O que fazer:**
 O administrador precisa adicionar o usuário ao Perfil do Produto `Campaign-xxx-Admins` para cada instância que ele deseja gerenciar. Se o usuário for um administrador de todas as instâncias, ainda será necessário adicioná-lo como *[!UICONTROL user]*.
