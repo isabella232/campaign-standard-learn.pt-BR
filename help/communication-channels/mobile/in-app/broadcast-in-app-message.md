@@ -1,6 +1,6 @@
 ---
 title: 'Transmitir uma mensagem no aplicativo '
-description: O modelo Transmitir uma mensagem no aplicativo permite que você público alvo todos os usuários do aplicativo móvel com o Adobe Campaign Standard (ACS)
+description: O modelo Transmitir uma mensagem no aplicativo permite que você público alvo (ACS) Adobe Campaign Standard a todos os usuários do aplicativo móvel
 feature: In-App
 topics: Mobile
 kt: 2497
