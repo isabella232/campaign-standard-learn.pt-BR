@@ -1,6 +1,6 @@
 ---
 title: Adicionar certificados SSL
-description: O Painel de controle de Adobe Campaign permite que você adicione certificados SSL para proteger seus subdomínios.
+description: O Painel de controle do Campaign Adobe Campaign permite que você adicione certificados SSL para proteger seus subdomínios.
 feature: Control Panel
 topics: null
 kt: 4219
@@ -24,7 +24,7 @@ ht-degree: 6%
 
 Para acessar o Gerenciamento de subdomínio em [!UICONTROL Control Panel], acesse:
 
-* [Página inicial](https://experience.adobe.com/#/home) da Experience Cloud > [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** cartão > Cartão [!UICONTROL **Subdomínios e certificados **]
+* [Página inicial](https://experience.adobe.com/#/home) do Experience Cloud > [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** cartão > Cartão [!UICONTROL **Subdomínios e certificados **]
 
    ou
 * Diretamente do URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
