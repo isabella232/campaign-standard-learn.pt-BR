@@ -1,12 +1,12 @@
 ---
-title: Tutoriais de Adobe Campaign Standard - Visão geral
+title: Adobe Campaign Standard Tutorials - Visão geral
 description: O Adobe Campaign fornece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e capacidades do Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 21%
+source-wordcount: '280'
+ht-degree: 23%
 
 ---
 
@@ -24,10 +24,6 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
 * **[Atividade de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
    *Saiba como configurar e executar um fluxo de trabalho com a atividade de API externa.*
-
-* **[Substituição de Perfil - Testando mensagens de email usando perfis direcionados](/help/communication-channels/email/profile-substitution.md)**
-
-   *Saiba como enviar uma prova para revisão com a representação exata da mensagem que o perfil receberá.*
 
 ## Separações de Pessoal
 
