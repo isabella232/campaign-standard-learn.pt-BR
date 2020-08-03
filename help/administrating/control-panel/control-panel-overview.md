@@ -1,6 +1,6 @@
 ---
 title: Painel de controle do Campaign
-description: O Painel de controle permite que você monitore e gerencie seu armazenamento SFTP por instância e endereços IP de lista de permissões.
+description: O Painel de controle do Campaign permite que você monitore e gerencie seu armazenamento SFTP por instância e endereços IP de lista de permissões.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -20,13 +20,13 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->Os termos &quot;[!UICONTROL whitelist]&quot; e &quot;[!UICONTROL blacklist]&quot; foram substituídos pelos termos &quot;[!UICONTROL allow list]&quot; e &quot;[!UICONTROL block list]&quot;na documentação do Adobe Campaign. Algumas ocorrências desses termos ainda podem existir na interface do usuário do produto, nomes de opções, código interno, bem como nos vídeos de tutoriais. Eles serão substituídos nas próximas versões do Painel de controle.
+>Os termos &quot;[!UICONTROL whitelist]&quot; e &quot;[!UICONTROL blacklist]&quot; foram substituídos pelos termos &quot;[!UICONTROL allow list]&quot; e &quot;[!UICONTROL block list]&quot;na documentação do Adobe Campaign. Algumas ocorrências desses termos ainda podem existir na interface do usuário do produto, nomes de opções, código interno, bem como nos vídeos de tutoriais. Eles serão substituídos em versões futuras do Painel de controle do Campaign.
 
 O [!UICONTROL Control Panel] permite que os administradores de Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância ou endereços [!UICONTROL allow list] IP.
 
 ## Acesso [!UICONTROL Control Panel]
 
-Para acessar o Painel de controle, acesse a Página inicial do Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Para acessar o Painel de controle do Campaign, acesse a página inicial do Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -56,7 +56,7 @@ O vídeo a seguir explica como adicionar um administrador a uma instância de Ca
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 *Como adicionar um administrador ao perfil &quot;[!UICONTROL Administrators]&quot; do produto para poder usar[!UICONTROL Control Panel](01:03 min)*
 
-## Tutoriais do painel de controle
+## Tutorials Painéis de controle do Campaign
 
 * **Gerenciamento de servidores SFTP**
 
@@ -76,7 +76,7 @@ O vídeo a seguir explica como adicionar um administrador a uma instância de Ca
    *Saiba como você pode visualização o status dos certificados SSL de seus subdomínios, bem como solicitar renovações.*
 * **[Gerenciamento de registros TXT do Google](/help/administrating/control-panel/google-txt-record-management.md)**
 
-   *Saiba como adicionar o registro de verificação de site do Google TXT a todos os seus subdomínios usados para enviar emails para endereços GMAIL por meio do Painel de controle de Campanha.*
+   *Saiba como adicionar o registro de verificação de site do Google TXT a todos os seus subdomínios usados para enviar emails para endereços GMAIL por meio do Painel de controle do Campaign de Campanha.*
 
 * **Gerenciamento de chaves GPG**
 
@@ -88,9 +88,9 @@ O vídeo a seguir explica como adicionar um administrador a uma instância de Ca
 
 * **[Solução de problemas](/help/administrating/control-panel/trouble-shooting.md)**
 
-   *Saiba como solucionar problemas no Painel de controle*
+   *Entenda como solucionar problemas do Painel de controle do Campaign*
 
 ## Recursos adicionais
 
-* [Centro de ajuda do painel de controle](https://docs.adobe.com/content/help/pt-BR/control-panel/using/control-panel-home.translate.html)
+* [Centro de ajuda do Painel de controle do Campaign](https://docs.adobe.com/content/help/pt-BR/control-panel/using/control-panel-home.html)
 
