@@ -1,6 +1,6 @@
 ---
 title: Configurar uma lista
-description: 'Este vídeo explica como você pode alterar as colunas exibidas, a ordem e a ordem de classificação de uma visualização de lista Standard.  '
+description: 'Este vídeo explica como você pode alterar as colunas exibidas, a ordem e a ordem de classificação de uma visualização de lista.  '
 feature: UI
 topics: null
 kt: 1821
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Configurar uma lista
 
-Este vídeo explica como você pode alterar as colunas exibidas, a ordem e a ordem de classificação de uma visualização de lista Standard.
+Este vídeo explica como você pode alterar as colunas exibidas, a ordem e a ordem de classificação de uma visualização de lista.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25288/?quality=12)
