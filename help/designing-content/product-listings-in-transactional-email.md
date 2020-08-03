@@ -22,7 +22,7 @@ Você pode configurar um email de redirecionamento que tenha uma lista de produt
 
 Os vídeos a seguir explicam as etapas necessárias para configurar [!UICONTROL product listings] o [!UICONTROL transactional emails].
 
->[OBSERVAÇÃO]
+>[ OBSERVAÇÃO ]
 >
 >Esse recurso é conhecido como Loop nos vídeos.
 
