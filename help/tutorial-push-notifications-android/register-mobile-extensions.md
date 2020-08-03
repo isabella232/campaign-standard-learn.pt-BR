@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Etapa 3 - Registrar extensões com seu aplicativo móvel
 
-Nesta parte, adicionaremos o código para registrar as extensões Perfil do usuário, Identidade, Ciclo de vida e Sinal. Essas extensões fazem parte de [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Também será necessário registrar a extensão do Adobe Campaign Standard, conforme mostrado no código abaixo.
+Nesta parte, adicionaremos o código para registrar as extensões Perfil do usuário, Identidade, Ciclo de vida e Sinal. Essas extensões fazem parte do [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Também será necessário registrar a extensão Adobe Campaign Standard, conforme mostrado no código abaixo.
 
 Abra seu projeto no [!DNL Android] estúdio. Exclua o código inteiro no MainApp, **exceto a primeira linha que é a declaração** do pacote.
 
