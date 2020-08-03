@@ -1,6 +1,6 @@
 ---
 title: Solicitações de privacidade com o Adobe Campaign Standard (ACS) - Visão geral
-description: O tutorial explica como criar solicitações de privacidade por meio da interface do Adobe Campaign Standard (ACS).
+description: O tutorial explica como criar solicitações de privacidade por meio da interface Adobe Campaign Standard (ACS).
 feature: GDPR, CCAP
 topic: Privacy
 kt: 1480
@@ -16,11 +16,11 @@ ht-degree: 7%
 ---
 
 
-# Solicitações de privacidade com a interface de usuário padrão do Adobe Campaign
+# Solicitações de privacidade com a interface de usuário do Adobe Campaign Standard
 
 O Adobe Campaign oferta Data Controller utiliza três métodos para executar o acesso à privacidade e excluir solicitações de dados PII em conformidade com atos de privacidade, como o GDPR (General Data Protection Regulation) e o CCPA (California Consumer Privacy Act):
 
-* **Através da integração do Privacy Core Service:** As solicitações de privacidade enviadas de todas [!UICONTROL Privacy Service] para todas as soluções da Experience Cloud são automaticamente tratadas pela Campanha por meio de um fluxo de trabalho dedicado. Consulte o [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html) para saber como criar solicitações de privacidade do Privacy Core Service
+* **Através da integração do Privacy Core Service:** As solicitações de privacidade enviadas de [!UICONTROL Privacy Service] para todas as soluções de Experience Cloud são automaticamente tratadas pela Campanha por meio de um fluxo de trabalho dedicado. Refer to the [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html) to learn how to create privacy requests from the Privacy Core Service
 
 * **Pela API:** O Adobe Campaign fornece uma API que permite o processo automático de solicitações de privacidade usando REST
 
@@ -30,7 +30,7 @@ O Adobe Campaign oferta Data Controller utiliza três métodos para executar o a
 >
 > **ALTERAÇÕES COM ACS 19.4:**
 > 
-> A integração [](https://adobe.io/apis/cloudplatform/gdpr.html) do Privacy Service é o método que você deve usar para todas as solicitações de acesso e exclusão. A partir da versão 19.4, o uso da API e da interface do Campaign para solicitações de acesso e exclusão ficará obsoleto. Para obter mais informações sobre os recursos desaprovados e removidos do Campaign Standard, consulte [esta página](https://helpx.adobe.com/br/campaign/kb/acs-deprecated-and-removed-features.html).
+> The [Privacy Service integration](https://adobe.io/apis/cloudplatform/gdpr.html) is the method you should use for all access and delete requests. A partir da versão 19.4, o uso da API e da interface do Campaign para solicitações de acesso e exclusão ficará obsoleto. Para obter mais informações sobre os recursos desaprovados e removidos do Campaign Standard, consulte [esta página](https://helpx.adobe.com/br/campaign/kb/acs-deprecated-and-removed-features.html).
 >
 >**Recusar a venda de informações pessoais (CCPA)**
 >
@@ -38,7 +38,7 @@ O Adobe Campaign oferta Data Controller utiliza três métodos para executar o a
 >
 > Você pode verificar sua versão clicando em ? no canto superior direito da interface e selecionando Sobre.
 
-## Tutoriais em vídeo
+## Tutorials de vídeo
 
 ### Pré-requisitos para solicitações de privacidade
 
@@ -55,4 +55,4 @@ O Adobe Campaign oferta Data Controller utiliza três métodos para executar o a
 * [Diretrizes gerais de privacidade para Campanhas](https://helpx.adobe.com/br/campaign/kb/campaign-privacy-overview.html)
 * [CCPA para ACS](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
 * [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html)
-* [Documentação da API REST padrão do Adobe Campaign](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
+* [Documentação da API Adobe Campaign Standard REST](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
