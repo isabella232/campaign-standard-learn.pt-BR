@@ -21,9 +21,10 @@ ht-degree: 5%
 >[!NOTE]
 >
 >Esse recurso está atualmente em beta e sujeito a atualizações e modificações frequentes sem aviso prévio.
+>
 >Entre em contato se [!UICONTROL Adobe Customer Support] planeja implementar esse recurso.
 
-Saiba como mapear diferentes tipos de dados entre o Adobe Campaign Standard e a Adobe Experience Platform.
+Saiba como mapear diferentes tipos de dados entre Adobe Campaign Standard e Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?quality=12)
 
