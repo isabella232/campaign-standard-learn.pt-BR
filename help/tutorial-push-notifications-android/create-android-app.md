@@ -1,6 +1,6 @@
 ---
 title: Etapa 1 - Criar aplicativo Android e configurar para usar o Firebase Cloud Messaging
-description: Nesta parte, criaremos o aplicativo [!DNL Android] para receber [!UICONTROL Push notifications] enviadas do Adobe Campaign Standard. Para receber notificações por push, o aplicativo precisa ser registrado com o [!DNL Firebase Cloud Service] do Google.
+description: Nesta parte, vamos [!DNL Android] App to receive [!UICONTROL Push notifications] criar a partir de Adobe Campaign Standard. Para receber notificações por push, o aplicativo precisa ser registrado no Google [!DNL Firebase Cloud Service].
 feature: Push
 topics: Mobile
 kt: 4825
@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '316'
 ht-degree: 2%
 
 ---
@@ -58,7 +58,7 @@ Na integração bem-sucedida de seu aplicativo com o Firebase, você deve recebe
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[Certifique-se de que seu projeto esteja listado no console [!DNL Firebase ]](https://console.firebase.google.com/)
+[Verifique se o projeto está listado [!DNL Firebase ]no console](https://console.firebase.google.com/)
 
 ## Definir [!UICONTROL Push Channel] configurações
 
@@ -68,12 +68,12 @@ Na integração bem-sucedida de seu aplicativo com o Firebase, você deve recebe
 
    ![project-settings](assets/firebase-project-settings.PNG)
 
-4. Pressione até a **[!UICONTROL Cloud Messaging]** guia.
+4. Tab to the **[!UICONTROL Cloud Messaging]** tab.
 5. Copiar a chave do servidor
 
    ![chave de servidor](assets/firebase-server-key.PNG)
 
-6. Faça logon na sua instância do Adobe Campaign Standard
+6. Faça logon na sua instância Adobe Campaign Standard
 7. Click **[!UICONTROL Adobe Campaign]** > **[!UICONTROL Administration]** > **[!UICONTROL Channels]** > **[!UICONTROL Mobile App].**
 8. Selecione a opção apropriada **[!UICONTROL Mobile Application Property].**
 9. Click the **[!DNL Android]icon **in the **[!UICONTROL Push Channel settings]**section.
