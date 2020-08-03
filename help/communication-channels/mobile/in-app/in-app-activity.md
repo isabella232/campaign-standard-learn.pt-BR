@@ -13,18 +13,18 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
 
 # Criar um [!UICONTROL In-App] delivery em um fluxo de trabalho
 
-A atividade delivery no aplicativo é geralmente usada para automatizar o envio de uma [!UICONTROL In-App] mensagem para uma audiência de público alvo calculada no mesmo fluxo de trabalho.
+The In-App delivery activity is generally used to automate sending an [!UICONTROL In-App] message to a target audience calculated in the same workflow.
 
 Os recipient são definidos como upstream da atividade no mesmo fluxo de trabalho, por meio de atividades de definição de metas, como query, interseções etc.
 
-A preparação da mensagem é acionada de acordo com os parâmetros de execução do fluxo de trabalho. No painel da mensagem, você pode optar por solicitar uma confirmação manual para enviar a mensagem (obrigatório por padrão). Você pode start o fluxo de trabalho manualmente ou colocar uma atividade de scheduler no fluxo de trabalho para automatizar a execução.
+A preparação da mensagem é acionada de acordo com os parâmetros de execução do workflow. No painel da mensagem, você pode optar por solicitar uma confirmação manual para enviar a mensagem (obrigatório por padrão). Você pode iniciar o workflow manualmente ou colocar uma atividade de scheduler no workflow para automatizar a execução.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12)
 
