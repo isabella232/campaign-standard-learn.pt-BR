@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -25,7 +25,7 @@ Adobe Campaign tem dois tipos ou perfis:
 
 Perfis que são agrupados de acordo com um ou vários critérios comuns são chamados de **audiências**.
 
-Este vídeo explica como navegar até perfis existentes e como criar perfis e audiências no Adobe Campaign Standard.
+Este vídeo explica como navegar para perfis existentes e como criar perfis e audiências no Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
 
