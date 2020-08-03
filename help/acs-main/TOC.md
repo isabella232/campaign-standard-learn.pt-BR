@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Tutoriais de Adobe Campaign Standard
+user-guide-title: Tutorials Adobe Campaign Standard
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Liga de experiência
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -11,8 +11,8 @@ getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard
 translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 9%
+source-wordcount: '529'
+ht-degree: 11%
 
 ---
 
@@ -37,9 +37,9 @@ ht-degree: 9%
    + [Criar perfis e audiências - Visão geral](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Criar um perfil](/help/profiles-and-audiences/creating-a-profile.md)
    + [Criar um perfil de teste](/help/profiles-and-audiences/test-profiles.md)
-   + [Importar perfis com um fluxo de trabalho](/help/managing-processes-and-data/importing-profiles.md)
+   + [Importação de perfis com um fluxo de trabalho](/help/managing-processes-and-data/importing-profiles.md)
    + [Gerenciar serviços e subscrições](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + Destinos da Audiência (BETA){#audience-destinations}
+   + Audience Destinations (BETA){#audience-destinations}
       + [Visão geral](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Criar uma nova audiência usando o Construtor de segmentos unificados](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Ativar audiências Adobe Experience Platform em um fluxo de trabalho](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
@@ -57,6 +57,7 @@ ht-degree: 9%
    + Celular {#mobile}
       + SMS{#sms}
          + [Criar um delivery SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [Criar um email multilíngue ou um delivery SMS](/help/communication-channels/create-multilingual-deliveries.md)
          + [Converter um email, delivery SMS ou modelo existente em multilíngue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Notificações por push {#push}
          + [Criar uma notificação por push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
@@ -71,7 +72,7 @@ ht-degree: 9%
          + [Relatório sobre seu delivery no aplicativo](/help/communication-channels/mobile/in-app/in-app-reporting.md)
       + [Configurar um aplicativo móvel usando o SDK do Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
    + [Correspondência direta](/help/communication-channels/direct-mail/directmail.md)
-   + Páginas de aterrissagem {#landing-pages}
+   + Landing pages {#landing-pages}
       + [Criar e editar uma landing page](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [Testar e publicar uma landing page](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [Configurar um modelo de landing page](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
@@ -86,11 +87,12 @@ ht-degree: 9%
    + [Configurar listas de produtos em emails transacionais](/help/designing-content/product-listings-in-transactional-email.md)
 + Gerenciamento de processos e dados {#managing-processes-and-data}
    + [Criar um fluxo de trabalho](/help/managing-processes-and-data/create-workflow.md)
+   + [Importação de perfis com um fluxo de trabalho](/help/managing-processes-and-data/importing-profiles.md)
    + Execution Activities {#execution-activities}
       + [Atividade de sinal externo](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Data Management Activities {#data-management-activities}
       + [Atividade de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Relatório {#reporting}
++ Relatórios {#reporting}
    + [Como explorar relatórios](/help/getting-started/exploring-reports.md)
    + [Criação de um relatório dinâmico](/help/reporting/creating-a-dynamic-report.md)
    + [Criação de um relatório com base em atributos de perfil personalizados](/help/reporting/custom-profile-attributes-dynamic-reports.md)
@@ -101,7 +103,7 @@ ht-degree: 9%
 + Administração {#administrating}
    + [Gerenciamento de direitos de acesso do usuário](/help/administrating/managing-user-access-rights.md)
    + Painel de controle do Campaign {#control-panel}
-      + [Visão geral do painel de controle](/help/administrating/control-panel/control-panel-overview.md)
+      + [Visão geral do Painel de controle do Campaign](/help/administrating/control-panel/control-panel-overview.md)
       + [Monitorando a capacidade do servidor, permitindo a listagem de endereços IP e a adição de chaves SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Gerando uma chave SSH](/help/administrating/control-panel/generate-ssh-key.md)
       + [Conexão com um servidor SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
@@ -131,3 +133,5 @@ ht-degree: 9%
    + [Modificação de recursos personalizados para solicitações de privacidade](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Criação e rastreamento manual de solicitações de privacidade](/help/privacy/create-and-track-privacy-requests.md)
    + [Execução de solicitações de privacidade](/help/privacy/execute-privacy-requests.md)
++ [Guia de práticas recomendadas de entrega de Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
