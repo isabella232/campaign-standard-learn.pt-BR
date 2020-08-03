@@ -1,6 +1,6 @@
 ---
 title: Configure a visualização móvel no Designer de email
-description: Este vídeo explica como ajustar o design responsivo de um email no Adobe Campaign Standard (ACS) editando separadamente todas as opções de estilo para exibição móvel.
+description: Este vídeo explica como ajustar o design responsivo de um email no ACS (Adobe Campaign Standard) editando separadamente todas as opções de estilo para exibição móvel.
 feature: Email Designer
 topics: null
 kt: 2423
