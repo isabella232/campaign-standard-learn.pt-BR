@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # Gerenciamento de chaves GPG - Visão geral
 
-O GPG (GnuPG) criptografa mensagens usando pares de chaves individuais assimétricos. Para implementar a criptografia GPG com Campanha, as chaves GPG devem ser instaladas e/ou geradas em uma instância de marketing por um usuário administrador diretamente do Painel de controle.
+O GPG (GnuPG) criptografa mensagens usando pares de chaves individuais assimétricos. Para implementar a criptografia GPG com Campanha, as chaves GPG devem ser instaladas e/ou geradas em uma instância de marketing por um usuário administrador diretamente do Painel de controle do Campaign.
 
 Os vídeos a seguir explicam como gerar e instalar um par de chaves públicas/privadas em uma instância de Campanha especificada para a criptografia de dados de saída, bem como importar e instalar uma chave pública em uma instância de Campanha para a descriptografia de dados de entrada.
 
