@@ -25,6 +25,7 @@ Ao configurar o Adobe Campaign Standard para lidar com solicitações de privaci
 >[!NOTE]
 >
 >**Recusar a venda de informações pessoais (CCPA)**
+>
 >A partir do 19.4, um campo de opção de não participação CCPA é fornecido prontamente na interface de Campanha e na API. Para 19.3, para aproveitar essas informações, é necessário criar esse campo >no Adobe Campaign Standard. Consulte a documentação [](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) detalhada para obter mais informações.
 >
 > Você pode verificar sua versão clicando em ? no canto superior direito da interface e selecionando Sobre.
