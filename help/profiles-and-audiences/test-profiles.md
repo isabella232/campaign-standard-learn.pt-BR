@@ -1,6 +1,6 @@
 ---
 title: Criar um perfil de teste
-description: Os perfis de teste permitem público alvo de recipient adicionais que não correspondem aos critérios de definição de metas definidos. Eles são adicionados à audiência de uma mensagem para detectar qualquer uso fraudulento do banco de dados do seu recipient ou para garantir que os e-mails cheguem às caixas de entrada.
+description: Os perfis de teste permitem direcionar recipients adicionais que não correspondem aos critérios de direcionamento definidos. Eles são adicionados ao público-alvo de uma mensagem para detectar qualquer uso fraudulento do seu banco de dados de recipients ou para garantir que os emails cheguem às caixas de entrada.
 feature: Profiles and Audiences
 topic: null
 kt: 1810
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 1%
+ht-degree: 72%
 
 ---
 
 
 # Criar um perfil de teste {#creating-a-test-profile}
 
-Os perfis de teste permitem público alvo de recipient adicionais que não correspondem aos critérios de definição de metas definidos. Eles são adicionados à audiência de uma mensagem para detectar qualquer uso fraudulento do banco de dados do seu recipient ou para garantir que os e-mails cheguem às caixas de entrada.
+Os perfis de teste permitem direcionar recipients adicionais que não correspondem aos critérios de direcionamento definidos. Eles são adicionados ao público-alvo de uma mensagem para detectar qualquer uso fraudulento do seu banco de dados de recipients ou para garantir que os emails cheguem às caixas de entrada.
 
 Este vídeo explica como criar perfis de teste
 
