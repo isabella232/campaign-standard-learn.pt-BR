@@ -1,6 +1,6 @@
 ---
 title: Introdução às notificações por push com o aplicativo Android
-description: O Adobe Campaign permite enviar notificações por push personalizadas e segmentadas para dispositivos móveis iOS e Android. Essas mensagens são recebidas em aplicativos móveis configurados no Adobe Campaign, aproveitando o SDK do Experience Cloud Mobile V4 ou o SDK da Experience Platform. Este tutorial o guiará pelas etapas envolvidas no envio de notificações por push do Adobe Campaign e no recebimento dessas notificações no aplicativo Android.
+description: O Adobe Campaign permite enviar notificações por push personalizadas e segmentadas para dispositivos móveis iOS e Android. Essas mensagens são recebidas em aplicativos móveis que você configurou no Adobe Campaign, aproveitando o SDK Experience Cloud Mobile V4 ou o SDK Experience Platform. Este tutorial o guiará pelas etapas envolvidas no envio de notificações por push do Adobe Campaign e no recebimento dessas notificações no aplicativo Android.
 feature: Push
 topics: Mobile
 kt: 3846
@@ -11,19 +11,19 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
 # Introdução às notificações por push com o aplicativo Android
 
 O Adobe Campaign permite enviar notificações por push personalizadas e segmentadas para dispositivos móveis iOS e Android.
-Essas mensagens são recebidas em aplicativos móveis configurados no Adobe Campaign, aproveitando o SDK do Experience Cloud Mobile V4 ou o SDK da Experience Platform.
+Essas mensagens são recebidas em aplicativos móveis que você configurou no Adobe Campaign, aproveitando o SDK Experience Cloud Mobile V4 ou o SDK Experience Platform.
 Este tutorial o guiará pelas etapas envolvidas no envio de notificações por push do Adobe Campaign e no recebimento dessas notificações no aplicativo Android.
 
 ## Pré-requisitos
 
-* Você deve ter a propriedade launch configurada com a Extensão do Adobe Campaign Standard. Siga a ajuda online listada abaixo.
+* Você deve ter a propriedade launch configurada com a Extensão Adobe Campaign Standard. Siga a ajuda online listada abaixo.
    * [Tutorial em vídeo](https://video.tv.adobe.com/v/26224?quality=12&captions=por_br)
    * [Documentação](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 
