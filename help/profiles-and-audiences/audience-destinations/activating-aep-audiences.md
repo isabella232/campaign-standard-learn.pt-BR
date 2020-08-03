@@ -1,5 +1,5 @@
 ---
-title: Ativar audiências da plataforma Adobe Experience em um fluxo de trabalho
+title: Ativar audiências Adobe Experience Platform em um fluxo de trabalho
 description: Este vídeo explica como ativar a Audiência de Query dos Serviços de Dados em um fluxo de trabalho usando a atividade ‘Ler audiência’.
 feature: Audience Destinations
 topics: ACOP
@@ -16,26 +16,27 @@ ht-degree: 1%
 ---
 
 
-# Ativar audiências da plataforma Adobe Experience em um fluxo de trabalho [!UICONTROL Adobe Experience Platform Audiences] em um fluxo de trabalho de marketing
+# Ativar audiências Adobe Experience Platform em um fluxo de trabalho [!UICONTROL Adobe Experience Platform Audiences] em um fluxo de trabalho de marketing
 
 >[!NOTE]
 >
->Esse recurso está atualmente em beta e sujeito a atualizações e modificações frequentes sem aviso prévio. [!UICONTROL Audience Destinations] for baseada na plataforma Adobe Experience e exigir uma configuração específica.
+>Esse recurso está atualmente em beta e sujeito a atualizações e modificações frequentes sem aviso prévio. [!UICONTROL Audience Destinations] é baseado no Adobe Experience Platform e requer uma configuração específica.
+>
 >Entre em contato se [!UICONTROL Adobe Customer Support] planeja implementar esse recurso.
 
 Este vídeo explica como ativar o [!UICONTROL Data Services Query Audience] em um fluxo de trabalho usando a [!UICONTROL Read Audience] atividade.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
-*Ativar uma audiência da plataforma Adobe Experience em um fluxo de trabalho (02:37 min)*
+*Ativar uma audiência de Adobe Experience Platform em um fluxo de trabalho (02:37 min)*
 
 ## Recursos adicionais
 
 Documentação:
 
-* [Ativar audiências da plataforma de experiência na Campanha - Documentação](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [Ativar audiências Experience Platform dentro da Campanha - Documentação](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
 
 Recurso de vídeo:
 
 * [Criação de uma nova audiência no Adobe Campaign Standard usando o Construtor de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Alteração do targeting dimension de um delivery para uma Audiência de plataforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Alteração do targeting dimension de um delivery para uma Audiência Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
