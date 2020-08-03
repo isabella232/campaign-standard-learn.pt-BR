@@ -1,6 +1,6 @@
 ---
 title: Introdução ao Adobe Campaign Standard
-description: Este vídeo fornece uma visão geral sobre a interface do usuário do Adobe Campaign Standard e os principais recursos e funcionalidade principal.
+description: Este vídeo oferece uma visão geral sobre a interface do usuário do Adobe Campaign Standard, os principais recursos e a funcionalidade principal.
 feature: User Interface
 topics: null
 kt: null
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 O Adobe Campaign Standard é uma poderosa ferramenta de gestão de campanha entre canais que pode ajudá-lo a alinhar suas estratégias online e offline para criar experiências personalizadas de clientes.
 
-Controle todo o processo de criação, execução e rastreamento de campanhas entre canais, bem como o envio de mensagens que são personalizadas de acordo com o perfil, o comportamento, as preferências e as necessidades dos clientes. Você pode orquestrar, modelar e automatizar facilmente todo o processo de marketing e se integrar com outras soluções da Adobe.
+Controle todo o processo de criação, execução e rastreamento de campanhas entre canais, bem como o envio de mensagens que são personalizadas de acordo com o perfil, o comportamento, as preferências e as necessidades dos clientes. Você pode orquestrar, modelar e automatizar facilmente todo o processo de marketing e integrar-se com outras soluções de Adobe.
 
 Há um conjunto de vídeos de tutoriais disponíveis para ajudá-lo a começar a usar o Adobe Campaign Standard:
 
