@@ -20,12 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Esse recurso está atualmente em beta e sujeito a atualizações e modificações frequentes sem aviso prévio. [!UICONTROL Audience Destinations] for baseada na plataforma Adobe Experience e exigir uma configuração específica.
+>Esse recurso está atualmente em beta e sujeito a atualizações e modificações frequentes sem aviso prévio. [!UICONTROL Audience Destinations] é baseado no Adobe Experience Platform e requer uma configuração específica.
+>
 >Entre em contato se [!UICONTROL Adobe Customer Support] planeja implementar esse recurso.
 
-O Adobe Campaign Standard permite que você crie audiências usando dados do Perfil [do cliente em tempo](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) real da Adobe Experience Cloud usando a plataforma Adobe Experience [!UICONTROL Unified Segment Builder].
+O Adobe Campaign Standard permite que você crie audiências usando dados do Perfil [do cliente em tempo](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) real da Adobe Experience Cloud usando o Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-Você pode acessar o Adobe Campaign Standard [!UICONTROL Unified Segment Builder] diretamente pelo [!UICONTROL Audiences ] módulo. Isso permite gerenciar essas audiências diretamente na visualização da [!UICONTROL Audiences] lista, onde você pode editar ou criar uma nova audiência da plataforma Adobe Experience diretamente da interface do Adobe Campaign
+Você pode acessar o Adobe Campaign Standard [!UICONTROL Unified Segment Builder] diretamente pelo [!UICONTROL Audiences ] módulo. Isso permite gerenciar essas audiências diretamente na visualização da [!UICONTROL Audiences] lista, onde você pode editar ou criar uma nova audiência diretamente da interface do Adobe Campaign
 
 O vídeo abaixo explica como uma nova audiência é criada usando [!UICONTROL Unified Segment Builder] o Adobe Campaign Standard.
 
@@ -43,4 +44,4 @@ Documentação:
 Recursos de vídeo:
 
 * [Ativar audiências AEP em um fluxo de trabalho](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [Alterar o targeting dimension de um delivery para uma audiência de plataforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Alterar o targeting dimension de um delivery para uma audiência Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
