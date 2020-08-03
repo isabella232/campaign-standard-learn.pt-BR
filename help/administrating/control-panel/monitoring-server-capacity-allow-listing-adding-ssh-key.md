@@ -1,6 +1,6 @@
 ---
 title: Monitorando a capacidade do servidor, permitindo a listagem de endereços IP e a adição de chaves SSH
-description: O Painel de controle permite que você monitore e gerencie seu armazenamento SFTP por instância e adicione endereços IP para permitir listas.
+description: O Painel de controle do Campaign permite que você monitore e gerencie seu armazenamento SFTP por instância e adicione endereços IP ao lista de permissões.
 feature: Control Panel
 topics: null
 kt: 3266
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Monitoramento da capacidade do servidor, [!UICONTROL allow listing] endereços IP e adição de chaves SSH
 
-O Painel de controle permite que você monitore e gerencie seu armazenamento SFTP por instância e adicione endereços [!UICONTROL allow listing]IP.
+O Painel de controle do Campaign permite que você monitore e gerencie seu armazenamento SFTP por instância e adicione endereços [!UICONTROL allow listing]IP.
 
 ## Acesso ao Gerenciamento de [!UICONTROL Control Panel] subdomínio
 
