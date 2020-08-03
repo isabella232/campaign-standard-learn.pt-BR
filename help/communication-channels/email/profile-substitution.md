@@ -4,7 +4,7 @@ description: Este vídeo explica como você pode testar suas mensagens de email 
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368.jpg
+thumbnail: 32368
 doc-type: feature video
 activity: use
 team: TM
@@ -17,7 +17,7 @@ ht-degree: 7%
 ---
 
 
-# [!UICONTROL Profile Substitution] - Testar mensagens de email usando perfis direcionados
+# [!UICONTROL Profile Substitution] - Teste de mensagens de email usando perfis segmentados
 
 Este vídeo explica como você pode testar suas mensagens de email usando [!UICONTROL Profile Substitution]. Abrange o seguinte caso de utilização:
 
@@ -34,5 +34,5 @@ Para obter mais informações, consulte a documentação [detalhada do](https://
 ## Recursos adicionais
 
 * [Teste de mensagens usando perfis de público alvo (documentação)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
-* [Criação de um email de teste A/B](/help/communication-channels/email/a-b-testing.md)
+* [Criação de email de teste A/B](/help/communication-channels/email/a-b-testing.md)
 * [Envie um teste, prepare e envie um e-mail](/help/communication-channels/email/sending-test-preparing-sending-email.md)
