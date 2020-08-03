@@ -1,6 +1,6 @@
 ---
 title: Gerenciamento de certificados SSL
-description: O Painel de controle permite gerenciar os subdomínios que você delegou ao Adobe Campaign. Você pode visualização seus subdomínios, bem como solicitar a renovação de seus certificados.
+description: O Painel de controle do Campaign permite gerenciar os subdomínios que você delegou ao Adobe Campaign. Você pode visualização seus subdomínios, bem como solicitar a renovação de seus certificados.
 feature: Control Panel
 topics: null
 kt: 3379
@@ -18,13 +18,13 @@ ht-degree: 4%
 
 # Gerenciamento de certificados SSL
 
-O Painel de controle permite gerenciar os subdomínios que você delegou ao Adobe Campaign. Você pode visualização seus subdomínios, bem como solicitar a renovação de seus certificados.
+O Painel de controle do Campaign permite gerenciar os subdomínios que você delegou ao Adobe Campaign. Você pode visualização seus subdomínios, bem como solicitar a renovação de seus certificados.
 
 ## Acesso [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
 Para acessar o [!UICONTROL Subdomain Management] em [!UICONTROL Control Panel], acesse:
 
-* [Página inicial](https://experience.adobe.com/#/home) da Experience Cloud > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** cartão > **[!UICONTROL Subdomains & Certificates]** cartão
+* [Página inicial](https://experience.adobe.com/#/home) do Experience Cloud > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** cartão > **[!UICONTROL Subdomains & Certificates]** cartão
 
    ou
 * Diretamente do URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
