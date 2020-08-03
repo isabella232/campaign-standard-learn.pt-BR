@@ -95,9 +95,10 @@ Agora é uma boa hora para testar seu aplicativo, antes de ir mais longe.
 ### Verificar assinantes do aplicativo móvel
 
 Faça logon na sua instância do Adobe Campaign Standard.
-Navegue **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Abra o aplicativo móvel apropriado. Pressione até a [!UICONTROL Mobile Application Subscribers] guia. Você deve ver uma [!UICONTROL registration token ]lista.
+Navegue **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Abra o aplicativo móvel apropriado. Tab to the [!UICONTROL Mobile Application Subscribers] tab. Você deve ver uma [!UICONTROL registration token ]lista.
 
 ![assinantes de aplicativos móveis](assets/mobile-application-subscribers.PNG)
 
->[OBSERVAÇÃO]
+>[ OBSERVAÇÃO ]
+>
 >Se você não vir o token de registro na guia [!UICONTROL Mobile Application Subscribers] PARE aqui antes de continuar.
