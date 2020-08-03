@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 4%
+ht-degree: 14%
 
 ---
 
 
 # Gerenciar campanhas
 
-O Adobe Campaign permite planejar campanhas de marketing nas quais você pode criar e gerenciar diferentes tipos de atividades: emails, mensagens SMS, [!UICONTROL push notifications], workflows, landings page. Essas campanhas e seus conteúdos podem ser coletados em programas. Este vídeo mostrará como criar e gerenciar campanhas no Adobe Campaign.
+Adobe Campaign allows you to plan marketing campaigns in which you can create and manage different types of activities: emails, SMS messages, [!UICONTROL push notifications], workflows, landing pages. Essas campanhas e seus conteúdos podem ser coletados em programas. Este vídeo mostrará como criar e gerenciar campanhas no Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24672?quality=12)
 
