@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 3%
+ht-degree: 10%
 
 ---
 
@@ -28,4 +28,4 @@ Este vídeo explica como criar e enviar emails por meio de um fluxo de trabalho.
 
 * [Criar um delivery de email](/help/communication-channels/email/create-email-from-homepage.md)
 * [Criação de um email (documentação)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [Práticas recomendadas para delivery](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_DeliveryBestPractices.html)
+* [Práticas recomendadas para delivery](https://helpx.adobe.com/br/campaign/kb/delivery-best-practices.html)
