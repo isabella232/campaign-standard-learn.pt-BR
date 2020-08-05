@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # Criar perfis e audiências - Visão geral
 
-Adobe Campaign tem dois tipos ou perfis:
+A Adobe Campaign tem dois tipos ou perfis:
 
 * perfis identificados
 * Testar perfis
