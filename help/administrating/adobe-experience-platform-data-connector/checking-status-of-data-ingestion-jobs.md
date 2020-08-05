@@ -24,7 +24,7 @@ ht-degree: 9%
 >
 >Entre em contato se [!UICONTROL Adobe Customer Support] planeja implementar esse recurso.
 
-Saiba como verificar o status de um trabalho de ingestão de dados e se os dados foram ingeridos do Adobe Campaign Standard para o Adobe Experience Platform.
+Saiba como verificar o status de um trabalho de ingestão de dados e se os dados foram ingeridos da Adobe Campaign Standard no Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
 
