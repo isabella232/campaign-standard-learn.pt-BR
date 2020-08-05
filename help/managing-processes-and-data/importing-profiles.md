@@ -1,6 +1,6 @@
 ---
 title: Importar perfis com um fluxo de trabalho
-description: Você pode coletar dados de um arquivo para processá-lo e/ou importá-lo para o banco de dados do Adobe Campaign. Este vídeo explica como importar dados do perfil usando um fluxo de trabalho.
+description: Você pode coletar dados de um arquivo para processá-lo e/ou importá-lo para o banco de dados da Adobe Campaign. Este vídeo explica como importar dados do perfil usando um fluxo de trabalho.
 feature: Data management Activities
 topics: null
 kt: 1818
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Importar perfis com um fluxo de trabalho{#import-profiles-with-a-workflow}
 
-Você pode coletar dados de um arquivo para processá-lo e/ou importá-lo para o banco de dados do Adobe Campaign.
+Você pode coletar dados de um arquivo para processá-lo e/ou importá-lo para o banco de dados da Adobe Campaign.
 
 Este vídeo explica como usar as [!UICONTROL Data Management] atividades em um fluxo de trabalho para importar dados do perfil.
 
