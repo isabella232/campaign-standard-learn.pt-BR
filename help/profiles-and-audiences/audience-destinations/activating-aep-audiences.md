@@ -1,5 +1,5 @@
 ---
-title: Ativar audiências Adobe Experience Platform em um fluxo de trabalho
+title: Ativar o Adobe Experience Platform audiência em um fluxo de trabalho
 description: Este vídeo explica como ativar a Audiência de Query dos Serviços de Dados em um fluxo de trabalho usando a atividade ‘Ler audiência’.
 feature: Audience Destinations
 topics: ACOP
@@ -16,7 +16,7 @@ ht-degree: 1%
 ---
 
 
-# Ativar audiências Adobe Experience Platform em um fluxo de trabalho [!UICONTROL Adobe Experience Platform Audiences] em um fluxo de trabalho de marketing
+# Ativar o Adobe Experience Platform audiência em um fluxo de trabalho [!UICONTROL Adobe Experience Platform Audiences] em um fluxo de trabalho de marketing
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 1%
 Este vídeo explica como ativar o [!UICONTROL Data Services Query Audience] em um fluxo de trabalho usando a [!UICONTROL Read Audience] atividade.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
-*Ativar uma audiência de Adobe Experience Platform em um fluxo de trabalho (02:37 min)*
+*Ativar uma audiência do Adobe Experience Platform em um fluxo de trabalho (02:37 min)*
 
 ## Recursos adicionais
 
@@ -38,5 +38,5 @@ Documentação:
 Recurso de vídeo:
 
 * [Criação de uma nova audiência no Adobe Campaign Standard usando o Construtor de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Alteração do targeting dimension de um delivery para uma Audiência Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Alteração do targeting dimension de um delivery para uma Audiência de plataforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
