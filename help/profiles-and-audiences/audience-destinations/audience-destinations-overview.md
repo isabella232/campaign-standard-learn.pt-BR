@@ -1,6 +1,6 @@
 ---
 title: Destinos da Audiência - Visão geral
-description: Aproveite Audiências Adobe Experience Platform (AEP) no Adobe Campaign Standard (ACS)
+description: Aproveite as Audiências Adobe Experience Platform (AEP) no Adobe Campaign Standard (ACS)
 feature: Audience Destinations
 topics: ACOP
 kt: 2755
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # [!UICONTROL Audience Destinations] (BETA) - Visão geral
 
-## Aproveite Audiências Adobe Experience Platform no Adobe Campaign Standard
+## Aproveite as Audiências Adobe Experience Platform no Adobe Campaign Standard
 
 >[!NOTE]
 >
@@ -27,17 +27,17 @@ ht-degree: 1%
 >Entre em contato se [!UICONTROL Adobe Customer Support] planeja implementar esse recurso.
 
 
-Este tutorial explica como aproveitar os dados centralizados e consolidados do perfil para campanhas de marketing no Adobe Campaign Standard.
+Este tutorial explica como aproveitar os dados centralizados e consolidados do perfil da Adobe Experience Platform para campanhas de marketing no Adobe Campaign Standard.
 
-O [!UICONTROL Audiences] módulo no Adobe Campaign Standard permite criar segmentos usando dados do [Adobe Experience Platform - Serviços](https://www.adobe.io/apis/experienceplatform/home/services.html) de dados que residem no Perfil [do cliente em tempo](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)real.
+O [!UICONTROL Audiences] módulo dentro da Adobe Campaign Standard permite que você crie segmentos usando dados da [Adobe Experience Platform - Serviços](https://www.adobe.io/apis/experienceplatform/home/services.html) de dados que residem no Perfil [do cliente em tempo](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)real.
 
 Os seguintes tutoriais em vídeo o guiarão pelas diferentes etapas:
 
 1. [Criar uma nova audiência usando o Construtor de segmentos unificados](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Ativar audiências AEP em um fluxo de trabalho de marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-3. [Alterar o targeting dimension de um delivery para uma Audiência Platform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+3. [Alterar o targeting dimension de um delivery para uma Audiência de plataforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
 ## Recursos adicionais
 
-*[Noções básicas sobre o conector de dados Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+*[Como entender o conector de dados Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
 
