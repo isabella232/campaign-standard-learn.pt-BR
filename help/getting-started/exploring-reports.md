@@ -18,7 +18,7 @@ ht-degree: 16%
 
 # Como explorar relatórios
 
-Este vídeo fornece uma visão geral sobre os recursos do relatórios.
+Este vídeo fornece uma visão geral sobre os recursos do relatórios Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12)
 
