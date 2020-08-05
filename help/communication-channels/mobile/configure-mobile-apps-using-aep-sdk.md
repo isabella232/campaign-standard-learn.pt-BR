@@ -1,5 +1,5 @@
 ---
-title: Configurar um aplicativo móvel usando o SDK do Adobe Experience Platform
+title: Configurar um aplicativo móvel usando o Adobe Experience Platform SDK
 description: Para enviar mensagens no aplicativo ou notificações por push com um aplicativo Experience Cloud SDK, um aplicativo móvel deve ser configurado no Adobe Experience Platform Launch e configurado no Adobe Campaign
 feature: Mobile SDK V5
 topics: Mobile
@@ -31,4 +31,4 @@ Os vídeos abaixo demonstram as etapas necessárias para configurar um aplicativ
 ## Recursos adicionais
 
 * [Configurar uma propriedade móvel (documentação do Adobe Launch)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Configurar um aplicativo móvel usando SDKs Adobe Experience Platform (documentação)](https://helpx.adobe.com/br/campaign/kb/configuring-app-sdk.html)
+* [Configurar um aplicativo móvel usando SDKs do Adobe Experience Platform (documentação)](https://helpx.adobe.com/br/campaign/kb/configuring-app-sdk.html)
