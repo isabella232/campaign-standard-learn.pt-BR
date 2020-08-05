@@ -1,6 +1,6 @@
 ---
 title: Criar e enviar emails por meio de um fluxo de trabalho
-description: 'Você pode criar um email de uma campanha, do home page ou da lista de atividade de marketing. Também é possível criar emails recorrentes e de envio único a partir de um fluxo de trabalho. Este vídeo explica como criar um delivery de email na página inicial. '
+description: 'Você pode criar um email de uma campanha, do home page Adobe Campaign ou da lista de atividade de marketing. Também é possível criar emails recorrentes e de envio único a partir de um fluxo de trabalho. Este vídeo explica como criar um delivery de email na página inicial. '
 feature: Email
 topics: null
 kt: 4319
@@ -18,7 +18,7 @@ ht-degree: 10%
 
 # Criar e enviar emails por meio de um fluxo de trabalho
 
-Você pode criar um email de uma campanha, do home page ou da lista de atividade de marketing. Também é possível criar emails recorrentes e de envio único a partir de um fluxo de trabalho.
+Você pode criar um email de uma campanha, do home page Adobe Campaign ou da lista de atividade de marketing. Também é possível criar emails recorrentes e de envio único a partir de um fluxo de trabalho.
 
 Este vídeo explica como criar e enviar emails por meio de um fluxo de trabalho.
 
