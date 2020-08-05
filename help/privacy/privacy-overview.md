@@ -1,6 +1,6 @@
 ---
 title: Solicitações de privacidade com o Adobe Campaign Standard (ACS) - Visão geral
-description: O tutorial explica como criar solicitações de privacidade por meio da interface Adobe Campaign Standard (ACS).
+description: O tutorial explica como criar solicitações de privacidade pela interface do Adobe Campaign Standard (ACS).
 feature: GDPR, CCAP
 topic: Privacy
 kt: 1480
@@ -16,13 +16,13 @@ ht-degree: 7%
 ---
 
 
-# Solicitações de privacidade com a interface de usuário do Adobe Campaign Standard
+# Solicitações de privacidade com a interface do usuário Adobe Campaign Standard
 
-O Adobe Campaign oferta Data Controller utiliza três métodos para executar o acesso à privacidade e excluir solicitações de dados PII em conformidade com atos de privacidade, como o GDPR (General Data Protection Regulation) e o CCPA (California Consumer Privacy Act):
+Os controladores de dados do Adobe Campaign oferta utilizam três métodos para executar o acesso à privacidade e excluir solicitações de dados PII em conformidade com atos de privacidade, como o GDPR (General Data Protection Regulation) e o CCPA (California Consumer Privacy Act):
 
 * **Através da integração do Privacy Core Service:** As solicitações de privacidade enviadas de [!UICONTROL Privacy Service] para todas as soluções de Experience Cloud são automaticamente tratadas pela Campanha por meio de um fluxo de trabalho dedicado. Refer to the [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html) to learn how to create privacy requests from the Privacy Core Service
 
-* **Pela API:** O Adobe Campaign fornece uma API que permite o processo automático de solicitações de privacidade usando REST
+* **Pela API:** A Adobe Campaign fornece uma API que permite o processo automático de solicitações de privacidade usando REST
 
 * **Pela interface do Adobe Campaign:** para cada solicitação de privacidade, o controlador de dados cria uma nova solicitação de privacidade no Adobe Campaign
 
@@ -45,7 +45,7 @@ O Adobe Campaign oferta Data Controller utiliza três métodos para executar o a
 1. [Criar uma Namespace](/help/privacy/namespaces-for-privacy-requests.md)
 1. [Modificar recursos personalizados](/help/privacy/custom-resources-for-privacy-requests.md)
 
-### Criar, rastrear e executar solicitações de privacidade na interface do usuário do Adobe Campaign
+### Criar, rastrear e executar solicitações de privacidade por meio da interface do usuário do Adobe Campaign
 
 * [Criar e rastrear solicitações de privacidade por meio da interface do usuário do Adobe Campaign](/help/privacy/create-and-track-privacy-requests.md)
 * [Executar solicitações de privacidade](/help/privacy/execute-privacy-requests.md)
@@ -55,4 +55,4 @@ O Adobe Campaign oferta Data Controller utiliza três métodos para executar o a
 * [Diretrizes gerais de privacidade para Campanhas](https://helpx.adobe.com/br/campaign/kb/campaign-privacy-overview.html)
 * [CCPA para ACS](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
 * [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html)
-* [Documentação da API Adobe Campaign Standard REST](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
+* [Documentação da API REST da Adobe Campaign Standard](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
