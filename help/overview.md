@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign Standard Tutorials - Visão geral
-description: O Adobe Campaign fornece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e capacidades do Adobe Campaign Standard.
+title: Tutorials Adobe Campaign Standard - Visão geral
+description: O Adobe Campaign fornece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e recursos do Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
@@ -13,7 +13,7 @@ ht-degree: 23%
 
 # Visão geral
 
-O Adobe Campaign fornece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e capacidades do Adobe Campaign Standard.
+O Adobe Campaign fornece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e recursos do Adobe Campaign Standard.
 
 ## Novidades
 
@@ -65,7 +65,7 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
     </a>
     </div>
     <p>
-    <em>Este tutorial o orienta pelas etapas envolvidas no envio de notificações por push do Adobe Campaign e no recebimento dessas notificações no aplicativo Android. </em>
+    <em>Este tutorial o orienta pelas etapas envolvidas no envio de notificações por push da Adobe Campaign e no recebimento dessas notificações no aplicativo Android. </em>
     <p>
   </td>
 </tr>
