@@ -1,6 +1,6 @@
 ---
 title: Etapa 5 - Propagar notificações
-description: Nesta parte, propagaremos a mensagem recebida do Adobe Campaign usando o Android Notification Manager.Firebase
+description: Nesta parte, propagaremos a mensagem recebida da Adobe Campaign usando o Android Notification Manager.Firebase
 feature: Push
 topics: Mobile
 kt: 4829
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Adicionar serviço para enviar notificação
 
-Nesta parte, propagaremos a mensagem recebida do Adobe Campaign usando [!DNL Android Notification Manager]. [!DNL Notification manager] é usada para notificar o usuário sobre eventos que ocorrem.
+Nesta parte, propagaremos a mensagem recebida da Adobe Campaign usando [!DNL Android Notification Manager]. [!DNL Notification manager] é usada para notificar o usuário sobre eventos que ocorrem.
 É assim que você diz ao usuário que algo aconteceu em segundo plano:
 
 * Iniciar [!DNL Android Studio]
