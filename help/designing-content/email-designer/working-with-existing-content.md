@@ -26,7 +26,7 @@ Este vídeo explica como recuperar rapidamente seu conteúdo criativo de um site
 
 ## Tornar o conteúdo HTML existente compatível {#making-existing-html-content-compatible}
 
-O Designer de e-mail requer marcação específica, que precisa ser aplicada para tornar o conteúdo HTML padrão carregado em Adobe Campaign totalmente compatível e editável.
+O Designer de e-mail requer marcação específica, que precisa ser aplicada para tornar o conteúdo HTML padrão carregado no Adobe Campaign totalmente compatível e editável.
 
 Você encontrará a documentação detalhada no link a seguir:
 
