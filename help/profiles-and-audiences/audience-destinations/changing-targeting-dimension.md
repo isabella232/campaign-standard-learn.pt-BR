@@ -1,6 +1,6 @@
 ---
 title: Alterar o targeting dimension
-description: Este vídeo explica como alterar o targeting dimension de um delivery para uma Audiência Platform fora da tabela do perfil principal no Adobe Campaign Standard.
+description: Este vídeo explica como alterar o targeting dimension de um delivery para uma Audiência de plataforma fora da tabela do perfil principal no Adobe Campaign Standard.
 feature: Audience Destinations
 topics: ACOP
 kt: 3739
@@ -24,7 +24,7 @@ ht-degree: 10%
 >
 >Entre em contato se [!UICONTROL Adobe Customer Support] planeja implementar esse recurso.
 
-Este vídeo explica como alterar o targeting dimension de um delivery para um item [!UICONTROL Platform Audience] fora da tabela do perfil primário no Adobe Campaign Standard.
+Este vídeo explica como alterar o targeting dimension de um delivery para um lugar fora da tabela do perfil principal no Adobe Campaign Standard. [!UICONTROL Platform Audience]
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
@@ -39,4 +39,4 @@ Documentação:
 Recursos de vídeo:
 
 * [Criar uma nova audiência usando o Construtor de segmentos unificados](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Ativar audiências Adobe Experience Platform em um fluxo de trabalho de marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+* [Ativar o Adobe Experience Platform audiência em um fluxo de trabalho de marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
