@@ -1,6 +1,6 @@
 ---
 title: Criar e rastrear manualmente solicitações de privacidade por meio da interface do usuário do Adobe Campaign
-description: O Adobe Campaign permite que você crie e exclua solicitações de dados PII em conformidade com atos de privacidade como o RGPD e o CCPA. Estes vídeos demonstram como criar manualmente solicitações de privacidade e acompanhar sua evolução na interface do usuário do Adobe Campaign Standard.
+description: A Adobe Campaign permite que você crie e exclua solicitações de dados PII em conformidade com atos de privacidade como o RGPD e o CCPA. Estes vídeos demonstram como criar manualmente solicitações de privacidade e acompanhar sua evolução na interface do usuário do Adobe Campaign Standard.
 feature: GDPR, CCPA
 topic: null
 kt: 1242
@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Criação e rastreamento manual de solicitações de privacidade
 
-O Adobe Campaign permite que você crie e exclua solicitações de dados PII em conformidade com atos de privacidade como o RGPD e o CCPA.
+A Adobe Campaign permite que você crie e exclua solicitações de dados PII em conformidade com atos de privacidade como o RGPD e o CCPA.
 
 Estes vídeos demonstram como criar manualmente solicitações de privacidade e acompanhar sua evolução na interface do usuário do Adobe Campaign Standard.
 
