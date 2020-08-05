@@ -1,6 +1,6 @@
 ---
 title: Gerenciar campanhas
-description: O Adobe Campaign permite planejar campanhas de marketing nas quais você pode criar e gerenciar diferentes tipos de atividades. Este vídeo mostrará como criar e gerenciar campanhas no Adobe Campaign.
+description: A Adobe Campaign permite planejar campanhas de marketing nas quais você pode criar e gerenciar diferentes tipos de atividades. Este vídeo mostrará como criar e gerenciar campanhas no Adobe Campaign.
 feature: managing campaigns
 topics: Getting Started
 kt: 1816
