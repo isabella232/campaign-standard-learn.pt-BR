@@ -1,6 +1,6 @@
 ---
 title: Criação de um relatório dinâmico
-description: Adobe Campaign em que os Relatórios dinâmicos são projetados para serem ambientes flexíveis de forma livre que podem ser explorados. Permite combinar dimensões, métricas e intervalo de tempo em qualquer combinação, com detalhamentos e comparações ilimitados. Este vídeo explica como criar um relatório.
+description: Os Relatórios dinâmicos da Adobe Campaign são projetados para serem um ambiente flexível de forma livre, onde você pode explorar os dados. Permite combinar dimensões, métricas e intervalo de tempo em qualquer combinação, com detalhamentos e comparações ilimitados. Este vídeo explica como criar um relatório.
 feature: Dynamic Reporting
 kt: 2037
 doc-type: feature video
@@ -17,7 +17,7 @@ ht-degree: 13%
 
 # Criação de um [!UICONTROL Dynamic Report]{#creating-a-report}
 
-Adobe Campaign flexível [!UICONTROL Dynamic Reports] para ser um ambiente de forma livre onde você possa explorar os dados. Permite combinar dimensões, métricas e intervalo de tempo em qualquer combinação, com detalhamentos e comparações ilimitados. Este vídeo explica como criar um relatório.
+A Adobe Campaign [!UICONTROL Dynamic Reports] foi projetada para ser um ambiente flexível de forma livre, onde você pode explorar os dados. Permite combinar dimensões, métricas e intervalo de tempo em qualquer combinação, com detalhamentos e comparações ilimitados. Este vídeo explica como criar um relatório.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25264/?quality=12)
 
