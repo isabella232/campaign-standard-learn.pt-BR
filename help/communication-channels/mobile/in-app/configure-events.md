@@ -1,6 +1,6 @@
 ---
 title: Configurar Eventos
-description: 'Ao configurar uma mensagem no aplicativo em eventos Adobe Campaign Standard (ACS), defina qual ação iniciada pelo usuário disparará a mensagem a ser exibida. '
+description: 'Ao configurar uma mensagem no aplicativo nos eventos Adobe Campaign Standard (ACS), defina qual ação iniciada pelo usuário disparará a mensagem a ser exibida. '
 feature: In-App
 topics: Mobile
 kt: 2548
