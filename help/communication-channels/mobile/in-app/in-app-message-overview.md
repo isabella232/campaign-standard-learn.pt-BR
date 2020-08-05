@@ -1,6 +1,6 @@
 ---
 title: Introdução às mensagens no aplicativo
-description: O canal Adobe Campaign Standard (ACS) de mensagens no aplicativo permite que você apresente ao usuário mensagens no aplicativo contextualmente relevantes em resposta ao comportamento em tempo real do cliente no aplicativo móvel.
+description: O canal de mensagens no aplicativo (ACS) da Adobe Campaign Standard permite que você apresente ao usuário mensagens no aplicativo contextualmente relevantes em resposta ao comportamento em tempo real do cliente no aplicativo móvel.
 feature: In-App
 topics: Mobile
 kt: 1911
@@ -41,7 +41,7 @@ Para obter mais informações sobre extensões, consulte a extensão [Configurar
 
 ## Etapas para configurar [!UICONTROL In-App] mensagens {#steps-to-set-up}
 
-1. [Configure um aplicativo móvel usando o SDK](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)do Adobe Experience Platform.
+1. [Configure um aplicativo móvel usando o Adobe Experience Platform SDK](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md).
 
 1. [Configure eventos](/help/communication-channels/mobile/in-app/configure-events.md).
 
@@ -73,7 +73,7 @@ Depois que seu delivery for publicado, você poderá [gerar relatórios sobre se
 
 * [Relatório no aplicativo](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)
 * [Configurar uma propriedade móvel](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Configurar um aplicativo móvel usando SDKs Adobe Experience Platform](https://helpx.adobe.com/br/campaign/kb/configuring-app-sdk.html)
+* [Configurar um aplicativo móvel usando SDKs do Adobe Experience Platform](https://helpx.adobe.com/br/campaign/kb/configuring-app-sdk.html)
 * [Preparação e envio de uma mensagem no aplicativo](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
 * [Personalização de mensagem no aplicativo](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)
 * [Envio de uma mensagem no aplicativo em um workflow](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/channel-activities/in-app-delivery.html)
