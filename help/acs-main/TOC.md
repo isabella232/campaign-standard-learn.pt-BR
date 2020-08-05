@@ -32,7 +32,7 @@ ht-degree: 11%
    + [Criar um fluxo de trabalho](/help/managing-processes-and-data/create-workflow.md)
    + [Introdução ao relatórios](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing móvel com Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
-   + [Crescer com Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
+   + [Aumente com o Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Perfis e públicos-alvo {#profiles-and-audiences}
    + [Criar perfis e audiências - Visão geral](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Criar um perfil](/help/profiles-and-audiences/creating-a-profile.md)
@@ -42,7 +42,7 @@ ht-degree: 11%
    + Audience Destinations (BETA){#audience-destinations}
       + [Visão geral](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Criar uma nova audiência usando o Construtor de segmentos unificados](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [Ativar audiências Adobe Experience Platform em um fluxo de trabalho](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + [Ativar o Adobe Experience Platform audiência em um fluxo de trabalho](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Alterar o targeting dimension](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canais de comunicação {#communication-channels}
    + Email {#email}
@@ -70,7 +70,7 @@ ht-degree: 11%
          + [Usuários do Público alvo com base em seus perfis de Campanha](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
          + [Criar um delivery no aplicativo em um fluxo de trabalho](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [Relatório sobre seu delivery no aplicativo](/help/communication-channels/mobile/in-app/in-app-reporting.md)
-      + [Configurar um aplicativo móvel usando o SDK do Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
+      + [Configurar um aplicativo móvel usando o Adobe Experience Platform SDK](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
    + [Correspondência direta](/help/communication-channels/direct-mail/directmail.md)
    + Landing pages {#landing-pages}
       + [Criar e editar uma landing page](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
@@ -118,7 +118,7 @@ ht-degree: 11%
          + [Descriptografia de dados](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
       + [Solução de problemas](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-Connector}
-      + [Noções básicas sobre o conector de dados Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+      + [Noções básicas sobre o Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mapeamento de recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Mapeamento de Eventos de experiência](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Mapeamento de dados da tabela semente](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
@@ -133,5 +133,5 @@ ht-degree: 11%
    + [Modificação de recursos personalizados para solicitações de privacidade](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Criação e rastreamento manual de solicitações de privacidade](/help/privacy/create-and-track-privacy-requests.md)
    + [Execução de solicitações de privacidade](/help/privacy/execute-privacy-requests.md)
-+ [Guia de práticas recomendadas de entrega de Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [Guia de práticas recomendadas de entrega da Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
 
