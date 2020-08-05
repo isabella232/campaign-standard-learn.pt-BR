@@ -1,6 +1,6 @@
 ---
 title: 'Transmitir uma mensagem no aplicativo '
-description: O modelo Transmitir uma mensagem no aplicativo permite que você público alvo (ACS) Adobe Campaign Standard a todos os usuários do aplicativo móvel
+description: O modelo Transmitir uma mensagem no aplicativo permite que você público alvo todos os usuários do aplicativo móvel com o Adobe Campaign Standard (ACS)
 feature: In-App
 topics: Mobile
 kt: 2497
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Transmitir uma mensagem no aplicativo
 
-Você pode transmitir uma mensagem no aplicativo, direcionando todos os usuários de um aplicativo móvel, independentemente de o Adobe Campaign ter ou não suas informações de perfil. Para transmitir uma mensagem, você precisa usar a mensagem **[!UICONTROL Target all users of a mobile app template]** ao configurar a mensagem no aplicativo.
+Você pode transmitir uma mensagem no aplicativo, direcionando todos os usuários de um aplicativo móvel, independentemente de a Adobe Campaign ter ou não suas informações de perfil. Para transmitir uma mensagem, você precisa usar a mensagem **[!UICONTROL Target all users of a mobile app template]** ao configurar a mensagem no aplicativo.
 
 Alguns dos casos de utilização pertinentes nesta categoria são:
 
