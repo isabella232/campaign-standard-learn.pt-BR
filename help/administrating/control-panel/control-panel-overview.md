@@ -20,11 +20,11 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->Os termos &quot;[!UICONTROL whitelist]&quot; e &quot;[!UICONTROL blacklist]&quot; foram substituídos pelos termos &quot;[!UICONTROL allow list]&quot; e &quot;[!UICONTROL block list]&quot;na documentação do Adobe Campaign. Algumas ocorrências desses termos ainda podem existir na interface do usuário do produto, nomes de opções, código interno, bem como nos vídeos de tutoriais. Eles serão substituídos em versões futuras do Painel de controle do Campaign.
+>Os termos &quot;[!UICONTROL whitelist]&quot; e &quot;[!UICONTROL blacklist]&quot; foram substituídos pelos termos &quot;[!UICONTROL allow list]&quot; e &quot;[!UICONTROL block list]&quot;na documentação da Adobe Campaign. Algumas ocorrências desses termos ainda podem existir na interface do usuário do produto, nomes de opções, código interno, bem como nos vídeos de tutoriais. Eles serão substituídos em versões futuras do Painel de controle do Campaign.
 
-O [!UICONTROL Control Panel] permite que os administradores de Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância ou endereços [!UICONTROL allow list] IP.
+O [!UICONTROL Control Panel] permite que os administradores da Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância ou endereços [!UICONTROL allow list] IP.
 
-## Acesso [!UICONTROL Control Panel]
+## Acesso ao [!UICONTROL Control Panel]
 
 Para acessar o Painel de controle do Campaign, acesse a página inicial do Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
