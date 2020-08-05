@@ -1,6 +1,6 @@
 ---
 title: Execução de solicitações de privacidade
-description: As solicitações de privacidade do Adobe Campaign são executadas por workflows. Este vídeo descreve quais workflows acessam e excluem solicitações e o que acontece quando são executadas.
+description: Em solicitações de privacidade do Adobe Campaign são executadas por workflows. Este vídeo descreve quais workflows acessam e excluem solicitações e o que acontece quando são executadas.
 feature: GDPR, CCPA
 topic: null
 kt: 1525
@@ -18,7 +18,7 @@ ht-degree: 8%
 
 # Execução de solicitações de privacidade
 
-As solicitações de privacidade do Adobe Campaign são executadas por workflows. Este vídeo descreve quais workflows acessam e excluem solicitações e o que acontece quando são executadas.
+Em solicitações de privacidade do Adobe Campaign são executadas por workflows. Este vídeo descreve quais workflows acessam e excluem solicitações e o que acontece quando são executadas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12)
 
