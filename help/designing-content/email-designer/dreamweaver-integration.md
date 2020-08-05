@@ -20,7 +20,7 @@ ht-degree: 1%
 A integração do Adobe Campaign Standard com o Adobe Dreamweaver permite que você edite o conteúdo de um email diretamente na interface do Dreamweaver:
 
 * Sincronização bidirecional em tempo real do conteúdo
-* Carregar imagens locais no Adobe Campaign através do Dreamweaver
+* Carregar imagens locais no Adobe Campaign por meio do Dreamweaver
 * Suporta a personalização da Campanha no Dreamweaver
 
 >[!NOTE]
