@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Usuários do Público alvo com base em seus [!DNL Campaign] perfis
 
-Você pode público alvo usuários conhecidos de aplicativos móveis (aqueles que fizeram logon no aplicativo com PII) com mensagens personalizadas com atributos de perfil CRM disponíveis no Adobe Campaign Standard. Este modelo é mais útil para suportar casos de uso de orquestração entre canais, nos quais você já direcionou usuários para outros canais, como Email ou Push, e com base em sua resposta, deseja engajá-los com uma [!UICONTROL In-App] mensagem.
+Você pode público alvo usuários conhecidos de aplicativos móveis (aqueles que fizeram logon no aplicativo com PII) por mensagens personalizadas com atributos de perfil CRM disponíveis no Adobe Campaign Standard. Este modelo é mais útil para suportar casos de uso de orquestração entre canais, nos quais você já direcionou usuários para outros canais, como Email ou Push, e com base em sua resposta, deseja engajá-los com uma [!UICONTROL In-App] mensagem.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
