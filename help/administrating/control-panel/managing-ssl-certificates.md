@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 4%
 
 O Painel de controle do Campaign permite gerenciar os subdomínios que você delegou ao Adobe Campaign. Você pode visualização seus subdomínios, bem como solicitar a renovação de seus certificados.
 
-## Acesso [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
+## Acesso ao [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
 Para acessar o [!UICONTROL Subdomain Management] em [!UICONTROL Control Panel], acesse:
 
