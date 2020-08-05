@@ -1,6 +1,6 @@
 ---
 title: Introdução ao relatórios
-description: Este vídeo oferece uma visão geral sobre os recursos do relatórios
+description: Este vídeo fornece uma visão geral sobre os recursos do relatórios Adobe Campaign Standard
 feature: Dynamic Reports
 topics: null
 kt: 3974
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 # Introdução ao relatórios
 
-Este vídeo oferece uma visão geral sobre os recursos do relatórios
+Este vídeo fornece uma visão geral sobre os recursos do relatórios Adobe Campaign Standard
 
 >[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12)
 
