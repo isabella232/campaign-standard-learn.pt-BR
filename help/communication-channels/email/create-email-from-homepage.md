@@ -1,6 +1,6 @@
 ---
 title: Criar um delivery de email
-description: 'Você pode criar um email de uma campanha, do home page ou da lista de atividade de marketing. Também é possível criar emails recorrentes e de envio único a partir de um fluxo de trabalho. Este vídeo explica como criar um delivery de email na página inicial. '
+description: 'Você pode criar um email de uma campanha, do home page Adobe Campaign ou da lista de atividade de marketing. Também é possível criar emails recorrentes e de envio único a partir de um fluxo de trabalho. Este vídeo explica como criar um delivery de email na página inicial. '
 feature: Email
 topics: null
 kt: 1807
@@ -18,7 +18,7 @@ ht-degree: 10%
 
 # Create an email delivery {#create-an-email-delivery}
 
-Você pode criar um delivery de email independente de uma campanha, do home page do Adobe Campaign ou da [!UICONTROL Marketing Activity] lista. Também é possível criar e enviar emails recorrentes e de envio único a partir de um fluxo de trabalho.
+Você pode criar um delivery de email independente de uma campanha, do home page Adobe Campaign ou da [!UICONTROL Marketing Activity] lista. Também é possível criar e enviar emails recorrentes e de envio único a partir de um fluxo de trabalho.
 
 Este vídeo explica como criar um delivery de email independente na página inicial.
 
