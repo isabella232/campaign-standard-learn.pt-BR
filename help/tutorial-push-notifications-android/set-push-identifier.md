@@ -88,7 +88,7 @@ Agora é uma boa hora para testar seu aplicativo, antes de ir mais longe.
 
 * Execute seu aplicativo clicando em seta verde ou selecione **[!DNL Run->Run'app']**.
 * O [!DNL Android] emulador deve ser start e você deve ver seu aplicativo sendo executado com [!DNL "Hello World" ]texto.
-* Abra a [!DNL logcat] janela. Procure &quot;[!DNL Got]&quot;. Você deve ver o token que foi recebido de [!DNL Firebase] gravado no log, como mostrado abaixo. A string longa após &quot;[!DNL Got token]&quot; é a [!DNL pushidentifier ]que é enviada para Adobe Campaign.
+* Abra a [!DNL logcat] janela. Procure &quot;[!DNL Got]&quot;. Você deve ver o token que foi recebido de [!DNL Firebase] gravado no log, como mostrado abaixo. A string longa após &quot;[!DNL Got token]&quot; é a [!DNL pushidentifier ]que é enviada para a Adobe Campaign.
 
 ![logcat-token](assets/logcat-got-token.PNG)
 
