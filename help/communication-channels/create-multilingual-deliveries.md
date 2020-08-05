@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Criar um email multilíngue ou um delivery SMS
 
-O Adobe Campaign permite simplificar as complexidades operacionais do envio de campanhas multilíngues. Tanto os delivery de e-mail quanto os delivery de SMS podem ser configurados como multilíngues, o que permitirá o envio de e-mail ou SMS com base em um idioma preferencial do perfil.
+A Adobe Campaign permite simplificar as complexidades operacionais do envio de campanhas multilíngues. Tanto os delivery de e-mail quanto os delivery de SMS podem ser configurados como multilíngues, o que permitirá o envio de e-mail ou SMS com base em um idioma preferencial do perfil.
 
 Este vídeo explica como criar um delivery multilíngue com base em um modelo no exemplo de um boletim eletrônico.A abordagem demonstrada nos vídeos aplica-se tanto a delivery de email como SMS.
 
