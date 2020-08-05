@@ -1,6 +1,6 @@
 ---
 title: Introdução aos modelos de conteúdo de email
-description: Adobe Campaign Standard oferta 18 totalmente personalizável e pronto para uso, modelos de e-mail responsivos.  Esses modelos foram criados especificamente para o Adobe Campaign Standard e são fáceis de manipular e alterar. Eles são um ótimo ponto de partida para a criação de emails.
+description: O Adobe Campaign Standard oferta 18 é totalmente personalizável e pronto para uso, com modelos de e-mail responsivos.  Esses modelos foram criados especificamente para a Adobe Campaign Standard e são fáceis de manipular e alterar. Eles são um ótimo ponto de partida para a criação de emails.
 feature: Email Designer
 topics: null
 kt: 1442
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Introdução aos modelos de conteúdo de email {#introduction-to-the-email-content-templates}
 
-Adobe Campaign Standard oferta 18 totalmente personalizável e pronto para uso, modelos de e-mail responsivos. Esses modelos foram criados especificamente para o Adobe Campaign Standard e são fáceis de manipular e alterar. Eles são um ótimo ponto de partida para a criação de emails.
+O Adobe Campaign Standard oferta 18 é totalmente personalizável e pronto para uso, com modelos de e-mail responsivos. Esses modelos foram criados especificamente para a Adobe Campaign Standard e são fáceis de manipular e alterar. Eles são um ótimo ponto de partida para a criação de emails.
 
 Este vídeo apresenta os modelos e explica como criar seu próprio modelo.
 
