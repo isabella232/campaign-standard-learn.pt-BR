@@ -1,6 +1,6 @@
 ---
 title: 'Introdução à interface do usuário '
-description: Este vídeo oferece uma visão geral sobre a interface do usuário do Adobe Campaign Standard, os principais recursos e a funcionalidade principal.
+description: Este vídeo oferece uma visão geral sobre a interface do usuário do Adobe Campaign Standard e os principais recursos e funcionalidade principal.
 feature: User Interface
 topics: Getting started
 kt: 3882
