@@ -1,5 +1,5 @@
 ---
-title: Crescendo com Adobe Campaign
+title: Crescendo com o Adobe Campaign
 description: Este vídeo destaca os próximos passos potenciais para uma verdadeira orquestração entre canais.
 feature: null
 topics: null
@@ -16,7 +16,7 @@ ht-degree: 0%
 ---
 
 
-# Crescendo com Adobe Campaign
+# Crescendo com o Adobe Campaign
 
 Este vídeo destaca os próximos passos potenciais para uma verdadeira orquestração entre canais.
 
