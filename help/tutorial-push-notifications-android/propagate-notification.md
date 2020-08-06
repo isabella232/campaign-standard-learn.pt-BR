@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
+source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Nesta parte, propagaremos a mensagem recebida da Adobe Campaign usando [!DNL And
 * Nomeie esta classe *[!DNL MyService]* e certifique-se de estender [!DNL FirebaseMessagingService]
 * Criar *[!DNL sendNotification]* método nesta classe. Nesse método, é necessário definir o conteúdo e o canal da notificação usando um [!DNL NotificationCompat.Builder] objeto. Para fazer a notificação aparecer, chame [!DNL NotificationManagerCompat.notify()], transmitindo uma ID exclusiva para a notificação e o resultado do [!DNL NotificationCompat.Builder.build()].
 
-```java {.line-numbers}
+```java
 package com.example.pushmessaging;
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
@@ -92,7 +92,7 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 
 Adicione o serviço que foi criado ao seu [!DNL AndroidManifest.xml]. A versão final [!DNL AndroidManifest.xml] deve ser a seguinte:
 
-```xml {.line-numbers}
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.pushmessaging">
