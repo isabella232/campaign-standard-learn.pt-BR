@@ -1,6 +1,6 @@
 ---
 title: Conexão com um servidor SFTP
-description: Este vídeo explica como se conectar ao servidor SFTP usando um aplicativo SFTP cliente, usando as chaves que você armazenou no Painel de controle do Campaign.
+description: Este vídeo explica como se conectar ao servidor SFTP usando um aplicativo SFTP cliente com as chaves que você armazenou no Painel de controle do Campaign.
 feature: Control Panel
 topics: null
 kt: 2924
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -20,24 +20,24 @@ ht-degree: 0%
 
 Saiba como acessar o Gerenciamento SFTP e conectar-se a um servidor SFTP.
 
-## Acesso ao gerenciamento [!UICONTROL Control Panel] SFTP
+## Acesso ao gerenciamento SFTP no [!UICONTROL Control Panel] 
 
 Para acessar o Gerenciamento SFTP no Painel de controle do Campaign, acesse:
 
-* [Página inicial](https://experience.adobe.com/#/home) do Experience Cloud > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** cartão > Cartão **SFTP**
+* [Página inicial da Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** cartão > **cartão** SFTP
 
    ou
 * Diretamente do URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
 
 ## Como se conectar a um servidor SFTP
 
-A conexão com servidores SFTP requer:
+A conexão com servidores SFTP exige:
 
 * [!!O UICONTROL permite a listagem] do endereço IP a partir do qual você está se conectando ao servidor SFTP
 * Par de chave privada/pública que precisa ser registrado com o Adobe Campaign
-* Se você se conectar diretamente ao servidor SFTP, também precisará do software cliente SFTP
+* Se você se conectar diretamente ao servidor SFTP, precisará também do software cliente SFTP
 
-Este vídeo explica como se conectar ao servidor SFTP usando um aplicativo SFTP cliente, usando as chaves que você armazenou no Painel de controle do Campaign.
+Este vídeo explica como se conectar ao servidor SFTP usando um aplicativo SFTP cliente com as chaves que você armazenou no Painel de controle do Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
 *Conecte-se a um servidor SFTP (2:04 min)*
