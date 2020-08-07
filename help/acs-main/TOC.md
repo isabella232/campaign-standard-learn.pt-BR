@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard-learn
 getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '529'
-ht-degree: 91%
+source-wordcount: '500'
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 91%
    + [Criar perfis e públicos-alvo - Visão geral](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Criar um perfil](/help/profiles-and-audiences/creating-a-profile.md)
    + [Criar um perfil de teste](/help/profiles-and-audiences/test-profiles.md)
-   + [Importação de perfis com um fluxo de trabalho](/help/managing-processes-and-data/importing-profiles.md)
+   + [Importar perfis com um workflow](/help/managing-processes-and-data/importing-profiles.md)
    + [Gerenciar serviços e assinaturas](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Destinos do público-alvo (BETA){#audience-destinations}
       + [Visão geral](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -49,7 +49,7 @@ ht-degree: 91%
       + [Criar um email](/help/communication-channels/email/create-email-from-homepage.md)
       + [Enviar um teste, preparar e enviar um email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Criar um email multilíngue ou um delivery de SMS](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Converter um email, delivery SMS ou modelo existente em multilíngue](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Converter um email, delivery de SMS ou modelo existente multilíngue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Teste A/B](/help/communication-channels/email/a-b-testing.md)
       + [Testar mensagens de email usando perfis direcionados](/help/communication-channels/email/profile-substitution.md)
       + [Revisar um delivery de email e relatórios](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,8 +57,7 @@ ht-degree: 91%
    + Celular {#mobile}
       + SMS{#sms}
          + [Criar um delivery de SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Criar um email multilíngue ou um delivery de SMS](/help/communication-channels/create-multilingual-deliveries.md)
-         + [Converter um email, delivery SMS ou modelo existente em multilíngue](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [Converter um email, delivery de SMS ou modelo existente multilíngue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Notificações por push {#push}
          + [Criar uma notificações por push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Criar uma notificação por push multilíngue](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -87,7 +86,6 @@ ht-degree: 91%
    + [Configurar listas de produtos em emails transacionais](/help/designing-content/product-listings-in-transactional-email.md)
 + Gerenciamento de processos e dados {#managing-processes-and-data}
    + [Criar um workflow](/help/managing-processes-and-data/create-workflow.md)
-   + [Importação de perfis com um fluxo de trabalho](/help/managing-processes-and-data/importing-profiles.md)
    + Atividades de execução {#execution-activities}
       + [Atividade de sinal externo](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Atividades de gestão de dados {#data-management-activities}
@@ -109,7 +107,6 @@ ht-degree: 91%
       + [Conexão com um servidor SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [Delegar subdomínios](/help/administrating/control-panel/subdomain-delegation.md)
       + [Adicionar certificados SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
-      + [Gerenciar certificados SSL](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Gerenciamento de registros TXT do Google](/help/administrating/control-panel/google-txt-record-management.md)
       + Gerenciamento de chaves GPG {#gpg-key-management}
          + [Gerenciamento de chaves GPG – visão geral](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
@@ -133,5 +130,3 @@ ht-degree: 91%
    + [Modificação de recursos personalizados para solicitações de privacidade](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Criação e rastreamento manual de solicitações de privacidade](/help/privacy/create-and-track-privacy-requests.md)
    + [Execução de solicitações de privacidade](/help/privacy/execute-privacy-requests.md)
-+ [Guia de práticas recomendadas de entrega da Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-
