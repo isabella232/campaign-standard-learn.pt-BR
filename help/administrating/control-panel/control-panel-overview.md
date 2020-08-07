@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '364'
 ht-degree: 100%
 
 ---
@@ -71,9 +71,7 @@ O vídeo a seguir explica como adicionar um administrador a uma instância do Ca
 * **[Adicionar certificados SSL](/help/administrating/control-panel/adding-ssl-certificates.md)**
 
    *Saiba como adicionar certificados SSL para proteger seus subdomínios.*
-* **[Gerenciar certificados SSL](/help/administrating/control-panel/managing-ssl-certificates.md)**
 
-   *Saiba como visualizar o status dos certificados SSL de seus subdomínios, bem como solicitar renovações.*
 * **[Gerenciamento de registros TXT do Google](/help/administrating/control-panel/google-txt-record-management.md)**
 
    *Saiba como adicionar registro de verificação do site Google TXT a todos os seus subdomínios usados para enviar emails para endereços GMAIL por meio do Painel de controle do Campaign.*
