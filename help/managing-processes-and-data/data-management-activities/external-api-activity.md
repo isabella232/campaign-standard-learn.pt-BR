@@ -1,6 +1,6 @@
 ---
-title: Configurar e executar um fluxo de trabalho com a atividade de API externa
-description: A atividade de API externa é uma atividade Gestão de dados. Permite que você chame um terminal externo REST API. A finalidade desta atividade é obter dados de personalização de um sistema de terceiros para a sua campanha.
+title: Configurar e executar um workflow com a atividade de API externa
+description: A atividade de API externa é uma atividade de Gestão de dados. Ela permite que você chame um ponto de entrada REST API. O objetivo dessa atividade é obter dados de personalização de um sistema de terceiros para a sua campanha.
 feature: External API activity
 topics: null
 kt: 2764
@@ -11,23 +11,23 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Configure e execute um fluxo de trabalho com o [!UICONTROL External API activity]
+# Configure e execute um workflow com o [!UICONTROL External API activity]
 
-O [!UICONTROL External API activity] é um [!UICONTROL Data Management activity]. Permite que você chame um terminal externo REST API. A finalidade desta atividade é obter dados de personalização de um sistema de terceiros para a sua campanha.
+O [!UICONTROL External API activity] é um [!UICONTROL Data Management activity]. Ela permite que você chame um ponto de entrada REST API. O objetivo dessa atividade é obter dados de personalização de um sistema de terceiros para a sua campanha.
 
-Exemplos de casos de uso incluem:
+Estes são alguns exemplos de utilização:
 
-* Obtendo a mais recente linha de dias de jogos para um evento esportivo para personalizar o conteúdo
-* Obtendo o conjunto mais recente de ofertas
-* Conexão com um sistema de geração de cupom
-* Verificar o tempo em regiões locais e usá-lo para personalizar o conteúdo
+* Obter a escalação mais recente em dias de jogos em um evento esportivo para personalizar o conteúdo
+* Obter o conjunto mais recente de ofertas
+* Conexão com um sistema de geração de cupons
+* Verificar a meteorologia em regiões específicas e usá-la para personalizar o conteúdo
 
-Este vídeo demonstra o uso do [!UICONTROL External API activity].
+Este vídeo demonstra o uso da [!UICONTROL External API activity].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
 
@@ -35,9 +35,9 @@ Este vídeo demonstra o uso do [!UICONTROL External API activity].
 
 >[!NOTE]
 >
->Observe que a atividade se destina à busca de dados em toda a campanha (último conjunto de ofertas, últimas pontuações etc.), não para a recuperação de informações específicas para cada perfil, pois isso pode resultar na transferência de grandes quantidades de dados. Se o caso de uso exigir isso, a recomendação é usar a atividade Transferir arquivo.
+>Observe que a atividade se destina à busca de dados em toda a campanha (último conjunto de ofertas, últimas pontuações, etc.), não para a recuperação de informações específicas para cada perfil, pois pode resultar na transferência de grandes quantidades de dados. Se o caso de uso exigir, a recomendação é usar a atividade Transferir arquivo.
 
 ## Recursos adicionais
 
-* [API externa (documentação)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [API externa (Documentação)](https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
 
