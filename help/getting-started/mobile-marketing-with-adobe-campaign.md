@@ -1,6 +1,6 @@
 ---
-title: Marketing móvel com Adobe Campaign
-description: Este vídeo explica quais recursos da Adobe Campaign Standard suportam sua estratégia de marketing móvel.
+title: Marketing para dispositivos móveis com o Adobe Campaign
+description: Este vídeo explica quais recursos do Adobe Campaign Standard podem dar suporte a sua estratégia de marketing para dispositivos móveis.
 feature: Mobile
 topics: null
 kt: 3976
@@ -11,19 +11,19 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '51'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Marketing móvel com Adobe Campaign
+# Marketing para dispositivos móveis com o Adobe Campaign
 
-Este vídeo explica quais recursos da Adobe Campaign Standard suportam sua estratégia de marketing móvel.
+Este vídeo explica quais recursos do Adobe Campaign Standard podem dar suporte a sua estratégia de marketing para dispositivos móveis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12)
 
 ## Recursos adicionais
 
 * [Mensagens no aplicativo com Adobe Campaign](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
-* [Criar um push não](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
-* [Delivery SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
+* [Criar uma notificação por push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
+* [Deliveries de SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
