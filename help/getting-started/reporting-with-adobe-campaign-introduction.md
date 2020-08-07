@@ -1,6 +1,6 @@
 ---
-title: Introdução ao relatórios
-description: Este vídeo fornece uma visão geral sobre os recursos do relatórios Adobe Campaign Standard
+title: Introdução aos relatórios
+description: Este vídeo oferece uma visão geral sobre os recursos de relatórios do Adobe Campaign Standard
 feature: Dynamic Reports
 topics: null
 kt: 3974
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# Introdução ao relatórios
+# Introdução aos relatórios
 
-Este vídeo fornece uma visão geral sobre os recursos do relatórios Adobe Campaign Standard
+Este vídeo oferece uma visão geral sobre os recursos de relatórios do Adobe Campaign Standard
 
 >[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12)
 
@@ -26,4 +26,4 @@ Este vídeo fornece uma visão geral sobre os recursos do relatórios Adobe Camp
 
 * [Criar um relatório dinâmico](/help/reporting/creating-a-dynamic-report.md)
 * [Criar relatório dinâmico usando atributos de perfil personalizados](/help/reporting/custom-profile-attributes-dynamic-reports.md)
-* [Criar um relatório com base em segmentos de fluxo de trabalho](/help/reporting/report-on-workflow-segments.md)
+* [Criar um relatório com base em segmentos de workflow](/help/reporting/report-on-workflow-segments.md)
