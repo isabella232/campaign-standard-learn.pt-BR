@@ -8,15 +8,15 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
+source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 100%
+source-wordcount: '327'
+ht-degree: 99%
 
 ---
 
 
-# Solução de problemas do 
+# Problemas ao fotografar a [!UICONTROL Control Panel]
 
 Saiba como solucionar problemas do Painel de controle do Campaign.
 
@@ -40,7 +40,7 @@ O administrador precisa adicionar o usuário ao [!UICONTROL product profile] *[!
 ### Sintoma: uma instância não está listada no [!UICONTROL Control Panel]
 
 **Causa:**
-Provavelmente, o usuário precisa ser adicionado como um *[!UICONTROL user]* Perfil de Produto `!DNL Campaign-xxx-Administrators/Admin` para a instância que está ausente
+Provavelmente, o usuário precisa ser adicionado como um *[!UICONTROL user]* Perfil de Produto `Campaign-xxx-Administrators/Admin` para a instância que está ausente
 
 **O que fazer:**
 O administrador precisa adicionar o usuário ao Perfil de produto do `Campaign-xxx-Admins` para cada instância que ele quiser gerenciar. Se o usuário for um administrador de todas as instâncias, ainda assim será necessário adicioná-las como *[!UICONTROL user]*.
@@ -55,12 +55,12 @@ O administrador precisa adicionar o usuário ao Perfil de produto do `Campaign-x
 
 ### Documentação útil
 
-* [Descubra o [!UICONTROL Control Panel]](https://docs.adobe.com/content/help/pt-BR/control-panel/using/control-panel-home.html)
-* [Gerenciamento de permissões para o [!UICONTROL Control Panel]](https://docs.adobe.com/content/help/pt-BR/control-panel/using/control-panel-home.html)
+* [Descubra o [!UICONTROL Control Panel]](https://helpx.adobe.com/br/campaign/kb/control-panel-overview.html)
+* [Gerenciamento de permissões para o [!UICONTROL Control Panel]](https://helpx.adobe.com/br/campaign/kb/control-panel-access.html)
 
 ## Estabelecer conexão com o servidor SFTP (cliente ou API)
 
-A conexão com servidores SFTP exige:
+A conexão com servidores SFTP requer:
 
 * [!UICONTROL allow listing] o endereço IP a partir do qual você está se conectando ao servidor SFTP
 * Par de chave privada/pública que precisa ser registrado com o Adobe Campaign
