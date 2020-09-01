@@ -8,8 +8,9 @@ tutorials-title: Tutoriais
 tutorials-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/campaign-standard-home.html
+type: Tutorial
 translation-type: tm+mt
-source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
+source-git-commit: 5d176b2df0da17dd66c6b2990b9da051296fd508
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 96%
@@ -105,15 +106,15 @@ ht-degree: 96%
    + Painel de controle do Campaign {#control-panel}
       + [Visão geral do Painel de controle do Campaign](/help/administrating/control-panel/control-panel-overview.md)
       + [Monitorar a capacidade do servidor, permitindo a listagem de endereços IP e a adição de chaves SSH](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [Geração de uma chave SSH](/help/administrating/control-panel/generate-ssh-key.md)
-      + [Conexão com um servidor SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
+      + [Gerar uma chave SSH](/help/administrating/control-panel/generate-ssh-key.md)
+      + [Conectar um servidor SFTP](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [Delegar subdomínios](/help/administrating/control-panel/subdomain-delegation.md)
       + [Adicionar certificados SSL](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Gerenciamento de registros TXT do Google](/help/administrating/control-panel/google-txt-record-management.md)
       + Gerenciamento de chaves GPG {#gpg-key-management}
          + [Gerenciamento de chaves GPG – visão geral](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [Geração e instalação de chaves GPG para criptografia de dados](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [Uso de uma chave GPG para criptografar dados](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+         + [Gerar e instalar chaves GPG para criptografia de dados](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+         + [Usar uma chave GPG para criptografar dados](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
          + [Descriptografia de dados](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
       + [Solução de problemas](/help/administrating/control-panel/trouble-shooting.md)
    + Conector de dados da Adobe Experience Platform {adobe-experience-platform-data-connector}
