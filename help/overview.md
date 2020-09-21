@@ -3,10 +3,10 @@ title: Tutoriais do Adobe Campaign Standard – Visão geral
 description: O Adobe Campaign oferece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a orquestração visual de campanhas, gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 100%
+source-wordcount: '318'
+ht-degree: 62%
 
 ---
 
@@ -17,13 +17,17 @@ O Adobe Campaign oferece uma plataforma para projetar experiências de clientes 
 
 ## Novidades
 
-* **[Gerenciamento de chaves GPG](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[Adicionar grupos de controle a um delivery](/help/communication-channels/email/control-groups.md)**
 
-   *Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância do Campaign especificada para a criptografia de dados de saída, bem como importar e instalar uma chave pública em uma instância do Campaign para a descriptografia de dados de entrada.*
+   *Saiba como criar um[!UICONTROL control group]ao definir o público alvo do seu delivery.*
 
-* **[Atividade de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+* **[Otimização preditiva do tempo de envio](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
-   *Saiba como configurar e executar um workflow com a atividade de API externa.*
+   *Entenda quais workflows são necessários para sincronizar dados entre o Adobe Campaign e o modelo de IAI de jornada. Saiba como visualização as pontuações de tempo de envio em nível de perfil individual e como executar delivery de email usando uma fórmula de tempo de envio.*
+
+* **[Pontuação de envolvimento previsível](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
+
+   *Saiba como visualização as pontuações de envolvimento em nível de perfil individual, usar pontuações para direcionar usuários envolvidos e suprimir usuários fatigados e como criar regras de tipologia para gerenciar a fadiga do cliente.*
 
 ## Seleção de pessoal
 
@@ -43,16 +47,16 @@ O Adobe Campaign oferece uma plataforma para projetar experiências de clientes 
     <p>
   </td>
    <td>
-    <a href="./designing-content/email-designer/email-designer-overview.md">
-      <img alt="Email Designer (vídeos)" src="./assets/email_designer_tutorial.png" />
+    <a href="./administrating/control-panel/control-panel-overview.md">
+      <img alt="Painel de controle do Campaign (vídeos)" src="./assets/control-panel.png" />
     </a>
     <div>
-      <a href="./designing-content/email-designer/email-designer-overview.md">
-    <strong>Email Designer (vídeos)</strong>
+    <a href="./administrating/control-panel/control-panel-overview.md">
+    <strong>Painel de controle do Campaign (vídeos)</strong>
     </a>
     </div>
     <p>
-    <em>O Email Designer permite a criação visual rápida e sem esforços de emails personalizados individualmente.</em>
+    <em> Aumente sua eficiência como administrador gerenciando configurações e rastreando os usos de suas instâncias com o Painel de controle do Campaign.</em>
     <p>
   </td>
   <td>
