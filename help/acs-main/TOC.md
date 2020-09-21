@@ -11,10 +11,10 @@ getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 94c15068a733b95a41201cd2a451d2adea4b9c29
+source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
 workflow-type: tm+mt
-source-wordcount: '519'
-ht-degree: 96%
+source-wordcount: '536'
+ht-degree: 93%
 
 ---
 
@@ -51,12 +51,16 @@ ht-degree: 96%
    + Email {#email}
       + [Criar um email](/help/communication-channels/email/create-email-from-homepage.md)
       + [Enviar um teste, preparar e enviar um email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-      + [Criar um email multilíngue ou um delivery de SMS](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Converter um email, delivery de SMS ou modelo existente multilíngue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Teste A/B](/help/communication-channels/email/a-b-testing.md)
       + [Testar mensagens de email usando perfis direcionados](/help/communication-channels/email/profile-substitution.md)
+      + [Adicionar um grupo de controle a um delivery](/help/communication-channels/email/control-groups.md)
+      + [Criar um email multilíngue ou um delivery de SMS](/help/communication-channels/create-multilingual-deliveries.md)
+      + [Converter um email, delivery de SMS ou modelo existente multilíngue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Revisar um delivery de email e relatórios](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Criar e enviar emails por meio de um workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+      + E-mails com alimentação AI {#journey-ai}
+         + [Otimização preditiva do tempo de envio](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
+         + [Pontuação de envolvimento previsível](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Celular {#mobile}
       + SMS{#sms}
          + [Criar um delivery de SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
