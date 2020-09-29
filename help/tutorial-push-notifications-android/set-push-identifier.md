@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
+source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -22,6 +22,10 @@ A **[!DNL pushidentifier]** é uma string que contém o token do dispositivo par
 Abra seu projeto no [!DNL Android ]estúdio. Exclua o código inteiro em [!DNL MainActivity] exceto a primeira linha que é a declaração **** do pacote.
 
 Cole o seguinte código em [!DNL MainActivity]:
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 import androidx.annotation.NonNull;
