@@ -11,10 +11,10 @@ getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
+source-git-commit: bbbfc6d235cd2224ac14a31fbc52142d7481b144
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 92%
+source-wordcount: '540'
+ht-degree: 89%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 92%
    + [Criação de perfis e audiências - Visão geral](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Criar um perfil](/help/profiles-and-audiences/creating-a-profile.md)
    + [Criar um perfil de teste](/help/profiles-and-audiences/test-profiles.md)
-   + [Importar perfis com um workflow](/help/managing-processes-and-data/importing-profiles.md)
+   + [Importação de perfis com um fluxo de trabalho](/help/managing-processes-and-data/importing-profiles.md)
    + [Gerenciar serviços e assinaturas](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Destinos do público-alvo (BETA){#audience-destinations}
       + [Visão geral](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -64,7 +64,6 @@ ht-degree: 92%
    + Celular {#mobile}
       + SMS{#sms}
          + [Criar um delivery de SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Converter um email, delivery de SMS ou modelo existente multilíngue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Notificações por push {#push}
          + [Criar uma notificações por push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Criar uma notificação por push multilíngue](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -138,3 +137,5 @@ ht-degree: 92%
    + [Modificação de recursos personalizados para solicitações de privacidade](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Criação e rastreamento manual de solicitações de privacidade](/help/privacy/create-and-track-privacy-requests.md)
    + [Execução de solicitações de privacidade](/help/privacy/execute-privacy-requests.md)
++ [Guia de práticas recomendadas de entrega da Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
