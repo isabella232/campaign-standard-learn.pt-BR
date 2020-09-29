@@ -1,5 +1,5 @@
 ---
-title: Noções básicas sobre o Adobe Experience Platform Data Connector
+title: Saiba mais sobre o Conector de dados da Adobe Experience Platform
 description: O Adobe Experience Platform Data Connector ajuda os clientes existentes a disponibilizarem seus dados no Adobe Experience Platform, mapeando dados XTK (dados ingeridos na Campanha) para dados do Experience Data Model (XDM) no Adobe Experience Platform.
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 5%
+ht-degree: 10%
 
 ---
 
@@ -47,10 +47,10 @@ A Adobe Experience Platform [!UICONTROL Data Connector] destina-se aos engenheir
 Os seguintes tutoriais descrevem as etapas principais para executar um mapeamento de dados entre o Campaign Standard e o Adobe Experience Platform:
 
 1. [Mapeamento de recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-2. [Mapeamento de Eventos de experiência](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+2. [Mapeamento de eventos de experiência](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [Mapeamento de dados da tabela de sementes](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [Modificação do mapeamento de dados](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [Verificando o status de trabalhos de ingestão de dados](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [Verificar status dos trabalhos de assimilação de dados](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
 ## Recursos adicionais
 
