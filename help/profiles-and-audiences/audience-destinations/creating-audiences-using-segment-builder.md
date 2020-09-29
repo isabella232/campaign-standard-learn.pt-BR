@@ -1,5 +1,5 @@
 ---
-title: Criar uma nova audiência usando o Construtor de segmentos unificados
+title: 'Criar um novo público-alvo usando o Criador de segmentos unificado '
 description: null
 feature: Audience Destinations
 topics: ACOP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
 
-# Criar uma nova audiência usando o Construtor de segmentos unificados
+# Criar um novo público-alvo usando o Criador de segmentos unificado 
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >Entre em contato se [!UICONTROL Adobe Customer Support] planeja implementar esse recurso.
 
-A Adobe Campaign Standard permite que você crie audiências usando dados do Perfil [Adobe Experience Cloud em tempo](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) real usando o Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+A Adobe Campaign Standard permite que você crie audiências usando dados do Perfil [Adobe Experience Cloud em tempo](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) real com o Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
 Você pode acessar o Adobe Campaign Standard [!UICONTROL Unified Segment Builder] diretamente pelo [!UICONTROL Audiences ] módulo. Isso permite gerenciar essas audiências diretamente na visualização da [!UICONTROL Audiences] lista, onde você pode editar ou criar uma nova audiência Adobe Experience Platform diretamente da interface do Adobe Campaign
 
