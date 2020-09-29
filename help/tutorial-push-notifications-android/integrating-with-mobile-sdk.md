@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -25,7 +25,11 @@ Nesta parte, integraremos o [!DNL Android] aplicativo com [!UICONTROL Mobile SDK
 
 ![aplicativo principal](assets/android-main-app.PNG)
 
-* Expanda a [!DNL Gradle Scripts] pasta. Clique no Duplo [!DNL build.gradle] do módulo. Cole as seguintes dependências na seção dependências do [!DNL build.gradle] arquivo. Seu [!DNL build.gradle] arquivo agora deve ter a aparência abaixo
+* Expanda a [!DNL Gradle Scripts] pasta. Clique no duplo [!DNL build.gradle] do módulo. Cole as seguintes dependências na seção dependências do [!DNL build.gradle] arquivo. Seu [!DNL build.gradle] arquivo agora deve ter a aparência abaixo
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 implementation 'com.adobe.marketing.mobile:campaign:1.+'
@@ -41,12 +45,20 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 Abra *AndroidManifest.xml* e cole as duas linhas a seguir depois do elemento manifest e antes do elemento application. Isso permite que seu aplicativo se comunique com o mundo exterior
 
+<!--
+Removed `{.line-numbers}` below
+-->
+
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
 
 Copie a linha a seguir no elemento[!DNL android:name=".MainApp"]do aplicativoSalve [!DNL AndroidManifest.xml]sua [!DNL AndroidManifest.xml] aparência
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
