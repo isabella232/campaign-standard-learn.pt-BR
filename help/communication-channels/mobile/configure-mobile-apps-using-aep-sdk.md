@@ -1,5 +1,5 @@
 ---
-title: Configurar um aplicativo móvel usando o Adobe Experience Platform SDK
+title: 'Configurar um aplicativo para dispositivos móveis usando o SDK da Adobe Experience Platform '
 description: Para enviar mensagens no aplicativo ou notificações por push com um aplicativo Experience Cloud SDK, um aplicativo móvel deve ser configurado no Adobe Experience Platform Launch e configurado no Adobe Campaign
 feature: Mobile SDK V5
 topics: Mobile
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: b8f093b8e95a451bbf50ce7aca6ca4db35e3a324
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 8%
+ht-degree: 15%
 
 ---
 
