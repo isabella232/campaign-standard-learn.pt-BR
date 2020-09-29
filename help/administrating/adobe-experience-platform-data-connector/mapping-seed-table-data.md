@@ -1,5 +1,5 @@
 ---
-title: Mapeamento de dados da tabela semente
+title: Mapeamento de dados da tabela de seed
 description: Saiba como mapear seus dados de propagação e como testar perfis com o Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 6%
+ht-degree: 15%
 
 ---
 
 
-# Mapeamento de dados da tabela semente
+# Mapeamento de dados da tabela de seed
 
 >[!NOTE]
 >
