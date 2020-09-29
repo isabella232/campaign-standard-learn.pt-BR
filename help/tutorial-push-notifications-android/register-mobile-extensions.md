@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -23,6 +23,10 @@ Nesta parte, adicionaremos o código para registrar as extensões Perfil do usu�
 Abra seu projeto no [!DNL Android] estúdio. Exclua o código inteiro no MainApp, **exceto a primeira linha que é a declaração** do pacote.
 
 Cole o seguinte código no MainApp
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 import [!DNL android].app.Application;
