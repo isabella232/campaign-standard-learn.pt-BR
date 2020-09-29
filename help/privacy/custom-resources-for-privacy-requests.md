@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
@@ -33,4 +33,4 @@ Ao configurar o Adobe Campaign Standard para lidar com solicitações de privaci
 ## Recursos adicionais
 
 * [Diretrizes gerais de privacidade para Campanhas](https://helpx.adobe.com/br/campaign/kb/campaign-privacy-overview.html)
-* [Criação de recursos personalizados](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
+* [Criar recursos personalizados](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
