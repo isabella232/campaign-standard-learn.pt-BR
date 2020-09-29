@@ -1,5 +1,5 @@
 ---
-title: Ativar o Adobe Experience Platform audiência em um fluxo de trabalho
+title: Ativar públicos-alvo da Adobe Experience Platform em um workflow
 description: Este vídeo explica como ativar a Audiência de Query dos Serviços de Dados em um fluxo de trabalho usando a atividade ‘Ler audiência’.
 feature: Audience Destinations
 topics: ACOP
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
