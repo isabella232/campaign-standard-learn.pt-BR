@@ -1,6 +1,6 @@
 ---
-title: Criar perfis e audiências - Visão geral
-description: Este vídeo explica como navegar até perfis existentes e como criar perfis e audiências no Adobe Campaign Standard (ACS).
+title: Criação de perfis e audiências - Visão geral
+description: Saiba como navegar até perfis existentes e como criar perfis e audiências no Adobe Campaign Standard.
 feature: Profiles and Audiences
 topics: null
 kt: 3899
@@ -8,19 +8,19 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '87'
 ht-degree: 4%
 
 ---
 
 
-# Criar perfis e audiências - Visão geral
+# Criação de perfis e audiências - Visão geral
 
 A Adobe Campaign tem dois tipos ou perfis:
 
-* perfis identificados
+* Perfis identificados
 * Testar perfis
 
 Perfis que são agrupados de acordo com um ou vários critérios comuns são chamados de **audiências**.
