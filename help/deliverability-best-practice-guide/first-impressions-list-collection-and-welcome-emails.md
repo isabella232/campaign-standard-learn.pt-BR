@@ -8,7 +8,7 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: f797faaf9189f64eb6fc57b84c5e38d4418d5f51
+source-git-commit: 4acbb9129cfa36f4d7d00e5f8abaa32d006eaeac
 workflow-type: tm+mt
 source-wordcount: '2410'
 ht-degree: 0%
@@ -33,7 +33,7 @@ A forma mais comum de inscrição **no** site é &quot;aceitação única&quot;.
 * Endereços de email não confirmados podem ter erros de digitação ou ser malformados, incorretos ou maliciosos. Os erros de digitação e endereços malformados causam altas taxas de rejeição, o que pode e provoca bloqueios emitidos por ISPs ou perda de reputação de IP.
 * O envio mal-intencionado de armadilhas de spam conhecidas (às vezes chamadas de &quot;envenenamento por lista&quot;) pode causar grandes problemas de delivery e reputação se o proprietário dessa armadilha agir. É impossível saber se o recipient realmente quer ser adicionado a uma lista de marketing sem uma confirmação. Isso torna igualmente impossível definir as expectativas dos recipient e pode levar ao aumento de reclamações de spam - e às vezes à criação de uma lista negra se o e-mail coletado for uma armadilha de spam.
 
-Para obter orientação sobre como minimizar os problemas apresentados na loja física e na aceitação única, acesse a seção [Qualidade e higiene de](#data-quality-and-hygiene) dados neste guia para obter detalhes e benefícios da aceitação do duplo.
+Para obter orientação sobre como minimizar os problemas apresentados na loja física e na aceitação única, acesse a seção Qualidade e higiene dos dados neste guia para obter detalhes e benefícios da aceitação do duplo.
 
 Os assinantes geralmente usam endereços de desistência, endereços expirados ou endereços que não são deles para obter o que desejam de um site, mas também para evitar que sejam adicionados às listas de marketing. Quando isso acontece, as listas dos profissionais de marketing podem resultar em um alto número de rejeições, altas taxas de reclamação de spam e assinantes que não clicam, abrem ou se envolvem positivamente com emails. Isso pode ser visto como um sinalizador vermelho para provedores de caixas de correio e ISPs.
 
