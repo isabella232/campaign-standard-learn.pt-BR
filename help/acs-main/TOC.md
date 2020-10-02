@@ -11,7 +11,7 @@ getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: b28cbfdbc4edd00bc0f8cf58e2ea7fb35016e83e
+source-git-commit: a7eeaf46d27110384c7ddb143927f3a4ed06e2eb
 workflow-type: tm+mt
 source-wordcount: '526'
 ht-degree: 91%
@@ -137,4 +137,3 @@ ht-degree: 91%
    + [Modificação de recursos personalizados para solicitações de privacidade](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Criação e rastreamento manual de solicitações de privacidade](/help/privacy/create-and-track-privacy-requests.md)
    + [Execução de solicitações de privacidade](/help/privacy/execute-privacy-requests.md)
-
