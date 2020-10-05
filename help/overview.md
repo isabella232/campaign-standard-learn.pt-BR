@@ -2,11 +2,11 @@
 title: Tutoriais do Adobe Campaign Standard – Visão geral
 description: O Adobe Campaign oferece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a orquestração visual de campanhas, gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -19,15 +19,15 @@ O Adobe Campaign oferece uma plataforma para projetar experiências de clientes 
 
 * **[Adicionar grupos de controle a um delivery](/help/communication-channels/email/control-groups.md)**
 
-   *Saiba como criar um[!UICONTROL control group]ao definir o público alvo do seu delivery.*
+   *Saiba como criar um[!UICONTROL control group]ao definir o público-alvo do seu delivery.*
 
 * **[Otimização preditiva do tempo de envio](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
-   *Entenda quais workflows são necessários para sincronizar dados entre o Adobe Campaign e o modelo de IAI de jornada. Saiba como visualização as pontuações de tempo de envio em nível de perfil individual e como executar delivery de email usando uma fórmula de tempo de envio.*
+   *Entenda quais workflows são necessários para sincronizar dados entre o Adobe Campaign e o modelo de IA de jornada. Saiba como visualizar as pontuações de tempo de envio em nível de perfil individual e como executar deliveries de email usando uma fórmula de tempo de envio.*
 
-* **[Pontuação de envolvimento previsível](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
+* **[Pontuação de engajamento preditivo](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
 
-   *Saiba como visualização as pontuações de envolvimento em nível de perfil individual, usar pontuações para direcionar usuários envolvidos e suprimir usuários fatigados e como criar regras de tipologia para gerenciar a fadiga do cliente.*
+   *Saiba como visualizar as pontuações de engajamento no nível do perfil individual, usar pontuações para direcionar usuários engajados e suprimir usuários cansados e como criar regras de tipologia para gerenciar a fadiga do cliente.*
 
 ## Seleção de pessoal
 
@@ -56,7 +56,7 @@ O Adobe Campaign oferece uma plataforma para projetar experiências de clientes 
     </a>
     </div>
     <p>
-    <em> Aumente sua eficiência como administrador gerenciando configurações e rastreando os usos de suas instâncias com o Painel de controle do Campaign.</em>
+    <em> Aumente sua eficiência como administrador gerenciando configurações e rastreando o uso de suas instâncias com o Painel de controle do Campaign .</em>
     <p>
   </td>
   <td>
