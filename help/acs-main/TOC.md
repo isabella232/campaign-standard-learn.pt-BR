@@ -11,10 +11,10 @@ getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: a7eeaf46d27110384c7ddb143927f3a4ed06e2eb
+source-git-commit: bf087838a03c404d3036f0ad9c36f483dff5d4a4
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 98%
+source-wordcount: '548'
+ht-degree: 94%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 98%
 + Introdução {#getting-started}
    + [Visão geral](/help/getting-started/getting-started-overview.md)
    + [Introdução ao Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [Visão geral funcional](/help/getting-started/functional-overview.md)
    + [Introdução à interface do usuário](/help/getting-started/getting-started-with-the-ui.md)
    + [Configurar uma lista](/help/getting-started/configure-a-list.md)
    + [Explore a hierarquia e as atividades de marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
@@ -137,3 +136,5 @@ ht-degree: 98%
    + [Modificação de recursos personalizados para solicitações de privacidade](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Criação e rastreamento manual de solicitações de privacidade](/help/privacy/create-and-track-privacy-requests.md)
    + [Execução de solicitações de privacidade](/help/privacy/execute-privacy-requests.md)
++ [Guia de práticas recomendadas de entrega da Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [Painel de controle](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
