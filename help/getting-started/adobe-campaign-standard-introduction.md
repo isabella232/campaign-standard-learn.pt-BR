@@ -3,21 +3,22 @@ title: Introdução ao Adobe Campaign Standard
 description: Este vídeo oferece uma introdução de alto nível à Adobe Campaign Standard.
 feature: Profiles and Audiences
 topics: null
-kt: 3993
+kt: 3971
+thumbnail: 29430.jpg
 doc-type: feature video
 activity: understand
 team: PMM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
 workflow-type: tm+mt
-source-wordcount: '34'
-ht-degree: 0%
+source-wordcount: '32'
+ht-degree: 21%
 
 ---
 
 
-# Introdução ao Adobe Campaign Standard
+# Introdução ao [!UICONTROL Adobe Campaign Standard]
 
-Este vídeo oferece uma introdução de alto nível à Adobe Campaign Standard.
+Este vídeo apresenta [!UICONTROL Adobe Campaign Standard] e fornece uma visão geral de alto nível sobre a funcionalidade principal.
 
->[!VIDEO](https://video.tv.adobe.com/v/27072?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12)
