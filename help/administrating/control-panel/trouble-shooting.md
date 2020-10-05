@@ -7,16 +7,16 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '327'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 
-# Problemas ao fotografar a [!UICONTROL Control Panel]
+# Resolução de problemas do [!UICONTROL Control Panel]
 
 Saiba como solucionar problemas do Painel de controle do Campaign.
 
@@ -47,10 +47,10 @@ O administrador precisa adicionar o usuário ao Perfil de produto do `Campaign-x
 
 ### Vídeos úteis
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=por_br)
 *Verificação[!DNL IMS Org ID](00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=por_br)
 *Como adicionar um administrador ao[!UICONTROL product profile]*[!DNL administrators]*para poder usar o[!UICONTROL Control Panel](01:03 min)*
 
 ### Documentação útil
