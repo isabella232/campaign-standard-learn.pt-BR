@@ -14,7 +14,7 @@ translation-type: tm+mt
 source-git-commit: a7eeaf46d27110384c7ddb143927f3a4ed06e2eb
 workflow-type: tm+mt
 source-wordcount: '526'
-ht-degree: 91%
+ht-degree: 98%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 91%
    + [Explore a hierarquia e as atividades de marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Gerenciar campanhas](/help/getting-started/managing-campaigns.md)
    + [Sobre perfis e públicos-alvo](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Criar um email](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [Criar um email](https://docs.adobe.com/content/help/pt-BR/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Criar um workflow](/help/managing-processes-and-data/create-workflow.md)
    + [Introdução aos relatórios](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing para dispositivos móveis com o Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
@@ -58,9 +58,9 @@ ht-degree: 91%
       + [Converter um email, delivery de SMS ou modelo existente multilíngue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Revisar um delivery de email e relatórios](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Criar e enviar emails por meio de um workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + E-mails com alimentação AI {#journey-ai}
+      + Emails alimentados por IA {#journey-ai}
          + [Otimização preditiva do tempo de envio](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
-         + [Pontuação de envolvimento previsível](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
+         + [Pontuação de engajamento preditivo](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Celular {#mobile}
       + SMS{#sms}
          + [Criar um delivery de SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
@@ -84,7 +84,7 @@ ht-degree: 91%
 + Projetar e personalizar conteúdo {#designing-content}
    + Email Designer{#email-designer}
       + [Visão geral](/help/designing-content/email-designer/email-designer-overview.md)
-      + [Introdução ao Designer de email](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [Introdução ao Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Introdução a modelos de conteúdo de email](/help/designing-content/email-designer/email-content-templates.md)
       + [Configurar visualização para dispositivos móveis](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Pré-visualização de email e análise anti spam](/help/designing-content/email-designer/preview-your-email.md)
