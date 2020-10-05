@@ -8,21 +8,21 @@ thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Adicionar um [!UICONTROL control group] a um [!UICONTROL delivery]
 
-Trabalhar com [!UICONTROL control groups] permite medir o impacto que [!UICONTROL delivery ]tem e otimizar sua campanha de marketing.
+Trabalhar com o [!UICONTROL control groups] permite medir o impacto do seu [!UICONTROL delivery ] e otimizar sua campanha de marketing.
 
-[!DNL Adobe Campaign Standard] permite que você crie um [!UICONTROL control group], que pode ser excluído da audiência do público alvo, aleatoriamente ou com base em critérios específicos. O comportamento do público alvo [!UICONTROL control group] pode servir de referência para comparar o comportamento da população que recebeu a comunicação de marketing.
+O [!DNL Adobe Campaign Standard] permite criar um [!UICONTROL control group], que pode ser excluído do público-alvo, aleatoriamente ou de acordo com critérios específicos. O comportamento do [!UICONTROL control group] pode servir como referência para comparar o comportamento da população que recebeu a comunicação de marketing.
 
-Saiba como definir um [!UICONTROL control group] para o seu [!UICONTROL delivery] e como extrair os perfis atribuídos ao [!UICONTROL control group] depois que o [!UICONTROL delivery] foi enviado.
+Saiba como definir um [!UICONTROL control group] para o seu [!UICONTROL delivery] e como extrair os perfis atribuídos ao [!UICONTROL control group] após o envio do [!UICONTROL delivery].
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12&captions=por_br)
