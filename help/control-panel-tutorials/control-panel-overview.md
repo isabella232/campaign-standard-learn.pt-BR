@@ -1,6 +1,6 @@
 ---
-title: Painel de controle do Campaign
-description: O Painel de controle do Campaign permite que os administradores da Adobe Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
+title: Painel de controle do Campaign - Visão geral
+description: O Painel de controle do Campaign Adobe Campaign permite que os administradores do Adobe Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,54 +8,77 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 3b6e85fee260723c83306825e5bcf59c58b2b118
+source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 72%
+source-wordcount: '255'
+ht-degree: 29%
 
 ---
 
+# Painel de controle do Campaign - Visão geral
 
-# [!UICONTROL Control Panel] {#control-panel}
+O Painel de controle do Campaign Adobe Campaign permite que os administradores do Adobe Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
 
->[!NOTE]
->
->Os termos &quot;[!UICONTROL whitelist]&quot; e &quot;[!UICONTROL blacklist]&quot; foram substituídos pelos termos &quot;[!UICONTROL allowlist]&quot; e &quot;[!UICONTROL denylist]&quot;na documentação do Adobe Campaign. Algumas ocorrências desses termos ainda podem existir na interface do usuário do produto, nomes de opções e código interno, bem como nos vídeos de tutoriais. Eles serão substituídos em versões futuras do Painel de controle do Campaign.
+## Novidades
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+* **[Gerar e instalar chaves GPG para criptografia de dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
 
-## Acesso ao [!UICONTROL Control Panel]
+   *Saiba como gerar um par de chaves GPG públicas/privadas e instalar a chave pública para[!UICONTROL Control Panel]poder criptografar dados antes de enviá-los da sua instância.*
 
-Para acessar o Painel de controle do Campaign, vá até a página inicial da Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+* **[Usar uma chave GPG para criptografar dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
 
-* **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
+   *Saiba como exportar dados usando uma chave GPG instalada em[!UICONTROL Control Panel].*
 
-   ou
-* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > **[!UICONTROL Control Panel]card**
+* **[Descriptografar dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
 
-   ou
+   *Saiba como criar uma chave pública, importá-la e instalá-la em uma instância do[!UICONTROL Campaign]para descriptografar dados de entrada.*
 
-* Diretamente pelo URL: [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
+## Escolha de pessoal
 
-## Pré-requisitos
-
-Antes de começar, conclua os seguintes pré-requisitos:
-
-### Confirmar o [!DNL IMS Org ID]
-
-Você precisa conhecer o seu [!DNL IMS org ID]. O vídeo a seguir descreve onde você pode pesquisar o [!DNL IMS org ID] da sua instância.
-
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Verificação[!DNL IMS Org ID](00:26 min)*
-
-### Direitos de administrador
-
-Os direitos de administrador são necessários para acessar o [!UICONTROL Control Panel].
-O vídeo a seguir explica como adicionar um administrador a uma instância do Campaign
-
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+<table>
+<tr>
+  <td>
+    <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
+      <img alt="Delegar subdomínios ao Adobe Campaign (vídeo)" src="./assets/31390.jpg"/>
+    </a>
+    <div>
+      <a href="./subdomains-and-certificates/subdomain-delegation.md">
+    <strong>Delegar subdomínios ao Adobe Campaign (vídeo)</strong>
+    </a>
+    </div>
+    <p>
+    <em>Saiba como delegar completamente um subdomínio ao Adobe Campaign.</em>
+    <p>
+  </td>
+   <td>
+    <a href="./subdomains-and-certificates/google-txt-record-management.md">
+      <img alt="Gerenciamento de registros TXT do Google (vídeos)" src="./assets/32369.jpg" />
+    </a>
+    <div>
+    <a href="./subdomains-and-certificates/google-txt-record-management.md">
+    <strong>Gerenciamento de registros TXT do Google (vídeos)</strong>
+    </a>
+    </div>
+    <p>
+    <em> Saiba como você pode adicionar registros de verificação de site do Google TXT a todos os seus subdomínios usados para enviar emails para endereços GMAIL com Painel de controle do Campaign de Campanha.</em>
+    <p>
+  </td>
+  <td>
+    <a href="./sftp-management/connect-to-sftp-server.md">
+      <img alt="Conectar-se a um servidor SFTP" src="./assets/27263.jpg" />
+    </a>
+    <div>
+      <a href="./sftp-management/connect-to-sftp-server.md">
+    <strong>Conectar um servidor SFTP</strong>
+    </a>
+    </div>
+    <p>
+    <em>Saiba como se conectar ao servidor SFTP usando um aplicativo SFTP cliente, usando as chaves que você armazenou no Painel de controle do Campaign. </em>
+    <p>
+  </td>
+</tr>
+</table>
 
 ## Recursos adicionais
 
 * [Centro de ajuda do Painel de controle do Campaign](https://docs.adobe.com/content/help/pt-BR/control-panel/using/control-panel-home.translate.html)
-
