@@ -7,9 +7,9 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: a078367ce8ffece206d3b83bfeefc4df4f8078d6
+workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 100%
 
@@ -45,7 +45,8 @@ Antes de começar, conclua os seguintes pré-requisitos:
 
 Você precisa conhecer o seu [!DNL IMS org ID]. O vídeo a seguir descreve onde você pode pesquisar o [!DNL IMS org ID] da sua instância.
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *Verificação[!DNL IMS Org ID](00:26 min)*
 
 ### Direitos de administrador
@@ -53,8 +54,9 @@ Você precisa conhecer o seu [!DNL IMS org ID]. O vídeo a seguir descreve onde 
 Os direitos de administrador são necessários para acessar o [!UICONTROL Control Panel].
 O vídeo a seguir explica como adicionar um administrador a uma instância do Campaign
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=por_br)
-*Como adicionar um administrador ao perfil &quot;[!UICONTROL Administrators]&quot; do produto para poder usar[!UICONTROL Control Panel](01:03 min)*
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
+*Como adicionar um administrador ao perfil &quot;[!UICONTROL Administrators]&quot; do produto para usar[!UICONTROL Control Panel](01:03 min)*
 
 ## Tutoriais do Painel de controle do Campaign
 
