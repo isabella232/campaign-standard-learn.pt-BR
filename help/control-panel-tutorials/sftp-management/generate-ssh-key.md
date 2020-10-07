@@ -1,17 +1,18 @@
 ---
 title: Gerar uma chave SSH
-description: Você precisa gerar uma chave SSH para adicioná-la ao Painel de controle do Adobe Campaign. O vídeo abaixo explica como gerar uma chave SSH usando um terminal.
+description: Saiba como gerar uma chave SSH usando um terminal e como armazenar a versão pública da chave no Painel de controle do Campaign.
 feature: Control Panel
 topics: null
 kt: 2923
+thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 356e9e4b43b0f192782fc28473be87005b9d2921
+source-git-commit: 21e864e4becac6a88f28c73d7df483014199387b
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 67%
+source-wordcount: '110'
+ht-degree: 35%
 
 ---
 
@@ -31,6 +32,6 @@ To access the SFTP Management in [!UICONTROL Control Panel], go to:
 
 ## Como gerar uma chave SSH
 
-O vídeo a seguir explica como gerar uma chave SSH usando um terminal.
+Saiba como gerar uma chave SSH usando um terminal e como armazenar a versão pública da chave no Painel de controle do Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
