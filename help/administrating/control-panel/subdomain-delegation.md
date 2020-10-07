@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '120'
+ht-degree: 80%
 
 ---
 
@@ -38,6 +38,7 @@ Para acessar o [!UICONTROL Subdomain Management] no [!UICONTROL Control Panel], 
 O vídeo abaixo demonstra como delegar subdomínios.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
+
 *Delegar subdomínios (05:07 min)*
 
 ## Recursos adicionais
