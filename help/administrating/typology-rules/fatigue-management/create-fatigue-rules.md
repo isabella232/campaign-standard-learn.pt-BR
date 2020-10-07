@@ -8,7 +8,7 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 24%
@@ -22,6 +22,7 @@ ht-degree: 24%
 To create [!UICONTROL fatigue rules], you need to define a maximum number of messages per profile and select a period for which the rule will apply. Durante a preparação do delivery, os perfis são excluídos do delivery, se aplicável, dependendo do número de mensagens já enviadas a eles.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12)
+
 *Como criar um[!UICONTROL fatigue rule](04:49 min)*
 
 ## Recursos adicionais
