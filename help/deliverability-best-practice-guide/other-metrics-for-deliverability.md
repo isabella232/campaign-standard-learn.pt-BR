@@ -8,7 +8,7 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 7aa32d583ac2ea756945a17634fb477d7b94cb7f
+source-git-commit: 6e4824185b84715d514bf21aace9e57c602e970d
 workflow-type: tm+mt
 source-wordcount: '1367'
 ht-degree: 1%
@@ -46,7 +46,8 @@ Rejeições suaves são falhas temporárias que os ISPs geram quando têm dificu
 >[!NOTE]
 >
 >Rejeições são um indicador chave de um problema de reputação, pois podem destacar uma fonte de dados inválida (rejeição) ou um problema de reputação com um ISP (rejeição parcial).
-Geralmente, as rejeições de software ocorrem como parte do envio de e-mail e devem ser permitidas resolvê-las durante o processamento da nova tentativa antes de caracterizar como um problema de entrega real. Se a sua taxa de rejeição flexível for maior que 30% para um único ISP e não for resolvida dentro de 24 horas, é recomendável levantar uma preocupação com seu consultor de entrega da Adobe Campaign.
+>
+>Geralmente, as rejeições de software ocorrem como parte do envio de e-mail e devem ser permitidas resolvê-las durante o processamento da nova tentativa antes de caracterizar como um problema de entrega real. Se a sua taxa de rejeição flexível for maior que 30% para um único ISP e não for resolvida dentro de 24 horas, é recomendável levantar uma preocupação com seu consultor de entrega da Adobe Campaign.
 
 ## Reclamações
 
