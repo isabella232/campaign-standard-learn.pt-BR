@@ -12,7 +12,7 @@ getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 9e1a79692d12189657e21ea728ace94ff0403840
+source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 85%
@@ -34,8 +34,8 @@ ht-degree: 85%
    + [Gerenciamento de registros TXT do Google](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Configurações de instância {#instance-settings}
    + Gerenciamento de chaves GPG {#gpg-key-management}
-      + [Gerenciamento de chaves GPG – visão geral](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [Gerar e instalar chaves GPG para criptografia de dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-      + [Usar uma chave GPG para criptografar dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [Descriptografar dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+   + [Gerenciamento de chaves GPG – visão geral](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+   + [Gerar e instalar chaves GPG para criptografia de dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   + [Usar uma chave GPG para criptografar dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   + [Descriptografar dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + [Solução de problemas do Painel de controle do Campaign](/help/control-panel-tutorials/trouble-shooting.md)
