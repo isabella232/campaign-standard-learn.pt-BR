@@ -3,9 +3,10 @@ title: Gerenciamento de chaves GPG – Visão geral
 description: Os vídeos a seguir explicam como gerar e instalar um par de chaves públicas/privadas em uma instância do Campaign especificada para a criptografia de dados de saída, bem como importar e instalar uma chave pública em uma instância do Campaign para a descriptografia de dados de entrada.
 feature: Control Panel
 topics: GPG key Management
+audience: administrator
 team: TM
 translation-type: tm+mt
-source-git-commit: e4cfb5ed1118cda9e545d84e51adb8e5bede324e
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 100%
