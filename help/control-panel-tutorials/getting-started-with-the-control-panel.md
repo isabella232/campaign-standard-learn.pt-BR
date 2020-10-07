@@ -1,18 +1,19 @@
 ---
 title: Introdução ao Painel de controle do Campaign
-description: O Painel de controle do Campaign permite que os administradores da Adobe Campaign monitorem ativos principais e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância, gerenciar chaves GPG ou subdomínios e certificados.
+description: Este artigo explica como acessar o Painel de controle do Campaign e quais pré-requisitos podem funcionar com o painel de controle.
 feature: Control Panel
 topics: Control Panel
+audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
 doc-type: feature video
-activity: use
+activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 68%
+source-wordcount: '215'
+ht-degree: 62%
 
 ---
 
@@ -24,6 +25,8 @@ ht-degree: 68%
 >Os termos &quot;[!UICONTROL whitelist]&quot; e &quot;[!UICONTROL blacklist]&quot; foram substituídos pelos termos &quot;[!UICONTROL allowlist]&quot; e &quot;[!UICONTROL denylist]&quot;na documentação do Adobe Campaign. Algumas ocorrências desses termos ainda podem existir na interface do usuário do produto, nomes de opções e código interno, bem como nos vídeos de tutoriais. Eles serão substituídos em versões futuras do Painel de controle do Campaign.
 
 The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+
+Este artigo explica como acessar o Painel de controle do Campaign e quais pré-requisitos podem funcionar com o painel de controle.
 
 ## Acesso ao [!UICONTROL Control Panel]
 
@@ -47,8 +50,6 @@ Antes de começar, conclua os seguintes pré-requisitos:
 Você precisa conhecer o seu [!DNL IMS org ID]. O vídeo a seguir descreve onde você pode pesquisar o [!DNL IMS org ID] da sua instância.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-
-*Verificação[!DNL IMS Org ID](00:26 min)*
 
 ### Direitos de administrador
 
