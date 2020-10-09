@@ -3,14 +3,14 @@ title: Gerar uma chave SSH
 description: Saiba como gerar uma chave SSH usando um terminal e como armazenar a versão pública da chave no Painel de controle do Campaign.
 feature: Control Panel
 topics: null
-audience: administrator
 kt: 2923
 thumbnail: 27259.jpg
 doc-type: feature video
+audience: administrator
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 35%
