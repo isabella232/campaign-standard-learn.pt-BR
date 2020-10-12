@@ -1,8 +1,8 @@
 ---
 product: adobe campaign standard
 user-guide-title: Tutorials de Painel de controle do Campaign Adobe Campaign
-user-guide-description: Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or allow list IP addresses.
-breadcrumb-title: Control Panel Tutorials
+user-guide-description: O Painel de controle do Campaign permite que os administradores da Adobe Campaign monitorem os principais ativos e executem tarefas administrativas, como gerenciar o armazenamento SFTP por instância ou endereços IP de lista de permissões.
+breadcrumb-title: Tutoriais do Painel de controle do Campaign
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Tutoriais
@@ -12,10 +12,10 @@ getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
+source-git-commit: 8e6298c9d6fc7989b5296dc0fbea2ebeffc337a6
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 75%
+source-wordcount: '141'
+ht-degree: 61%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 75%
 + [Visão geral do Painel de controle do Campaign](/help/control-panel-tutorials/control-panel-overview.md)
 + [Introdução ao Painel de controle do Campaign](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + Gerenciamento de SFTP {#sftp-management}
-   + [Monitoramento da capacidade do servidor](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+   + [Monitoramento da capacidade do servidor](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [Adicionar um intervalo IP à lista de permissões](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [Gerar uma chave SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Conectar um servidor SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
