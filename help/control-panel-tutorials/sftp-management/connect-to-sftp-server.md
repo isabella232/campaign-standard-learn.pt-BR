@@ -3,14 +3,14 @@ title: Conexão com um servidor SFTP
 description: Este vídeo explica como se conectar ao servidor SFTP usando um aplicativo SFTP cliente com as chaves que você armazenou no Painel de controle do Campaign.
 feature: SFTP Management
 topics: Control Panel
+audience: administrator
 kt: 2924
 thumbnail: 27263.jpg
 doc-type: feature video
-audience: administrator
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
+source-git-commit: 0e18e57b68ab324af15cb2ec14f3e2f35f972be2
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 100%
