@@ -10,9 +10,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 0e18e57b68ab324af15cb2ec14f3e2f35f972be2
+source-git-commit: 1eea268dadaf6d4cef15daaadaa085c3cab0e676
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '157'
 ht-degree: 100%
 
 ---
@@ -42,5 +42,3 @@ A conexão com servidores SFTP requer:
 Este vídeo explica como se conectar ao servidor SFTP usando um aplicativo SFTP cliente com as chaves que você armazenou no Painel de controle do Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
-
-*Conecte-se a um servidor SFTP (2:04 min)*
