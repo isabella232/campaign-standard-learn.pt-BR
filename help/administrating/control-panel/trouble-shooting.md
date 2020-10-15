@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 66b8f4b6378eb974dc858b28c0479a9cb5d52a6b
+source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%
@@ -53,7 +53,7 @@ O administrador precisa adicionar o usuário ao Perfil de produto do `Campaign-x
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Como adicionar um administrador ao [!UICONTROL product profile] *[!DNL administrators]* para poder usar o [!UICONTROL Control Panel] (01:03 min)*
+*Como adicionar um administrador ao [!UICONTROL product profile]*[!DNL administrators]*para poder usar o [!UICONTROL Control Panel] (01:03 min)*
 
 ### Documentação útil
 
@@ -68,7 +68,7 @@ A conexão com servidores SFTP requer:
 * Par de chave privada/pública que precisa ser registrado com o Adobe Campaign
 * Se você se conectar diretamente ao servidor SFTP, precisará também do software cliente SFTP
 
-### Documentação útil
+### Documentação útil {#helpful-docs}
 
 * [Fazer logon no servidor SFTP](https://docs.adobe.com/content/help/pt-BR/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 
