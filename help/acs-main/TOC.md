@@ -1,8 +1,8 @@
 ---
 product: adobe campaign standard
 user-guide-title: Tutoriais do Adobe Campaign Standard
-user-guide-description: Design cross-channel customer experiences and create an environment for visual campaign orchestration, real time interaction management, and cross channel execution.
-breadcrumb-title: Campaign Standard Tutorials
+user-guide-description: Desenhe experiências de clientes entre canais e crie um ambiente para a orquestração visual de campanhas, gerenciamento de interação em tempo real e execução entre canais.
+breadcrumb-title: Tutoriais do Campaign Standard
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Tutoriais
@@ -13,8 +13,8 @@ type: Tutorial
 translation-type: tm+mt
 source-git-commit: 370c10f0f3c696ce006c4af8d01c80bafa25b50c
 workflow-type: tm+mt
-source-wordcount: '524'
-ht-degree: 98%
+source-wordcount: '571'
+ht-degree: 94%
 
 ---
 
@@ -136,3 +136,5 @@ ht-degree: 98%
    + [Modificação de recursos personalizados para solicitações de privacidade](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Criação e rastreamento manual de solicitações de privacidade](/help/privacy/create-and-track-privacy-requests.md)
    + [Execução de solicitações de privacidade](/help/privacy/execute-privacy-requests.md)
++ [Guia de práticas recomendadas de entrega da Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [Painel de controle](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
