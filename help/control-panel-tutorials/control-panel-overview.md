@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 29%
+source-wordcount: '197'
+ht-degree: 18%
 
 ---
 
@@ -22,17 +22,9 @@ O Painel de controle do Campaign Adobe Campaign permite que os administradores d
 
 ## Novidades
 
-* **[Gerar e instalar chaves GPG para criptografia de dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
+* **[Delegar subdomínios usando CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Saiba como gerar um par de chaves GPG públicas/privadas e instalar a chave pública para[!UICONTROL Control Panel]poder criptografar dados antes de enviá-los da sua instância.*
-
-* **[Usar uma chave GPG para criptografar dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
-
-   *Saiba como exportar dados usando uma chave GPG instalada em[!UICONTROL Control Panel].*
-
-* **[Descriptografar dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
-
-   *Saiba como criar uma chave pública, importá-la e instalá-la em uma instância do[!UICONTROL Campaign]para descriptografar dados de entrada.*
+   *Saiba como configurar e enviar um subdomínio usando CNAMEs no Painel de controle do Campaign.*
 
 ## Escolha de pessoal
 
