@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '194'
+ht-degree: 52%
 
 ---
 
@@ -61,5 +61,5 @@ O vídeo abaixo explica como instalar certificados SSL em [!UICONTROL Control Pa
 
 ## Recursos adicionais
 
-* [Delegar subdomínios](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+* [Delegação completa do subdomínio (vídeo)](./subdomain-delegation.md)
 * [Subdomínios e certificados - Documentação](https://docs.adobe.com/content/help/pt-BR/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
