@@ -3,10 +3,10 @@ title: Tutoriais do Adobe Campaign Standard – Visão geral
 description: O Adobe Campaign oferece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a orquestração visual de campanhas, gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '337'
-ht-degree: 94%
+source-wordcount: '262'
+ht-degree: 85%
 
 ---
 
@@ -17,17 +17,9 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
 
 ## Novidades
 
-* **[Adicionar grupos de controle a um delivery](/help/communication-channels/email/control-groups.md)**
+* **[Delegar subdomínios usando CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Saiba como criar um [!UICONTROL control group] ao definir o público-alvo do seu delivery.*
-
-* **[Otimização preditiva do tempo de envio](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
-
-   *Entenda quais workflows são necessários para sincronizar dados entre o Adobe Campaign e o modelo de IA de jornada. Saiba como visualizar as pontuações de tempo de envio em nível de perfil individual e como executar deliveries de email usando uma fórmula de tempo de envio.*
-
-* **[Pontuação de engajamento preditivo](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
-
-   *Saiba como visualizar as pontuações de engajamento no nível do perfil individual, usar pontuações para direcionar usuários engajados e suprimir usuários cansados e como criar regras de tipologia para gerenciar a fadiga do cliente.*
+   *Saiba como configurar e enviar um subdomínio usando CNAMEs no Painel de controle do Campaign.*
 
 ## Seleção de pessoal
 
