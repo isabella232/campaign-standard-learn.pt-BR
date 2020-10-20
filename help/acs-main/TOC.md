@@ -13,8 +13,8 @@ type: Tutorial
 translation-type: tm+mt
 source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 98%
+source-wordcount: '521'
+ht-degree: 94%
 
 ---
 
@@ -123,3 +123,5 @@ ht-degree: 98%
    + [Modificação de recursos personalizados para solicitações de privacidade](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Criação e rastreamento manual de solicitações de privacidade](/help/privacy/create-and-track-privacy-requests.md)
    + [Execução de solicitações de privacidade](/help/privacy/execute-privacy-requests.md)
++ [Guia de práticas recomendadas de entrega da Adobe Campaign](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [Painel de controle](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
