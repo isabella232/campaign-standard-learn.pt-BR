@@ -1,5 +1,5 @@
 ---
-title: Criação de perfis e audiências - Visão geral
+title: Criar perfis e públicos-alvo – visão geral
 description: Saiba como navegar até perfis existentes e como criar perfis e públicos-alvo no Adobe Campaign Standard.
 feature: Profiles and Audiences
 topics: null
@@ -11,12 +11,12 @@ translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 25%
+ht-degree: 36%
 
 ---
 
 
-# Criação de perfis e audiências - Visão geral
+# Criar perfis e públicos-alvo – visão geral
 
 A Adobe Campaign tem dois tipos ou perfis:
 
