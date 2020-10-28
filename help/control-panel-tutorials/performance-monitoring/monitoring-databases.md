@@ -10,19 +10,19 @@ audience: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 68324e2e234b3c98e9cc2cd8400a03d272306093
+source-git-commit: da28f90f376f867e861194f828493fc66cc604e4
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 3%
+source-wordcount: '86'
+ht-degree: 2%
 
 ---
 
 
 # Monitoramento de bancos de dados
 
-Os bancos de dados das [!DNL Adobe Campaign] instâncias incluem todos os ativos, workflows e dados armazenados em [!DNL Adobe Campaign]. O monitoramento dos bancos de dados de suas instâncias é, portanto, essencial para garantir o desempenho ideal.
+Todos os ativos, workflows e dados da instância de Campanha são armazenados no banco de dados. O banco de dados atingindo sua capacidade máxima pode causar problemas com sua instância (incapacidade de fazer logon, enviar emails etc.). Portanto, é essencial monitorar regularmente os bancos de dados de suas instâncias para garantir um desempenho ótimo.
 
-Saiba como monitorar o uso do banco de dados das instâncias com o [!DNL Control Panel].
+Saiba como monitorar o uso do banco de dados de suas instâncias com o [!DNL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
