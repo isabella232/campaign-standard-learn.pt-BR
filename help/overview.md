@@ -3,25 +3,29 @@ title: Tutoriais do Adobe Campaign Standard – Visão geral
 description: O Adobe Campaign oferece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a orquestração visual de campanhas, gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 85%
+source-wordcount: '274'
+ht-degree: 89%
 
 ---
 
 
-# Adobe Campaign Standard - Visão geral
+# Adobe Campaign Standard – Visão geral
 
 O Adobe Campaign fornece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 
 ## Novidades
 
+* **[Monitoramento de bancos de dados](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+
+   *Saiba como monitorar o uso do banco de dados de suas instâncias.*
+
 * **[Delegar subdomínios usando CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *Saiba como configurar e enviar um subdomínio usando CNAMEs no Painel de controle do Campaign.*
 
-## Seleção de pessoal
+## Escolha de pessoal
 
 <table>
 <tr>
