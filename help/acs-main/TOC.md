@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard-learn
 getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 40cd637d2b80670b6e24047c39300470e4ffe2f1
+source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 98%
+source-wordcount: '502'
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 98%
    + [Gerenciar campanhas](/help/getting-started/managing-campaigns.md)
    + [Sobre perfis e públicos-alvo](/help/getting-started/understanding-profiles-and-audiences.md)
    + [Criar um email](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [Criar um workflow](/help/managing-processes-and-data/create-workflow.md)
+   + [Criar um workflow](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
    + [Introdução aos relatórios](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing para dispositivos móveis com o Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Crescer com o Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
@@ -90,7 +90,7 @@ ht-degree: 98%
       + [Criar conteúdo usando o Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Configurar listas de produtos em emails transacionais](/help/designing-content/product-listings-in-transactional-email.md)
 + Gerenciamento de processos e dados {#managing-processes-and-data}
-   + [Criar um workflow](/help/managing-processes-and-data/create-workflow.md)
+   + [Criar um workflow](/help/managing-processes-and-data/creating-a-workflow.md)
    + Atividades de execução {#execution-activities}
       + [Atividade de sinal externo](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Atividades de gestão de dados {#data-management-activities}
