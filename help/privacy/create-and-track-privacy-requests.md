@@ -4,14 +4,15 @@ description: A Adobe Campaign permite que você crie e exclua solicitações de 
 feature: GDPR, CCPA
 topic: null
 kt: 1242
+thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 5%
+ht-degree: 19%
 
 ---
 
@@ -26,5 +27,5 @@ Estes vídeos demonstram como criar manualmente solicitações de privacidade e 
 
 ## Recursos adicionais
 
-* [Diretrizes gerais de privacidade para Campanhas](https://helpx.adobe.com/br/campaign/kb/campaign-privacy-overview.html)
-* [CCPA para ACS](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
+* [Diretrizes gerais de privacidade do Campaign](https://helpx.adobe.com/br/campaign/kb/campaign-privacy-overview.html)
+* [CCPA para ACS](https://helpx.adobe.com/br/campaign/kb/acs-privacy.html#ccpa)
