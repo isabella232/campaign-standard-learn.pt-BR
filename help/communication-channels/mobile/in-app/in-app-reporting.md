@@ -4,18 +4,19 @@ description: As mensagens no aplicativo permitem que você apresente ao usuário
 feature: In-App
 topics: Mobile
 kt: 2558
+thumbnail: 26412.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 4%
+ht-degree: 10%
 
 ---
 
-# Relatório sobre seu [!UICONTROL In-App] delivery {#in-app-message-reporting}
+# Report on your [!UICONTROL In-App] delivery {#in-app-message-reporting}
 
 Você pode revisar seus dados relacionados ao [!UICONTROL In-App] delivery no resumo do delivery adicionando métricas [!UICONTROL In-App] específicas. Como alternativa, você pode usar o Relatório [](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)no aplicativo pronto.
 
