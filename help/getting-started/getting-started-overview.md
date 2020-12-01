@@ -8,10 +8,10 @@ doc-type: null
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 95%
 
 ---
 
@@ -30,7 +30,7 @@ Há um conjunto de tutoriais em vídeo disponíveis para ajudar você a começar
 * [Explore a hierarquia e as atividades de marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
 * [Gerenciar campanhas](/help/getting-started/managing-campaigns.md)
 * [Sobre perfis e públicos-alvo](/help/getting-started/understanding-profiles-and-audiences.md)
-* [Criar um email](https://docs.adobe.com/content/help/pt-BR/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+* [Criação de email](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
 * [Criar um workflow](/help/managing-processes-and-data/creating-a-workflow.md)
 * [Introdução aos relatórios](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
 * [Marketing para dispositivos móveis com o Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
