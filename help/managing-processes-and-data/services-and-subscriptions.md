@@ -1,22 +1,23 @@
 ---
-title: Gerenciar serviços e subscrições
+title: Gerenciar serviços e assinaturas
 description: A Adobe Campaign permite que você crie e gerencie boletins informativos e comunicações entre canais, por meio de um conjunto de serviços. Este vídeo mostrará como criar um serviço e gerenciar suas subscrições no Adobe Campaign Standard (ACS).
 feature: Subscriptions and Services
 topics: null
 kt: 1815
+thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 27%
+ht-degree: 31%
 
 ---
 
 
-# Manage services and subscriptions{#managing-services-and-subscriptions}
+# Gerenciar serviços e assinaturas{#managing-services-and-subscriptions}
 
 A Adobe Campaign permite que você crie e gerencie boletins informativos e comunicações entre canais, por meio de um conjunto de serviços. As mensagens só podem ser enviadas a perfis que se inscreveram no serviço (aceitação). Esses perfis são identificados usando um filtro dedicado ao criar uma mensagem.
 
