@@ -1,24 +1,25 @@
 ---
-title: Criar e enviar emails por meio de um fluxo de trabalho
-description: 'Você pode criar um email de uma campanha, do home page Adobe Campaign ou da lista de atividade de marketing. Também é possível criar emails recorrentes e de envio único a partir de um fluxo de trabalho. Este vídeo explica como criar um delivery de email na página inicial. '
+title: Criar e enviar emails por meio de um workflow
+description: 'Você pode criar um email a partir de uma campanha, da página inicial do Adobe Campaign ou na lista de atividades de marketing. Também é possível criar emails recorrentes e de envio único a partir de um fluxo de trabalho. Este vídeo explica como criar uma entrega de email a partir da página inicial. '
 feature: Email
 topics: null
 kt: 4319
+thumbnail: 31465.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 10%
+ht-degree: 77%
 
 ---
 
 
-# Criar e enviar emails por meio de um fluxo de trabalho
+# Criar e enviar emails por meio de um workflow
 
-Você pode criar um email de uma campanha, do home page Adobe Campaign ou da lista de atividade de marketing. Também é possível criar emails recorrentes e de envio único a partir de um fluxo de trabalho.
+Você pode criar um email a partir de uma campanha, da página inicial do Adobe Campaign ou na lista de atividades de marketing. Também é possível criar emails recorrentes e de envio único a partir de um fluxo de trabalho.
 
 Este vídeo explica como criar e enviar emails por meio de um fluxo de trabalho.
 
