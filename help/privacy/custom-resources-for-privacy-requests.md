@@ -4,12 +4,13 @@ description: Para lidar com solicitações de acesso a dados pessoais durante a 
 feature: GDPR, CCPA
 topic: null
 kt: 1243
+thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%
 
@@ -20,7 +21,7 @@ ht-degree: 100%
 
 Para lidar com solicitações de acesso a dados pessoais durante a configuração do Adobe Campaign Standard, é necessário garantir que todos os dados personalizados vinculados a um perfil sejam excluídos quando o perfil for excluído. Este vídeo explica como modificar seus recursos personalizados para atender a esse requisito.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
 
 >[!NOTE]
 >
