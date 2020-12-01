@@ -4,14 +4,15 @@ description: Este vídeo explica como revisar um delivery de email personalizado
 feature: Reporting
 topics: null
 kt: 3904
+thumbnail: 21389.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 2%
+ht-degree: 21%
 
 ---
 
