@@ -1,6 +1,6 @@
 ---
 title: Criação de recursos personalizados - Introdução
-description: A Adobe Campaign Standard oferece a capacidade de estender recursos ou criar recursos totalmente novos. Este tutorial multiparte o guiará pelas etapas necessárias para criar e vincular recursos personalizados.
+description: O Adobe Campaign Standard oferece a capacidade de estender recursos ou criar recursos totalmente novos. Este tutorial com várias seções guiará você pelas etapas necessárias para criar e vincular recursos personalizados.
 feature: Custom Resources
 topics: null
 kt: 2999
@@ -8,46 +8,49 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Criação de recursos personalizados &#x200B; - Introdução
+# Criação de recursos personalizados - Introdução
 
-[!DNL Adobe Campaign] vem com um modelo de dados predefinido, em que os dados são definidos por meio de diferentes recursos. [!DNL Campaign] fornece a capacidade de estender recursos ou criar recursos totalmente novos.
+O [!DNL Adobe Campaign] vem com um modelo de dados predefinidos por meio de diferentes recursos. O [!DNL Campaign] fornece a capacidade de estender recursos ou criar recursos totalmente novos.
 
-Este tutorial multiparte o guiará pelas etapas necessárias para criar e vincular recursos personalizados. No final deste tutorial, você terá aprendido a:
+Este tutorial com várias seções guiará você pelas etapas necessárias para criar e vincular recursos personalizados. No final deste tutorial você terá aprendido a:
 
 * Criar um recurso personalizado
 * Adicionar campos ao recurso personalizado
 * Vincular dois recursos personalizados
-* Configurar definição de tela
+* Configurar a definição de tela
 
 ## Pré-requisito
 
-Para poder criar recursos personalizados, é necessário ter direitos de usuário de administração.
+Para criar recursos personalizados, é necessário ter direitos de usuário administrativo.
 
 ## Visão geral do tutorial
 
-Gostaríamos de poder usar informações adicionais sobre o que um cliente solicitou, para que estejam disponíveis para fins de marketing e remarketing.
+Gostaríamos de poder usar informações adicionais sobre o que um cliente solicitou para que elas estejam disponíveis para fins de marketing e remarketing.
 
-Para isso, iremos enriquecer o modelo de [!DNL Campaign] dados estendendo os recursos prontos e adicionando nossas próprias tabelas personalizadas. Adicionaremos um cliente e uma tabela de pedidos.
+Para isso, aprimoraremos o modelo de dados [!DNL Campaign] estendendo os recursos prontos e adicionando nossas próprias tabelas personalizadas. Adicionaremos um cliente e uma tabela de pedidos.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9&captions=por_br)
 
 Este tutorial explicará passo a passo como:
 
-Etapa 1 - [Criação de um recurso](./creating-a-custom-resource.md)Etapa 2 personalizado - [Configuração de uma definição](./configuring-a-screen-definition-for-a-custom-resource.md)Etapa 3 - [Vinculação de recursos](./linking-custom-resources.md)Etapa 4 - [Preenchimento de recursos personalizados com dados](./populate-custom-resources-with-data.md)
+Etapa 1 – [Criar um recurso personalizado](./creating-a-custom-resource.md)
+Etapa 2 – [Configurar uma definição de tela](./configuring-a-screen-definition-for-a-custom-resource.md)
+Etapa 3 – [Vincular recursos personalizados](./linking-custom-resources.md)
+Etapa 4 – [Preencher recursos personalizados com dados](./populate-custom-resources-with-data.md)
 
-## Start do tutorial
+## Iniciar o tutorial
 
-[Criação de um recurso personalizado](./creating-a-custom-resource.md)
+[Criar um recurso personalizado](./creating-a-custom-resource.md)
 
 ## Recursos adicionais
 
-[Recursos personalizados (documentação)](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/global-concepts/custom-resources.html)
+[Recursos personalizados (documentação)](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/global-concepts/custom-resources.html?lang=pt-BR)
