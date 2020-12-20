@@ -1,5 +1,5 @@
 ---
-title: Criação de um recurso personalizado
+title: Criar um recurso personalizado
 description: Saiba como criar um recurso personalizado chamado clientes.
 feature: Custom Resources
 topics: null
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
 workflow-type: tm+mt
 source-wordcount: '35'
-ht-degree: 0%
+ht-degree: 22%
 
 ---
 
 
-# Criação de um recurso personalizado
+# Criar um recurso personalizado
 
 Neste vídeo, criaremos nosso primeiro recurso personalizado chamado clientes.
 
