@@ -4,7 +4,7 @@ description: Este vídeo explica como você pode testar suas mensagens de email 
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368
+thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
@@ -33,6 +33,6 @@ Para obter mais informações, consulte a [documentação detalhada do produto](
 
 ## Recursos adicionais
 
-* [Teste de mensagens usando perfis de público-alvo (documentação)](https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [Teste de mensagens usando perfis de público-alvo (documentação)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [Criação de um email de teste A/B](/help/communication-channels/email/a-b-testing.md)
 * [Enviar um teste, preparar e enviar um email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
