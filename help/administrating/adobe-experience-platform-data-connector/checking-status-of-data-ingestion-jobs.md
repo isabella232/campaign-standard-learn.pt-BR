@@ -24,7 +24,7 @@ ht-degree: 9%
 >
 >Esse recurso está atualmente em beta e sujeito a atualizações e modificações frequentes sem aviso prévio.
 >
->Entre em contato se [!UICONTROL Adobe Customer Support] planeja implementar esse recurso.
+>Entre em contato com [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
 
 Saiba como verificar o status de um trabalho de ingestão de dados e se os dados foram ingeridos da Adobe Campaign Standard no Adobe Experience Platform.
 
