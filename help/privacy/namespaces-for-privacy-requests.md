@@ -8,9 +8,9 @@ thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ Um pré-requisito para que seja possível criar solicitações de acesso e cance
 
 Estes vídeos explicam como criar namespaces para solicitações de privacidade.
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12)
 
 ## Recursos adicionais
 
