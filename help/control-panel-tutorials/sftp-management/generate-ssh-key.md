@@ -24,7 +24,7 @@ Você precisa gerar uma chave SSH para poder adicioná-la ao [!UICONTROL Control
 
 ## Acesso ao gerenciamento SFTP no [!UICONTROL Control Panel] 
 
-To access the SFTP Management in [!UICONTROL Control Panel], go to:
+Para acessar o Gerenciamento SFTP em [!UICONTROL Control Panel], acesse:
 
 * [Página inicial da Experience Cloud](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** cartão > **cartão** SFTP
 
