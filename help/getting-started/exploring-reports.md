@@ -8,9 +8,9 @@ thumbnail: 23021.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Este vídeo oferece uma visão geral sobre os recursos de relatórios do Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12)
 
 ## Recursos adicionais
 
