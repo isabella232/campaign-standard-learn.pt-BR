@@ -21,7 +21,7 @@ ht-degree: 10%
 
 Você pode coletar dados de um arquivo para processá-lo e/ou importá-lo para o banco de dados da Adobe Campaign.
 
-Este vídeo explica como usar as [!UICONTROL Data Management] atividades em um fluxo de trabalho para importar dados do perfil.
+Este vídeo explica como usar as atividades [!UICONTROL Data Management] em um fluxo de trabalho para importar dados do perfil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
 
