@@ -24,7 +24,7 @@ O [!UICONTROL Control Panel] do Adobe Campaign permite delegar totalmente um sub
 
 >[!NOTE]
 >
->A delegação de subdomínios do [!UICONTROL Control Panel] estará disponível em beta até o final de janeiro e sujeita a atualizações e modificações frequentes sem aviso prévio.
+>A delegação de subdomínio do [!UICONTROL Control Panel] estará disponível no beta até o final de janeiro e estará sujeita a atualizações e modificações frequentes sem aviso prévio.
 
 ## Acesso ao [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
