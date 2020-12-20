@@ -23,13 +23,13 @@ ht-degree: 9%
 >
 >Esse recurso está atualmente em beta e sujeito a atualizações e modificações frequentes sem aviso prévio. [!UICONTROL Audience Destinations] é baseado no Adobe Experience Platform e requer uma configuração específica.
 >
->Entre em contato se [!UICONTROL Adobe Customer Support] planeja implementar esse recurso.
+>Entre em contato com [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
 
-A Adobe Campaign Standard permite que você crie audiências usando dados do Perfil [Adobe Experience Cloud em tempo](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) real com o Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+A Adobe Campaign Standard permite que você crie o audiência usando dados do Adobe Experience Cloud [Perfil do cliente em tempo real](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) usando o Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-Você pode acessar o Adobe Campaign Standard [!UICONTROL Unified Segment Builder] diretamente pelo [!UICONTROL Audiences ] módulo. Isso permite gerenciar essas audiências diretamente na visualização da [!UICONTROL Audiences] lista, onde você pode editar ou criar uma nova audiência Adobe Experience Platform diretamente da interface do Adobe Campaign
+Você pode acessar o [!UICONTROL Unified Segment Builder] diretamente no Adobe Campaign Standard por meio do módulo [!UICONTROL Audiences ]. Isso permite gerenciar essas audiências diretamente na visualização de lista [!UICONTROL Audiences], onde você pode editar ou criar uma nova audiência Adobe Experience Platform diretamente da interface do Adobe Campaign
 
-O vídeo abaixo explica como uma nova audiência é criada usando [!UICONTROL Unified Segment Builder] o Adobe Campaign Standard.
+O vídeo abaixo explica como uma nova audiência é criada usando [!UICONTROL Unified Segment Builder] no Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
