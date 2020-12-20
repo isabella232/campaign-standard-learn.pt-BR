@@ -18,7 +18,7 @@ ht-degree: 16%
 
 # Criar relatório com base em atributos personalizados de perfil
 
-A Adobe Campaign [!UICONTROL Dynamic Reports] foi projetada para ser um ambiente flexível de forma livre, onde você pode explorar dados incluindo atributos personalizados de perfil. Permite combinar dimensões, métricas e intervalo de tempo em qualquer combinação, com detalhamentos e comparações ilimitados.
+A Adobe Campaign [!UICONTROL Dynamic Reports] foi projetada para ser um ambiente flexível de forma livre, onde você pode explorar dados incluindo atributos de perfil personalizados. Permite combinar dimensões, métricas e intervalo de tempo em qualquer combinação, com detalhamentos e comparações ilimitados.
 
 Este vídeo explica como criar um relatório com base em atributos de perfil personalizados.
 
