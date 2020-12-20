@@ -23,9 +23,9 @@ ht-degree: 21%
 >
 >Esse recurso está atualmente em beta e sujeito a atualizações e modificações frequentes sem aviso prévio. [!UICONTROL Audience Destinations] é baseado no Adobe Experience Platform e requer uma configuração específica.
 >
->Entre em contato se [!UICONTROL Adobe Customer Support] planeja implementar esse recurso.
+>Entre em contato com [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
 
-Este vídeo explica como alterar o targeting dimension de um delivery para um lugar fora da tabela do perfil principal no Adobe Campaign Standard. [!UICONTROL Platform Audience]
+Este vídeo explica como alterar o targeting dimension de um delivery para [!UICONTROL Platform Audience] fora da tabela do perfil primário no Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
