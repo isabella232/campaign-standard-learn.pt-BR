@@ -1,5 +1,5 @@
 ---
-title: Etapa 5 - Propagar notificações
+title: Etapa 5 – Propagar notificações
 description: Nesta parte, propagaremos a mensagem recebida da Adobe Campaign usando o Android Notification Manager.Firebase
 feature: Push
 topics: Mobile
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,11 +21,11 @@ Nesta parte, propagaremos a mensagem recebida da Adobe Campaign usando [!DNL And
 É assim que você diz ao usuário que algo aconteceu em segundo plano:
 
 * Iniciar [!DNL Android Studio]
-* Abrir *[!DNL ACSPushTutorial]* projeto
+* Abrir projeto *[!DNL ACSPushTutorial]*
 * Expandir a estrutura do projeto
 * Clique com o botão direito do mouse na pasta do pacote ([!DNL com.example.acspushtutorial]) e [!DNL New ->Java Class]
-* Nomeie esta classe *[!DNL MyService]* e certifique-se de estender [!DNL FirebaseMessagingService]
-* Criar *[!DNL sendNotification]* método nesta classe. Nesse método, é necessário definir o conteúdo e o canal da notificação usando um [!DNL NotificationCompat.Builder] objeto. Para fazer a notificação aparecer, chame [!DNL NotificationManagerCompat.notify()], transmitindo uma ID exclusiva para a notificação e o resultado do [!DNL NotificationCompat.Builder.build()].
+* Nomeie essa classe *[!DNL MyService]* e certifique-se de estender [!DNL FirebaseMessagingService]
+* Crie o método *[!DNL sendNotification]* nesta classe. Neste método, é necessário definir o conteúdo e o canal da notificação usando um objeto [!DNL NotificationCompat.Builder]. Para fazer a notificação aparecer, chame [!DNL NotificationManagerCompat.notify()], transmitindo uma ID exclusiva para a notificação e o resultado de [!DNL NotificationCompat.Builder.build()].
 
 <!--
 Removed `{.line-numbers}` below
@@ -138,4 +138,4 @@ Removed `{.line-numbers}` below
 
 ## Executar o aplicativo
 
-Execute o aplicativo clicando na seta **** verde na barra de ferramentas ou no [!DNL Run] menu.
+Execute o aplicativo clicando na **seta verde** na barra de ferramentas ou no menu [!DNL Run].
