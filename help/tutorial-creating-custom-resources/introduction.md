@@ -8,9 +8,9 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -38,7 +38,7 @@ Gostaríamos de poder usar informações adicionais sobre o que um cliente solic
 
 Para isso, aprimoraremos o modelo de dados [!DNL Campaign] estendendo os recursos prontos e adicionando nossas próprias tabelas personalizadas. Adicionaremos um cliente e uma tabela de pedidos.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
 Este tutorial explicará passo a passo como:
 
