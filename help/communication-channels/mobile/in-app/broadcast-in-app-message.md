@@ -19,7 +19,7 @@ ht-degree: 7%
 
 # Transmitir uma mensagem no aplicativo
 
-Você pode transmitir uma mensagem no aplicativo, direcionando todos os usuários de um aplicativo móvel, independentemente de a Adobe Campaign ter ou não suas informações de perfil. Para transmitir uma mensagem, você precisa usar a mensagem **[!UICONTROL Target all users of a mobile app template]** ao configurar a mensagem no aplicativo.
+Você pode transmitir uma mensagem no aplicativo, direcionando todos os usuários de um aplicativo móvel, independentemente de a Adobe Campaign ter ou não suas informações de perfil. Para transmitir uma mensagem, você precisa usar o **[!UICONTROL Target all users of a mobile app template]** ao configurar a mensagem no aplicativo.
 
 Alguns dos casos de utilização pertinentes nesta categoria são:
 
