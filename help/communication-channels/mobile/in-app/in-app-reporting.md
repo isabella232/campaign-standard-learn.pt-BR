@@ -16,9 +16,9 @@ ht-degree: 10%
 
 ---
 
-# Report on your [!UICONTROL In-App] delivery {#in-app-message-reporting}
+# Relatório sobre seu delivery [!UICONTROL In-App] {#in-app-message-reporting}
 
-Você pode revisar seus dados relacionados ao [!UICONTROL In-App] delivery no resumo do delivery adicionando métricas [!UICONTROL In-App] específicas. Como alternativa, você pode usar o Relatório [](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)no aplicativo pronto.
+Você pode revisar seus dados relacionados ao delivery [!UICONTROL In-App] no resumo do delivery adicionando [!UICONTROL In-App] métricas específicas. Como alternativa, você pode usar a caixa [Relatório no aplicativo](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 
