@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# Configure a visualização para dispositivos móveis no [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# Configure a visualização móvel em [!UICONTROL Email Designer] {#configure-the-mobile-view}
 
 Este vídeo explica como ajustar o design responsivo de um email editando separadamente todas as opções de estilo para exibição móvel.
 
