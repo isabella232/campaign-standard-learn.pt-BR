@@ -1,5 +1,5 @@
 ---
-title: Monitoramento da capacidade do servidor
+title: Monitorar a capacidade do servidor
 description: Saiba como monitorar a capacidade do armazenamento de seus servidores SFTP.
 feature: SFTP Management
 topics: Control Panel
@@ -13,12 +13,12 @@ translation-type: tm+mt
 source-git-commit: 1a108846158bfaf8f9efd1b7a78f652c0d3f3211
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 49%
+ht-degree: 56%
 
 ---
 
 
-# Monitoramento da capacidade do servidor
+# Monitorar a capacidade do servidor
 
 O Painel de controle do Campaign permite que você monitore e gerencie seu armazenamento SFTP por instância.
 
