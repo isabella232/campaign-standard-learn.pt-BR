@@ -18,9 +18,9 @@ ht-degree: 0%
 
 # Etapa 3 - Registrar extensões com seu aplicativo móvel
 
-Nesta parte, adicionaremos o código para registrar as extensões Perfil do usuário, Identidade, Ciclo de vida e Sinal. Essas extensões fazem parte do [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Também será necessário registrar a extensão do Adobe Campaign Standard, conforme mostrado no código abaixo.
+Nesta parte, adicionaremos o código para registrar as extensões Perfil do usuário, Identidade, Ciclo de vida e Sinal. Essas extensões fazem parte de [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Também será necessário registrar a extensão do Adobe Campaign Standard, conforme mostrado no código abaixo.
 
-Abra seu projeto no [!DNL Android] estúdio. Exclua o código inteiro no MainApp, **exceto a primeira linha que é a declaração** do pacote.
+Abra o projeto no estúdio [!DNL Android]. Exclua o código inteiro no MainApp **exceto a primeira linha que é a declaração do pacote**.
 
 Cole o seguinte código no MainApp
 
@@ -70,6 +70,6 @@ try{
 }
 ```
 
-Linha 32, é necessário fornecer a ID do arquivo de ambiente de sua[!UICONTROL  Launch] propriedade. Isso pode ser acessado a partir [!UICONTROL environment tab] da sua [!UICONTROL Launch] propriedade.
+Linha 32, é necessário fornecer a ID do arquivo de ambiente da propriedade[!UICONTROL  Launch]. Isso pode ser acessado a partir de [!UICONTROL environment tab] da propriedade [!UICONTROL Launch].
 
 ![launch-id](assets/launch-id-property.PNG)
