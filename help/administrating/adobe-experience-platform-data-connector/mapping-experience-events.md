@@ -23,7 +23,7 @@ ht-degree: 11%
 >
 >Esse recurso está atualmente em beta e sujeito a atualizações e modificações frequentes sem aviso prévio.
 >
->Entre em contato se [!UICONTROL Adobe Customer Support] planeja implementar esse recurso.
+>Entre em contato com [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
 
 Saiba como mapear [!UICONTROL Experience Events] no Adobe Experience Platform (AEP).
 
