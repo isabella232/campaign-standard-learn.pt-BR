@@ -24,7 +24,7 @@ A Adobe Campaign tem dois tipos ou perfis:
 * Perfis identificados
 * Testar perfis
 
-Perfis que são agrupados de acordo com um ou vários critérios comuns são chamados de **audiências**.
+Perfis que são agrupados de acordo com um ou vários critérios comuns são chamados de **audiência**.
 
 Este vídeo explica como navegar para perfis existentes e como criar perfis e audiências no Adobe Campaign Standard.
 
