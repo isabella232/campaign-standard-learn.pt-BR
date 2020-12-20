@@ -8,9 +8,9 @@ thumbnail: 22770.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 São executadas por workflows em solicitações de privacidade do Adobe Campaign. Este vídeo descreve quais workflows acessam e excluem solicitações e o que acontece quando são executados.
 
->[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12)
 
 ## Recursos adicionais
 
