@@ -8,9 +8,9 @@ thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ O Adobe Campaign permite que você crie e exclua solicitações de dados PII em 
 
 Estes vídeos demonstram como criar manualmente solicitações de acesso a dados pessoais e acompanhar sua evolução na interface do usuário do Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
 ## Recursos adicionais
 
