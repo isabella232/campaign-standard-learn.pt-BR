@@ -8,9 +8,9 @@ thumbnail: 18464.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Este vídeo explica o conceito e como criar perfis e públicos-alvo.
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?quality=12&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/18464?quality=12)
 
 ## Recursos adicionais
 
