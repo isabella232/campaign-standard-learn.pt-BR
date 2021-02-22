@@ -1,7 +1,7 @@
 ---
 title: Atividade de sinal externo - Chame um fluxo de trabalho com parâmetros
-description: A Atividade de sinal externo é usada para organizar e orquestrar diferentes processos que fazem parte da mesma jornada do cliente para workflows diferentes. Ele permite iniciar um workflow a partir de outro, permitindo oferecer suporte a jornadas de clientes mais complexas, além de poder monitorar e reagir melhor em caso de problemas.
-feature: External Signal Activity
+description: A Atividade de sinal externo é usada para organizar e orquestrar processos diferentes que fazem parte da mesma jornada do cliente em workflows diferentes. Ele permite iniciar um workflow a partir de outro, permitindo oferecer suporte a jornadas de clientes mais complexas, além de poder monitorar e reagir melhor em caso de problemas.
+feature: Atividade de sinal externo
 topics: Workflows
 kt: 2750
 thumbnail: 27249
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 2237e6a7d6a8c202ea87aeeb4b1e6fa83e1c677c
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 19%
+source-wordcount: '333'
+ht-degree: 17%
 
 ---
 
@@ -45,4 +45,4 @@ O vídeo a seguir explica as etapas de configuração necessárias para:
 
 ## Recursos adicionais
 
-* [Sinal externo (documentação)](https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [Sinal externo (documentação)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/calling-workflow-external-parameters/calling-a-workflow-with-external-parameters.html)
