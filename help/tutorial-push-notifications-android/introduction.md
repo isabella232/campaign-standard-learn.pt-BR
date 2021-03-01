@@ -1,7 +1,7 @@
 ---
 title: Introdução às notificações por push com o aplicativo Android
 description: Este tutorial guiará você pelas etapas envolvidas no envio de notificações por push do Adobe Campaign e no recebimento dessas notificações no aplicativo Android.
-feature: Push
+feature: Empurrar
 topics: Mobile
 kt: 3846
 doc-type: tutorial
@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '200'
 ht-degree: 41%
 
 ---
@@ -25,7 +25,7 @@ Este tutorial guiará você pelas etapas envolvidas no envio de notificações p
 ## Pré-requisitos
 
 * Você deve ter a propriedade launch configurada com o Adobe Campaign Standard Extension. Siga a ajuda online listada abaixo.
-   * [Tutorial em vídeo](https://video.tv.adobe.com/v/26224?quality=12&captions=por_br)
+   * [Tutorial em vídeo](https://video.tv.adobe.com/v/26224?quality=12)
    * [Documentação](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 
 * Verifique se o status da propriedade correspondente no Adobe Campaign Standard está definido como configurado.
