@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Tutoriais do painel de controle do Adobe Campaign
+user-guide-title: Tutoriais do Painel de controle do Adobe Campaign
 user-guide-description: Saiba como monitorar os principais ativos das instâncias do Adobe Campaign e executar tarefas administrativas no Painel de controle do Campaign.
 breadcrumb-title: Tutoriais do Painel de controle do Campaign
 solution-title: Experience League
@@ -10,11 +10,11 @@ tutorials-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard-learn
 getting-started-title: Documentação
 getting-started-url: https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/campaign-standard-home.html
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fb724628536b81f1032c557d27e7f4dd655ceeeb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
