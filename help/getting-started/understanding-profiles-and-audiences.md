@@ -1,17 +1,17 @@
 ---
 title: Como entender perfis e públicos-alvo no Adobe Campaign Standard
 description: Este vídeo explica o conceito de perfis e públicos-alvo e como criá-los no Adobe Campaign Standard.
-feature: profiles, audiences
+feature: perfis, públicos
 topics: null
 kt: 3893
 thumbnail: 18464.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '62'
+workflow-type: ht
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
