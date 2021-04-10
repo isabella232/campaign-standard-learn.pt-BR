@@ -9,10 +9,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentação
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=pt-BR
 translation-type: tm+mt
-source-git-commit: 8b4c60a2950d86074a3057bb8fe6460288da93b6
+source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
 workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 98%
+source-wordcount: '546'
+ht-degree: 93%
 
 ---
 
@@ -99,9 +99,14 @@ ht-degree: 98%
    + [Explorar relatórios](/help/getting-started/exploring-reports.md)
    + [Criar relatório dinâmico](/help/reporting/creating-a-dynamic-report.md)
    + [Criar relatório com base em atributos personalizados de perfil](/help/reporting/custom-profile-attributes-dynamic-reports.md)
-   + [Criar relatório com base em segmentos de workflow](/help/reporting/report-on-workflow-segments.md)
-+ Integrações {#integrations}
+   + [Criar um relatório com base em segmentos de workflow](/help/reporting/report-on-workflow-segments.md)
++ Integração com outras soluções {#integrations}
    + [Rastrear o sucesso de suas entregas no Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
+   + Uso de acionadores para mensagens transacionais {#triggers}
+      + [Visão geral](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
+      + [Criar um acionador no Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + [Criar um evento de acionador no Campaign Standard](/help/integrations/create-a-trigger-event.md)
+      + [Configurar mensagens transacionais usando dados de evento em tempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
 + Administração {#administrating}
    + [Gestão de direitos de acesso do usuário](/help/administrating/managing-user-access-rights.md)
    + [Criar recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=pt-BR)
