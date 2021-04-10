@@ -9,7 +9,7 @@ role: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
+source-git-commit: f1805428e57e778853ded71ba286ce2aefb9ec8c
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 3%
@@ -23,7 +23,7 @@ Nos seguintes tutoriais, você aprenderá a configurar e usar acionadores para m
 
 Antes de usar um acionador em uma mensagem transacional, é necessário:
 
-1. [Criar um acionador no Experience Cloud](help/integrations/create-a-trigger-in-experience-cloud.md)
+1. [Criar um acionador no Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
 2. [Criar um evento de acionador no Campaign Standard](/help/integrations/create-a-trigger-event.md)
 
 Depois que o acionador é configurado, ele permite [configurar mensagens transacionais usando dados do evento em tempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md).
