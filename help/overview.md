@@ -2,11 +2,11 @@
 title: Tutoriais do Adobe Campaign Standard – Visão geral
 description: O Adobe Campaign oferece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a orquestração visual de campanhas, gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
-translation-type: ht
-source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
-workflow-type: ht
-source-wordcount: '274'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: f3db7ac2882d7c87e1e785e7fc1d80b21a9e6a2a
+workflow-type: tm+mt
+source-wordcount: '281'
+ht-degree: 86%
 
 ---
 
@@ -17,15 +17,11 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
 
 ## Novidades
 
-* **[Monitoramento de bancos de dados](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+* **[Rastrear o sucesso de suas entregas no Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
 
-   *Saiba como monitorar o uso do banco de dados de suas instâncias.*
+   *Saiba como configurar a integração do Campaign Standard e do Analytics. Entenda como criar um relatório no Analytics usando dados recebidos do Campaign Standard e quais KPIs estão disponíveis.*
 
-* **[Delegar subdomínios usando CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
-
-   *Saiba como configurar e enviar um subdomínio usando CNAMEs no Painel de controle do Campaign.*
-
-## Escolha de pessoal
+## Seleção de pessoal
 
 <table>
 <tr>
@@ -60,7 +56,7 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
       <img alt="Tutorial: Introdução a notificações por push para Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/pt-BR/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
     <strong>Tutorial: Introdução a notificações por push para Android</strong>
     </a>
     </div>
