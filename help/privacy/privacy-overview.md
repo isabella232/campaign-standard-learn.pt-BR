@@ -52,7 +52,7 @@ O Adobe Campaign oferece aos controladores de dados três métodos para executar
 
 ## Recursos adicionais
 
-* [Diretrizes gerais de privacidade do Campaign](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
-* [CCPA para ACS](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
+* [Diretrizes gerais de privacidade do Campaign](https://helpx.adobe.com/br/campaign/kb/campaign-privacy-overview.html)
+* [CCPA para ACS](https://helpx.adobe.com/br/campaign/kb/acs-privacy.html#ccpa)
 * [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html)
 * [Documentação da API REST do Adobe Campaign Standard](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
