@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Tutoriais do Painel de controle do Adobe Campaign
+user-guide-title: Tutoriais do painel de controle do Adobe Campaign
 user-guide-description: Saiba como monitorar os principais ativos das instâncias do Adobe Campaign e executar tarefas administrativas no Painel de controle do Campaign.
 breadcrumb-title: Tutoriais do Painel de controle do Campaign
 solution-title: Experience League
