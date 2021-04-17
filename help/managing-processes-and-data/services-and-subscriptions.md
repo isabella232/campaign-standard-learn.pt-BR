@@ -1,40 +1,42 @@
 ---
 title: Gerenciar serviços e assinaturas
-description: A Adobe Campaign permite que você crie e gerencie boletins informativos e comunicações entre canais, por meio de um conjunto de serviços. Este vídeo mostrará como criar um serviço e gerenciar suas subscrições no Adobe Campaign Standard (ACS).
-feature: Subscriptions and Services
+description: Saiba como criar um serviço e gerenciar assinaturas.
+feature: Assinaturas
 topics: null
 kt: 1815
 thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 31%
+source-wordcount: '155'
+ht-degree: 37%
 
 ---
 
-
 # Gerenciar serviços e assinaturas{#managing-services-and-subscriptions}
 
-A Adobe Campaign permite que você crie e gerencie boletins informativos e comunicações entre canais, por meio de um conjunto de serviços. As mensagens só podem ser enviadas a perfis que se inscreveram no serviço (aceitação). Esses perfis são identificados usando um filtro dedicado ao criar uma mensagem.
+O Adobe Campaign permite criar e gerenciar informativos e comunicações entre canais por meio de um conjunto de serviços. As mensagens só podem ser enviadas aos perfis que assinaram (aceitaram) o serviço. Esses perfis são identificados usando um filtro dedicado ao criar uma mensagem.
 
 Os mecanismos de assinatura podem ser configurados para permitir que os clientes assinem esses serviços, principalmente por meio de emails e landing pages.
 
 Cada serviço vem com:
 
-* Assinar (opt-in) e cancelar inscrição (opt-out).
-* Assinar e/ou cancelar a assinatura dos mecanismos de confirmação.
+* Assinar (opt-in) e cancelar a subscrição (opt-out).
+* Assinar e/ou cancelar a assinatura de mecanismos de confirmação.
 * Um histórico da assinatura.
 
-Este vídeo mostrará como criar um serviço e gerenciar suas subscrições.
+Este vídeo mostrará como criar um serviço e gerenciar suas assinaturas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12)
 
 ## Recursos adicionais
 
-* [Subscrições no serviço](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html)
+* [Serviços de assinatura](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html)
 * [Criação de um serviço](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/managing-subscriptions/creating-a-service.html)
 * [Monitoramento de assinaturas](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/managing-subscriptions/monitoring-subscriptions.html)
