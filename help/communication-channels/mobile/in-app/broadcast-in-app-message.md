@@ -1,34 +1,36 @@
 ---
-title: 'Transmitir uma mensagem no aplicativo '
-description: O modelo Transmitir uma mensagem no aplicativo permite que você público alvo todos os usuários do aplicativo móvel com o Adobe Campaign Standard (ACS)
-feature: In-App
+title: '"Transmitir uma mensagem no aplicativo "'
+description: Saiba como o modelo de Difusão permite direcionar todos os usuários do seu aplicativo móvel.
+feature: No aplicativo
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '128'
 ht-degree: 7%
 
 ---
 
-
 # Transmitir uma mensagem no aplicativo
 
-Você pode transmitir uma mensagem no aplicativo, direcionando todos os usuários de um aplicativo móvel, independentemente de a Adobe Campaign ter ou não suas informações de perfil. Para transmitir uma mensagem, você precisa usar o **[!UICONTROL Target all users of a mobile app template]** ao configurar a mensagem no aplicativo.
+Você pode transmitir uma mensagem no aplicativo, direcionando todos os usuários de um aplicativo móvel, independentemente de o Adobe Campaign ter ou não suas informações de perfil. Para transmitir uma mensagem, você precisa usar o **[!UICONTROL Target all users of a mobile app template]** ao configurar a mensagem no aplicativo.
 
-Alguns dos casos de utilização pertinentes nesta categoria são:
+Alguns dos casos de uso pertinentes nesta categoria são:
 
-* Enviar tutoriais de aplicativos móveis para inicializadores de aplicativos ou
+* Enviar tutoriais de aplicativo móvel para inicializadores de aplicativo pela primeira vez ou
 * Anúncios de novas versões de recursos
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
-*Crie uma mensagem de transmissão no aplicativo usando um[!UICONTROL SDKV5 Mobile property]*
+*Criar uma mensagem de transmissão no aplicativo usando um[!UICONTROL SDKV5 Mobile property]*
 
 ## Recursos adicionais
 
