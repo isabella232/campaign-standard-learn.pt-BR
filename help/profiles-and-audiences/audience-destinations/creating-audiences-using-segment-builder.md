@@ -1,48 +1,50 @@
 ---
 title: 'Criar um novo público-alvo usando o Criador de segmentos unificado '
-description: null
-feature: Audience Destinations
+feature: Integração do Serviço principal de pessoas
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg
 doc-type: feature video
 activity: using
 team: PM
+exl-id: ce52a988-5072-401b-9a8b-112e42504022
+description: Saiba como criar um novo público-alvo usando o Criador de segmentos unificado.
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 9%
+source-wordcount: '241'
+ht-degree: 8%
 
 ---
-
 
 # Criar um novo público-alvo usando o Criador de segmentos unificado 
 
 >[!NOTE]
 >
->Esse recurso está atualmente em beta e sujeito a atualizações e modificações frequentes sem aviso prévio. [!UICONTROL Audience Destinations] é baseado no Adobe Experience Platform e requer uma configuração específica.
+>No momento, esse recurso está em beta e está sujeito a atualizações e modificações frequentes sem aviso prévio. [!UICONTROL Audience Destinations] O é baseado no Adobe Experience Platform e requer uma configuração específica.
 >
->Entre em contato com [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
+>Entre em contato com [!UICONTROL Adobe Customer Support] se planeja implementar esse recurso.
 
-A Adobe Campaign Standard permite que você crie o audiência usando dados do Adobe Experience Cloud [Perfil do cliente em tempo real](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) usando o Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+O Adobe Campaign Standard permite criar públicos-alvo usando dados do Adobe Experience Cloud [Real-Time Customer Profile](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) usando o Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-Você pode acessar o [!UICONTROL Unified Segment Builder] diretamente no Adobe Campaign Standard por meio do módulo [!UICONTROL Audiences ]. Isso permite gerenciar essas audiências diretamente na visualização de lista [!UICONTROL Audiences], onde você pode editar ou criar uma nova audiência Adobe Experience Platform diretamente da interface do Adobe Campaign
+Você pode acessar o [!UICONTROL Unified Segment Builder] diretamente no Adobe Campaign Standard por meio do módulo [!UICONTROL Audiences ]. Isso permite gerenciar esses públicos diretamente na exibição de lista [!UICONTROL Audiences], onde é possível editar ou criar um novo público-alvo do Adobe Experience Platform diretamente da interface do Adobe Campaign
 
-O vídeo abaixo explica como uma nova audiência é criada usando [!UICONTROL Unified Segment Builder] no Adobe Campaign Standard.
+O vídeo abaixo explica como um novo público-alvo é criado usando [!UICONTROL Unified Segment Builder] no Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
-*Como criar uma nova audiência no Adobe Campaign Standard usando o Construtor de segmentos unificado (min 02:47)*
+*Como criar um novo público-alvo no Adobe Campaign Standard usando o Criador de segmentos unificado (02:47 min)*
 
 ## Recursos adicionais
 
 Documentação:
 
-* [Visão geral do Perfil do cliente em tempo real](https://www.adobe.io/apis/experienceplatform/home/profile-identity-segmentation/profile-identity-segmentation-services.html#!api-specification/markdown/narrative/technical_overview/unified_profile_architectural_overview/unified_profile_architectural_overview.md)
+* [Visão geral do perfil do cliente em tempo real](https://www.adobe.io/apis/experienceplatform/home/profile-identity-segmentation/profile-identity-segmentation-services.html#!api-specification/markdown/narrative/technical_overview/unified_profile_architectural_overview/unified_profile_architectural_overview.md)
 * [Guia do usuário do Construtor de segmentos](https://www.adobe.io/apis/experienceplatform/home/profile-identity-segmentation/profile-identity-segmentation-services.html#!api-specification/markdown/narrative/technical_overview/segmentation/segment-builder-guide.md)
 
 Recursos de vídeo:
 
-* [Ativar audiências AEP em um fluxo de trabalho](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [Alterar o targeting dimension de um delivery para uma audiência de plataforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Ativar públicos-alvo da AEP em um fluxo de trabalho](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+* [Alterar o targeting dimension de um delivery para um público-alvo da plataforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
