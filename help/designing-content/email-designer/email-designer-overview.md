@@ -1,21 +1,23 @@
 ---
 title: Visão geral do Email Designer
-description: Este vídeo explica a funcionalidade geral do Email Designer e como projetar um email partindo do zero. Esta página lista todos os vídeos de recursos disponíveis para o designer de email do Adobe Campaign
-feature: Email Designer
+description: Entenda a funcionalidade geral do Designer de email e como projetar um email do zero.
+feature: Design de email
 topics: Content Creation
 kt: 1402
 thumbnail: 22771.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 17813cda-50a1-406b-b4ae-9267671a6910
+role: Business Practitioner, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 85%
 
 ---
-
 
 # Visão geral do [!UICONTROL Email Designer] 
 
