@@ -1,35 +1,37 @@
 ---
 title: Configurar eventos
-description: 'Ao configurar uma mensagem no aplicativo nos eventos Adobe Campaign Standard (ACS), defina qual ação iniciada pelo usuário disparará a mensagem a ser exibida. '
-feature: In-App
+description: '"Entenda como os eventos definem qual ação iniciada pelo usuário acionará uma mensagem no aplicativo a ser exibida. "'
+feature: No aplicativo
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '215'
 ht-degree: 3%
 
 ---
 
-
 # Configurar [!UICONTROL Events] {#configuring-events}
 
-Ao configurar uma mensagem [!UICONTROL In-App], é necessário definir qual ação iniciada pelo usuário aciona a mensagem a ser exibida. Essas ações são chamadas de [!UICONTROL events]. Três categorias de [!UICONTROL events] estão disponíveis: [!UICONTROL Mobile Application events], [!UICONTROL Life Cycle events] e [!UICONTROL Analytics events].
+Ao configurar uma mensagem [!UICONTROL In-App], é necessário definir qual ação iniciada pelo usuário aciona a mensagem a ser exibida. Essas ações são chamadas [!UICONTROL events]. Três categorias de [!UICONTROL events] estão disponíveis: [!UICONTROL Mobile Application events], [!UICONTROL Life Cycle events] e [!UICONTROL Analytics events].
 
 ## [!UICONTROL Mobile Application Events] {#mobile-application-events}
 
-[!UICONTROL Mobile Application events] são  [!UICONTROL custom events] implementados em seu aplicativo móvel.
+[!UICONTROL Mobile Application events] são  [!UICONTROL custom events] implementadas no aplicativo móvel.
 
 Os exemplos são:
 
 * Um cliente visualizou um item
 * Um cliente adiciona um item ao carrinho
-* Abandono de carrinho
+* Abandono do carrinho
 * Um cliente comprou algo
 
 Você deve configurar esses [!UICONTROL events] no Adobe Campaign. O vídeo a seguir descreve como fazer isso.
@@ -38,7 +40,7 @@ Você deve configurar esses [!UICONTROL events] no Adobe Campaign. O vídeo a se
 
 ## [!UICONTROL Life Cycle events]  {#life-cycle-events}
 
-[!UICONTROL Lifecycle events] estão prontos para uso  [!UICONTROL events]. Os seguintes [!UICONTROL events] estão disponíveis:
+[!UICONTROL Lifecycle events] são prontas para uso  [!UICONTROL events]. Os seguintes [!UICONTROL events] estão disponíveis:
 
 * [!UICONTROL launched]
 * [!UICONTROL upgraded]
@@ -52,7 +54,7 @@ Um exemplo de caso de uso pode ser uma mensagem que apresenta novos recursos ap�
 
 ## [!UICONTROL Analytics Events] {#analytics-events}
 
-As três categorias a seguir são suportadas, dependendo do instrumentado no aplicativo móvel:
+As três categorias a seguir são suportadas, dependendo do que é instrumentado no aplicativo móvel:
 
 * Adobe Analytics
 * [!UICONTROL Context data]
@@ -60,8 +62,8 @@ As três categorias a seguir são suportadas, dependendo do instrumentado no apl
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] exigir uma licença da Adobe Analytics. Depois que você tiver a extensão [[!DNL Analytics] configurada](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) e tiver adicionado [o Analytics ao seu aplicativo](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), esses eventos ficarão disponíveis na configuração [!UICONTROL In-App] no ACS.
+>[!UICONTROL Analytics events] exige uma licença da Adobe Analytics. Depois de ter a extensão [[!DNL Analytics] configurada](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) e adicionado [Analytics ao seu aplicativo](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), esses eventos ficam disponíveis na configuração [!UICONTROL In-App] no ACS.
 
 ## Recursos adicionais
 
-* [Ativar Medições de Ciclo de Vida (documentação)](https://aep-sdks.gitbook.io/docs/getting-started/initialize-the-sdk#enable-lifecycle-metrics)
+* [Ativar Medições de ciclo de vida (documentação)](https://aep-sdks.gitbook.io/docs/getting-started/initialize-the-sdk#enable-lifecycle-metrics)
