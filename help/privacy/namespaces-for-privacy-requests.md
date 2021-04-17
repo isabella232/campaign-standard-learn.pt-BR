@@ -2,20 +2,19 @@
 title: Criar namespaces para solicitações de acesso a dados pessoais no Adobe Campaign Standard (ACS)
 description: Um pré-requisito para que seja possível criar solicitações de acesso e cancelamento, conforme exigido pelo GDPR ou CCPA, é a definição do namespace que será usado para identificar o titular dos dados no banco de dados do Adobe Campaign. Estes vídeos explicam como criar namespaces para solicitações de privacidade.
 feature: GDPR, CCPA
-topic: null
 kt: 1460
 thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
+translation-type: tm+mt
+source-git-commit: 569c196b0d94a9bee5010da46003ed7b2a8afefd
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
 ---
-
 
 # Criação de namespaces para solicitações de privacidade
 
