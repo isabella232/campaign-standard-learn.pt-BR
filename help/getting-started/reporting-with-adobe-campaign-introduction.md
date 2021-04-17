@@ -1,21 +1,23 @@
 ---
 title: Introdução aos relatórios
-description: Este vídeo oferece uma visão geral sobre os recursos de relatórios do Adobe Campaign Standard
-feature: relatórios
+description: Entender os recursos de relatórios do Adobe Campaign Standard
+feature: Relatórios
 topics: null
 kt: 3974
 thumbnail: 29461.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
-source-wordcount: '55'
-ht-degree: 100%
+exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
+role: Business Practitioner, Developer
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
+source-wordcount: '49'
+ht-degree: 83%
 
 ---
-
 
 # Introdução aos relatórios
 
