@@ -1,25 +1,27 @@
 ---
 title: Converter um email, delivery de SMS ou modelo existente multilíngue
-description: Este vídeo demonstra como um e-mail, delivery SMS ou template do delivery existente podem ser facilmente convertidos em multilíngues.
-feature: Multi-lingual Deliveries
+description: '"Saiba como converter e-mails existentes, delivery de SMS ou um template do delivery em vários idiomas."'
+feature: Email, SMS
 topics: Mobile
 kt: 1703
 thumbnail: 23251.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
+role: Business Practitioner
+level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 30%
+source-wordcount: '70'
+ht-degree: 31%
 
 ---
 
-
 # Converter um email, delivery de SMS ou modelo existente multilíngue
 
-Este vídeo demonstra como um e-mail, delivery SMS ou template do delivery existente podem ser facilmente convertidos em multilíngues.
+Este vídeo demonstra como um email, delivery de SMS ou um template de delivery existentes podem ser facilmente convertidos em multilíngues.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12)
 
