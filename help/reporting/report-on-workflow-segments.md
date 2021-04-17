@@ -1,27 +1,29 @@
 ---
 title: Criar relatório com base em segmentos de workflow
-description: Relatórios em segmentos de fluxo de trabalho fornece a capacidade de adicionar código de segmento de fluxo de trabalho no relatórios dinâmico.
-feature: Reporting on Workflow Segments
+description: Os relatórios em segmentos de fluxo de trabalho fornecem a capacidade de adicionar código de segmento de fluxo de trabalho em relatórios dinâmicos.
+feature: Relatórios
 topics: Reporting
 kt: 3252
 thumbnail: 28262.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 2ee84302-69c3-4011-af7a-5541ca070cd8
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 15%
+source-wordcount: '92'
+ht-degree: 16%
 
 ---
 
-
 # Criar relatório com base em segmentos de workflow
 
-Depois de criar um fluxo de trabalho e filtrar sua população em diferentes audiências direcionadas, você pode medir a eficiência de suas campanhas de marketing com base nos segmentos definidos neste fluxo de trabalho de definição de metas.
+Depois de criar um workflow e filtrar sua população em diferentes públicos-alvo, você pode medir a eficiência de suas campanhas de marketing com base nos segmentos definidos nesse workflow de direcionamento.
 
-O vídeo abaixo explica as três etapas necessárias para público alvo desses segmentos no seu relatório:
+O vídeo abaixo explica as três etapas necessárias para direcionar esses segmentos no seu relatório:
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
