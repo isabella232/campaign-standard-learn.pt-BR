@@ -1,25 +1,27 @@
 ---
 title: Introdução a modelos de conteúdo de email
-description: O Adobe Campaign Standard oferta 18 é totalmente personalizável e pronto para uso, com modelos de e-mail responsivos.  Esses modelos foram criados especificamente para a Adobe Campaign Standard e são fáceis de manipular e alterar. Eles são um ótimo ponto de partida para a criação de emails.
-feature: Email Designer
+description: Saiba como criar um template de conteúdo de email.
+feature: Design de email
 topics: null
 kt: 1442
 thumbnail: 23106.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: fc01caf7-959a-4f2d-af81-4f695ae45bb8
+role: Business Practitioner, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 10%
+source-wordcount: '71'
+ht-degree: 14%
 
 ---
 
-
 # Introdução a modelos de conteúdo de email {#introduction-to-the-email-content-templates}
 
-O Adobe Campaign Standard oferta 18 é totalmente personalizável e pronto para uso, com modelos de e-mail responsivos. Esses modelos foram criados especificamente para a Adobe Campaign Standard e são fáceis de manipular e alterar. Eles são um ótimo ponto de partida para a criação de emails.
+A Adobe Campaign Standard oferece 18 modelos de email totalmente personalizáveis e responsivos. Esses modelos foram criados especificamente para o Adobe Campaign Standard e são fáceis de manipular e alterar. Eles são um ótimo ponto de partida para criar emails.
 
 Este vídeo apresenta os modelos e explica como criar seu próprio modelo.
 
