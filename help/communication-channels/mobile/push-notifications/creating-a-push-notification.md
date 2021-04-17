@@ -1,6 +1,6 @@
 ---
 title: Criar uma notificação por push
-description: 'Saiba como criar uma notificação por push no Adobe Campaign Standard (ACS). '
+description: 'Saiba como criar uma notificação por push. '
 feature: Push
 topics: Mobile
 kt: 1401
@@ -8,24 +8,26 @@ thumbnail: 31499.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 11%
+source-wordcount: '158'
+ht-degree: 12%
 
 ---
-
 
 # Criar um [!UICONTROL push notification]
 
 Saiba como criar um [!UICONTROL push notification] no Adobe Campaign Standard (ACS):
 
-A Adobe Campaign permite enviar [!UICONTROL push notifications] personalizado e segmentado para dispositivos móveis iOS e Android. Você tem duas opções:
+O Adobe Campaign permite enviar [!UICONTROL push notifications] personalizado e segmentado para dispositivos móveis iOS e Android. Você tem duas opções:
 
-* **[!UICONTROL Send push notification to Campaign profiles]**: Permite que você público alvo os perfis do Adobe Campaign CRM que se inscreveram em seu aplicativo móvel e opt in receber  [!UICONTROL push notifications]. Você pode inserir campos de personalização em seu [!UICONTROL push notification], como o nome do recipient.
+* **[!UICONTROL Send push notification to Campaign profiles]**: Permite direcionar os perfis do Adobe Campaign CRM que assinaram seu aplicativo móvel e aceitaram receber  [!UICONTROL push notifications]. Você pode inserir campos de personalização em seu [!UICONTROL push notification], como o nome do recipient.
 
-* **[!UICONTROL Send push notification to app subscribers]**: Permite enviar uma notificação  [!UICONTROL push notification] a todos os usuários conhecidos e anônimos de aplicativos móveis que opt in receber notificações de seu aplicativo. Você pode personalizar essas mensagens com dados coletados do seu aplicativo móvel.
+* **[!UICONTROL Send push notification to app subscribers]**: Permite enviar um  [!UICONTROL push notification] para todos os usuários conhecidos e anônimos de aplicativos móveis que optaram por receber notificações de seu aplicativo. É possível personalizar essas mensagens com dados coletados do aplicativo móvel.
 
 O vídeo descreve como enviar um [!DNL push notification to app subscribers].
 
