@@ -1,31 +1,33 @@
 ---
 title: Alterar a targeting dimension
-description: Este vídeo explica como alterar o targeting dimension de um delivery para uma Audiência de plataforma fora da tabela do perfil principal no Adobe Campaign Standard.
-feature: Audience Destinations
+description: Este vídeo explica como alterar o targeting dimension de um delivery para um Público-alvo da plataforma fora da tabela de perfil principal no Adobe Campaign Standard.
+feature: Integração do Serviço principal de pessoas
 topics: ACOP
 kt: 3739
 thumbnail: 30151.jpg
 doc-type: feature video
 activity: using
 team: TM
+exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 21%
+source-wordcount: '169'
+ht-degree: 20%
 
 ---
-
 
 # Alterar a targeting dimension [!UICONTROL Platform Audience]
 
 >[!NOTE]
 >
->Esse recurso está atualmente em beta e sujeito a atualizações e modificações frequentes sem aviso prévio. [!UICONTROL Audience Destinations] é baseado no Adobe Experience Platform e requer uma configuração específica.
+>No momento, esse recurso está em beta e está sujeito a atualizações e modificações frequentes sem aviso prévio. [!UICONTROL Audience Destinations] O é baseado no Adobe Experience Platform e requer uma configuração específica.
 >
->Entre em contato com [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
+>Entre em contato com [!UICONTROL Adobe Customer Support] se planeja implementar esse recurso.
 
-Este vídeo explica como alterar o targeting dimension de um delivery para [!UICONTROL Platform Audience] fora da tabela do perfil primário no Adobe Campaign Standard.
+Este vídeo explica como alterar o targeting dimension de um delivery para um [!UICONTROL Platform Audience] fora da tabela de perfil principal no Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
@@ -40,4 +42,4 @@ Documentação:
 Recursos de vídeo:
 
 * [Criar um novo público-alvo usando o Criador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md) 
-* [Ativar o Adobe Experience Platform audiência em um fluxo de trabalho de marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+* [Ativar públicos-alvo da Adobe Experience Platform em um fluxo de trabalho de marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
