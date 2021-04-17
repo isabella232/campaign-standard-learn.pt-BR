@@ -1,21 +1,23 @@
 ---
 title: Explore a hierarquia e as atividades de marketing
-description: Este vídeo explica a hierarquia de programas e campanhas no Adobe Campaign Standard (ACS), além de como criar um programa de marketing e uma campanha de marketing em um programa.
-feature: campanhas
+description: '"Entenda a hierarquia de programas e campanhas, como criar um programa de marketing e como criar uma campanha de marketing em um programa."'
+feature: Campanhas, Programas
 topics: null
 kt: 3892
 thumbnail: 18465.jpg
 doc-type: feature video
 activity: Understand
 team: WWFRE
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+exl-id: c5804637-804c-473f-80d8-d54263c49a5c
+role: Business Practitioner
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 65%
 
 ---
-
 
 # Explore a hierarquia e as atividades de marketing
 
