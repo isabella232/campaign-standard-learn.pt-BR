@@ -1,21 +1,23 @@
 ---
 title: Teste A/B
-description: 'Este vídeo explica como configurar e enviar um teste A/B no Adobe Campaign Standard, testando a linha de assunto. '
-feature: A/B Testing
+description: '"Saiba como configurar e enviar um teste A/B, que testa a linha de assunto. "'
+feature: 'Teste A/B  '
 topics: null
 kt: 3907
 thumbnail: 18480.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: f1ae414c-6b42-445b-bb33-9a28a3e854fa
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 47%
+source-wordcount: '110'
+ht-degree: 50%
 
 ---
-
 
 # Teste A/B
 
