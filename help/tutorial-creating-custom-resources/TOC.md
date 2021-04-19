@@ -1,10 +1,9 @@
 ---
-product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard – Tutorial de criação de recursos personalizados
 user-guide-description: 'Este tutorial com várias seções guiará você pelas etapas necessárias para criar e vincular recursos personalizados. '
-translation-type: ht
-source-git-commit: c12f58e0d63d267cfb955cc477e6ba193a8ad0da
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
+workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
 
