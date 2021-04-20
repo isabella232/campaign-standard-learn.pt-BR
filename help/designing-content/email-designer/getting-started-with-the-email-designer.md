@@ -1,7 +1,7 @@
 ---
 title: Introdução ao Email Designer
 description: Entenda a funcionalidade geral do Designer de email e como projetar um email do zero.
-feature: Design de email
+feature: Email Design
 topics: Content Creation
 kt: 2391
 thumbnail: 25912.jpg

@@ -1,7 +1,7 @@
 ---
 title: Configurar uma lista
 description: '"Saiba como alterar as colunas exibidas, a ordem e a ordem de classificação de uma exibição de lista no Adobe Campaign Standard.  "'
-feature: Visão geral
+feature: Overview
 topics: null
 kt: 1821
 thumbnail: 25288.jpg

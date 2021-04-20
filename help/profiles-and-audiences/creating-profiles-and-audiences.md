@@ -1,7 +1,7 @@
 ---
 title: Criar perfis e públicos-alvo – visão geral
 description: Saiba como navegar até perfis existentes e criar perfis e públicos-alvo.
-feature: Perfis, públicos-alvo
+feature: Profiles, Audiences
 topics: null
 kt: 3899
 thumbnail: 18463.jpg

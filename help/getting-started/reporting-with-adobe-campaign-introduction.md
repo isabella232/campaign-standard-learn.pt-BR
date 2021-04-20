@@ -1,7 +1,7 @@
 ---
 title: Introdução aos relatórios
 description: Entender os recursos de relatórios do Adobe Campaign Standard
-feature: Relatórios
+feature: Reporting
 topics: null
 kt: 3974
 thumbnail: 29461.jpg

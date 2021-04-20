@@ -1,7 +1,7 @@
 ---
 title: Gerenciar serviços e assinaturas
 description: Saiba como criar um serviço e gerenciar assinaturas.
-feature: Assinaturas
+feature: Subscriptions
 topics: null
 kt: 1815
 thumbnail: 24673.jpg

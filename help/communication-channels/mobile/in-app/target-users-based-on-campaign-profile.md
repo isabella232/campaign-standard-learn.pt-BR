@@ -1,7 +1,7 @@
 ---
 title: Direcionar usuários com base em seus perfis do Campaign
 description: Saiba como direcionar usuários conhecidos de aplicativos móveis com mensagens personalizadas com atributos de perfil do CRM.
-feature: No aplicativo
+feature: In App
 topics: Channels
 kt: 1796
 thumbnail: 26200.jpg

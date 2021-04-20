@@ -1,7 +1,7 @@
 ---
 title: Importar perfis com um workflow
 description: Saiba como importar dados de perfil usando um workflow.
-feature: Gerenciamento de dados
+feature: Data Management
 topics: null
 kt: 1818
 thumbnail: 24993.jpg

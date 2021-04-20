@@ -1,7 +1,7 @@
 ---
 title: Explore a hierarquia e as atividades de marketing
 description: '"Entenda a hierarquia de programas e campanhas, como criar um programa de marketing e como criar uma campanha de marketing em um programa."'
-feature: Campanhas, Programas
+feature: Campaigns, Programs
 topics: null
 kt: 3892
 thumbnail: 18465.jpg

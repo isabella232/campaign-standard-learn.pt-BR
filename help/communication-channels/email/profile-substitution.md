@@ -1,7 +1,7 @@
 ---
 title: Substituição de perfil – Teste de mensagens de email usando perfis direcionados
 description: Saiba como você pode testar suas mensagens de email usando o recurso de substituição de perfil.
-feature: 'Email  '
+feature: Email  
 topics: Channels
 kt: 4667
 thumbnail: 32368.jpg

@@ -1,7 +1,7 @@
 ---
 title: Criar um perfil de teste
 description: Saiba como direcionar recipients que não correspondem aos critérios de direcionamento definidos para detectar qualquer uso fraudulento do banco de dados do seu recipient ou para garantir que os emails cheguem às caixas de entrada.
-feature: Testar perfis
+feature: Test Profiles
 kt: 1810
 thumbnail: 24094.jpg
 doc-type: feature video

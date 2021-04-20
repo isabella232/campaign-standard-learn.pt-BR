@@ -1,7 +1,7 @@
 ---
 title: Atividade de sinal externo - Chame um fluxo de trabalho com parâmetros
 description: '"Saiba como iniciar um fluxo de trabalho a partir de outro para oferecer suporte a jornadas de clientes mais complexas, além de monitorar e reagir melhor aos problemas."'
-feature: Atividade de execução
+feature: Execution Activity
 topics: Workflows
 kt: 2750
 thumbnail: 27249

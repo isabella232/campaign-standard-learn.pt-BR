@@ -1,7 +1,7 @@
 ---
 title: Explorar relatórios
 description: Entenda os diferentes relatórios que estão disponíveis imediatamente para um delivery de email.
-feature: Relatórios
+feature: Reporting
 topics: Getting Started
 kt: 3906
 thumbnail: 23021.jpg

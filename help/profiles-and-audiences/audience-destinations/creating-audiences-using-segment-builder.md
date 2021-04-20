@@ -1,6 +1,6 @@
 ---
 title: 'Criar um novo público-alvo usando o Criador de segmentos unificado '
-feature: Integração do Serviço principal de pessoas
+feature: People Core Service Integration
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg

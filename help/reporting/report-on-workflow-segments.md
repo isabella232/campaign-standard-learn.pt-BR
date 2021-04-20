@@ -1,7 +1,7 @@
 ---
 title: Criar relatório com base em segmentos de workflow
 description: Os relatórios em segmentos de fluxo de trabalho fornecem a capacidade de adicionar código de segmento de fluxo de trabalho em relatórios dinâmicos.
-feature: Relatórios
+feature: Reporting
 topics: Reporting
 kt: 3252
 thumbnail: 28262.jpg

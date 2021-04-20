@@ -1,7 +1,7 @@
 ---
 title: 'Criar um perfil '
 description: Saiba como criar um perfil e adicioná-lo a um público-alvo.
-feature: Perfis, públicos-alvo
+feature: Profiles, Audiences
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video

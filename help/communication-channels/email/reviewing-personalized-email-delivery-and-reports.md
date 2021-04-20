@@ -1,7 +1,7 @@
 ---
 title: Revisar um delivery de email e relatórios
 description: Saiba como revisar um delivery de email personalizado e explorar diferentes relatórios disponíveis no Adobe Campaign Standard.
-feature: Relatórios
+feature: Reporting
 topics: null
 kt: 3904
 thumbnail: 21389.jpg

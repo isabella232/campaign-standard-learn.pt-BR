@@ -1,7 +1,7 @@
 ---
 title: Mapeamento de eventos de experiência
 description: Saiba como mapear Eventos de experiência no Adobe Experience Platform (AEP)
-feature: Conector de dados da Adobe Experience Platform
+feature: Adobe Experience Platform Data Connector
 topics: null
 kt: 2832
 thumbnail: 27265.jpg

@@ -1,7 +1,7 @@
 ---
 title: Introdução a modelos de conteúdo de email
 description: Saiba como criar um template de conteúdo de email.
-feature: Design de email
+feature: Email Design
 topics: null
 kt: 1442
 thumbnail: 23106.jpg

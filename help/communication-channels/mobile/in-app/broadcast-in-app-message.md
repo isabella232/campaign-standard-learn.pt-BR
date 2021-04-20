@@ -1,7 +1,7 @@
 ---
 title: '"Transmitir uma mensagem no aplicativo "'
 description: Saiba como o modelo de Difusão permite direcionar todos os usuários do seu aplicativo móvel.
-feature: No aplicativo
+feature: In App
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg

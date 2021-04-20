@@ -1,7 +1,7 @@
 ---
 title: Entender perfis e públicos-alvo no Adobe Campaign Standard
 description: Entenda o conceito de perfis e públicos-alvo e saiba como criar perfis e públicos-alvo.
-feature: Perfis, públicos-alvo
+feature: Profiles, Audiences
 topics: null
 kt: 3893
 thumbnail: 18464.jpg

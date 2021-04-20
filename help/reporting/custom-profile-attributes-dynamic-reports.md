@@ -1,7 +1,7 @@
 ---
 title: Criar atributos de perfil personalizados com base em relatório
 description: Saiba como criar um relatório com base em atributos de perfil personalizados.
-feature: Relatórios
+feature: Reporting
 kt: 1444
 thumbnail: 28204.jpg
 doc-type: feature video

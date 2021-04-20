@@ -1,7 +1,7 @@
 ---
 title: Teste A/B
 description: '"Saiba como configurar e enviar um teste A/B, que testa a linha de assunto. "'
-feature: 'Teste A/B  '
+feature: A/B Testing  
 topics: null
 kt: 3907
 thumbnail: 18480.jpg

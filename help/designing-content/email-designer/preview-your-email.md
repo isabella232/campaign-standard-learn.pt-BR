@@ -1,7 +1,7 @@
 ---
 title: Pré-visualização de email e análise anti spam
 description: '"Saiba como visualizar seu email e a análise antisspam."'
-feature: Design de email
+feature: Email Design
 topics: null
 kt: 2393
 thumbnail: 25921.jpg

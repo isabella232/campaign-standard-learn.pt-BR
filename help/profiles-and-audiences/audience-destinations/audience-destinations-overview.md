@@ -1,7 +1,7 @@
 ---
 title: Destinos do público-alvo - Visão geral
 description: Saiba como aproveitar os públicos-alvo do Adobe Experience Platform (AEP) no Adobe Campaign Standard (ACS)
-feature: Integração do Serviço principal de pessoas
+feature: People Core Service Integration
 topics: ACOP
 kt: 2755
 thumbnail: null

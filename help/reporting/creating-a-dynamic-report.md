@@ -1,7 +1,7 @@
 ---
 title: Criar relatório dinâmico
 description: Saiba como criar um relatório.
-feature: Relatórios
+feature: Reporting
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video

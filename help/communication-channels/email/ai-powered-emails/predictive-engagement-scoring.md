@@ -1,7 +1,7 @@
 ---
 title: Pontuação de engajamento preditivo
 description: Saiba como visualizar as pontuações de engajamento no nível do perfil individual, usar pontuações para direcionar usuários engajados e suprimir usuários cansados e como criar regras de tipologia para gerenciar a fadiga do cliente.
-feature: Pontuação preditiva de engajamento
+feature: Predictive Engagement Scoring
 topics: null
 kt: 6275
 thumbnail: 40470.jpg

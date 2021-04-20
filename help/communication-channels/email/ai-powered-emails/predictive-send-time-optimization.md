@@ -1,7 +1,7 @@
 ---
 title: Otimização preditiva do tempo de envio
 description: Entenda quais workflows são necessários para sincronizar dados entre o Adobe Campaign e o modelo de IA de jornada. Saiba como visualizar as pontuações de tempo de envio em nível de perfil individual e como executar deliveries de email usando uma fórmula de tempo de envio.
-feature: Enviar Otimização de Tempo
+feature: Send Time Optimization
 topics: null
 kt: 6274
 thumbnail: 40469.jpg

@@ -1,7 +1,7 @@
 ---
 title: Configurar eventos
 description: '"Entenda como os eventos definem qual ação iniciada pelo usuário acionará uma mensagem no aplicativo a ser exibida. "'
-feature: No aplicativo
+feature: In App
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg

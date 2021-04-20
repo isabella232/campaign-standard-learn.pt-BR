@@ -1,7 +1,7 @@
 ---
 title: Alterar a targeting dimension
 description: Este vídeo explica como alterar o targeting dimension de um delivery para um Público-alvo da plataforma fora da tabela de perfil principal no Adobe Campaign Standard.
-feature: Integração do Serviço principal de pessoas
+feature: People Core Service Integration
 topics: ACOP
 kt: 3739
 thumbnail: 30151.jpg

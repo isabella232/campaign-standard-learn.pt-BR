@@ -1,7 +1,7 @@
 ---
 title: Relatório sobre seu delivery no aplicativo
 description: '"Saiba como apresentar ao usuário mensagens no aplicativo relevantes contextualmente em resposta ao comportamento em tempo real de um cliente no aplicativo móvel."'
-feature: No aplicativo
+feature: In App
 topics: Mobile
 kt: 2558
 thumbnail: 26412.jpg

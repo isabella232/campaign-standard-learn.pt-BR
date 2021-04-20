@@ -1,7 +1,7 @@
 ---
 title: Marketing para dispositivos móveis com o Adobe Campaign
 description: Entenda quais recursos do Adobe Campaign Standard podem suportar sua estratégia de marketing móvel.
-feature: SMS, Push, No Aplicativo
+feature: SMS, Push, In-App
 topics: null
 kt: 3976
 thumbnail: 29468.jpg

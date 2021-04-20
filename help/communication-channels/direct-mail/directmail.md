@@ -1,7 +1,7 @@
 ---
 title: Criar uma correspondência direta
 description: Saiba como criar uma correspondência direta.
-feature: Correspondência direta
+feature: Direct Mail
 topics: null
 kt: 1430
 thumbnail: 23417.jpg

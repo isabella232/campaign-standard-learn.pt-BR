@@ -1,7 +1,7 @@
 ---
 title: Configurar a visualização móvel no Designer de email
 description: '"Saiba como ajustar o design responsivo de um email editando separadamente todas as opções de estilo para exibição em dispositivos móveis."'
-feature: Design de email
+feature: Email Design
 topics: null
 kt: 2423
 thumbnail: 25919.jpg

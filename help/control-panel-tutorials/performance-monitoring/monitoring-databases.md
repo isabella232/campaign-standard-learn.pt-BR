@@ -1,7 +1,7 @@
 ---
 title: Monitoramento de bancos de dados
 description: Saiba como monitorar o uso do banco de dados de suas instâncias.
-feature: Monitoramento de banco de dados
+feature: Database Monitoring
 topics: Control Panel
 kt: 6433
 thumbnail: 327175.jpg

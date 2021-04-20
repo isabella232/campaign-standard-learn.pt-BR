@@ -1,7 +1,7 @@
 ---
 title: Introdução a mensagens no aplicativo
 description: '"Saiba como apresentar ao usuário mensagens no aplicativo contextualmente relevantes, em resposta ao comportamento em tempo real de um cliente no aplicativo móvel."'
-feature: No aplicativo
+feature: In App
 topics: Mobile
 kt: 1911
 doc-type: feature video

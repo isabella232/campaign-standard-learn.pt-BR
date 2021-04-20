@@ -1,7 +1,7 @@
 ---
 title: 'Introdução à interface do usuário '
 description: Este vídeo oferece uma visão geral sobre a interface do usuário do Adobe Campaign Standard, seus principais recursos e funcionalidades.
-feature: Visão geral
+feature: Overview
 topics: Getting started
 kt: 3882
 thumbnail: acs-ui-get-started.png

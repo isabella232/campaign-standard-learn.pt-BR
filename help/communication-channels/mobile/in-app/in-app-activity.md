@@ -3,7 +3,7 @@ title: Criar um delivery no aplicativo em um workflow
 seo-title: Criação de um delivery no aplicativo em um workflow
 description: '"Saiba como usar a atividade de entrega no aplicativo para automatizar o envio de uma mensagem no aplicativo para um público-alvo calculado em um fluxo de trabalho."'
 seo-description: A atividade In-App delivery é geralmente usada para automatizar o envio de uma mensagem no aplicativo para um público-alvo calculado no mesmo workflow.
-feature: No aplicativo
+feature: In App
 topics: Mobile
 kt: 2500
 thumbnail: 26226.jpg

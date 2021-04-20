@@ -1,7 +1,7 @@
 ---
 title: 'Configurar um aplicativo para dispositivos móveis usando o SDK da Adobe Experience Platform '
 description: Saiba como configurar um aplicativo para dispositivos móveis no Adobe Experience Platform Launch e como configurá-lo no Adobe Campaign.
-feature: No aplicativo, Push, Configuração do canal, Integração do SDK móvel
+feature: In App, Push, Channel Configuration, Mobile SDK Integration
 topics: null
 kt: 2501
 thumbnail: 26224.jpg
