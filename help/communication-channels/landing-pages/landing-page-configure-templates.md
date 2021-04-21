@@ -1,8 +1,7 @@
 ---
 title: Configurar um modelo de página de aterrissagem
 Description: This video explains how to configure Landing Page templates in Adobe Campaign Standard.
-feature: Landing Pages
-topics: null
+feature: Landing pages
 kt: 1817
 thumbnail: 25200.jpg
 doc-type: feature video
@@ -13,7 +12,7 @@ description: Saiba como configurar um template de landing page
 role: Administrator, Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '24'
 ht-degree: 29%
