@@ -1,22 +1,21 @@
 ---
 title: Descriptografar dados
 description: O vídeo abaixo explica como criar uma chave pública, importá-la e instalá-la em uma instância do Campaign para descriptografar dados.
-feature: Control Panel
-topics: null
+feature: Painel de controle do Campaign
 audience: administrator
 kt: 5545
 thumbnail: 35753.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: 3d4aaf1f-b8cf-4e22-accb-4f73aaaf21af
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
-
 
 # Descriptografar dados
 
