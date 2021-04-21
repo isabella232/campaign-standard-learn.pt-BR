@@ -2,8 +2,7 @@
 title: Criar um delivery de email
 description: 'Saiba como criar um delivery de email na página inicial. '
 landing-page-description: Este vídeo explica como criar uma entrega de email a partir da página inicial.
-feature: Email
-topics: null
+feature: 'Email '
 kt: 1807
 thumbnail: 23721.jpg
 doc-type: feature video
@@ -13,7 +12,7 @@ exl-id: 9daf4e3d-3c96-443d-85d6-99f7a0377cd8
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 36%
