@@ -1,22 +1,20 @@
 ---
 title: Delegação de subdomínio completa
 description: O Painel de controle do Adobe Campaign permite delegar totalmente um subdomínio ao Adobe Campaign. Para fazer isso, siga as etapas abaixo.
-feature: Subdomains and certificates
-topics: null
-audience: administrator
+feature: Subdomínios e certificados
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: 063e9971-2cc6-4027-80cc-d2c0fd264a51
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 80%
+source-wordcount: '122'
+ht-degree: 78%
 
 ---
-
 
 # Delegação de subdomínio completa
 
@@ -24,7 +22,7 @@ O [!UICONTROL Control Panel] do Adobe Campaign permite delegar totalmente um sub
 
 >[!NOTE]
 >
->A delegação de subdomínio do [!UICONTROL Control Panel] estará disponível no beta até o final de janeiro e estará sujeita a atualizações e modificações frequentes sem aviso prévio.
+>A delegação de subdomínio do [!UICONTROL Control Panel] estará disponível em versão beta até o final de janeiro e sujeita a atualizações e modificações frequentes sem aviso prévio.
 
 ## Acesso ao [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
