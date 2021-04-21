@@ -1,8 +1,7 @@
 ---
 title: Adicionar um grupo de controle a um delivery
 description: Saiba como definir um grupo de controle para o seu delivery e como extrair os perfis atribuídos ao grupo de controle após o envio do delivery.
-feature: Control Groups
-topics: null
+feature: Grupos de controle
 kt: 5060
 thumbnail: 40684.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 7d799136-a308-422d-8a97-d3ed8fed0c73
 role: Business Practitioner
 level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
