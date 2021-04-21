@@ -1,8 +1,7 @@
 ---
 title: Trabalhar com conteúdo existente
 description: Este vídeo explica como recuperar rapidamente seu conteúdo criativo de um site e carregá-lo no Designer de email.
-feature: Email Design
-topics: Content Creation
+feature: Design de email
 kt: 6295
 thumbnail: 25926.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
 role: Business Practitioner, Developer
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 7%
