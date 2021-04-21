@@ -1,16 +1,17 @@
 ---
 title: ETAPA 4 - Definir identificador de push
-description: O **pushIdentifier** é uma string que contém o token do dispositivo para notificações por push. Esse é o mesmo token enviado pelo Firebase e passado para o SDK usando o método MobileCore.setPushIdentifier.
+description: O **pushIdentifier** é uma string que contém o token do dispositivo para notificações por push. Esse é o mesmo token enviado pelo Firebase e passado para o SDK com o método MobileCore.setPushIdentifier .
 feature: Push
-topics: MOBILE
+topic: CELULAR
 kt: 4828
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
 translation-type: tm+mt
-source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
+source-git-commit: ddbb0843ea45a83d9ab5bfa0877287f6ba7d6210
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 O **[!DNL pushidentifier]** é uma cadeia de caracteres que contém o token de dispositivo para notificações [!DNL Push]. Esse é o mesmo token enviado por [!DNL Firebase] e passado para o SDK usando o método [!DNL MobileCore.setPushIdentifier].
 
-Abra seu projeto no estúdio [!DNL Android ]. Exclua o código inteiro em [!DNL MainActivity] **exceto a primeira linha que é a declaração do pacote**.
+Abra o projeto no estúdio [!DNL Android ]. Exclua o código inteiro em [!DNL MainActivity] **exceto a primeira linha que é a instrução do pacote**.
 
 Cole o seguinte código em [!DNL MainActivity]:
 
@@ -86,22 +87,22 @@ MobileCore.lifecyclePause();
 }
 ```
 
-## Teste seu aplicativo
+## Testar seu aplicativo
 
-Agora é uma boa hora para testar seu aplicativo, antes de ir mais longe.
+Agora é um bom momento para testar seu aplicativo, antes de prosseguir.
 
 * Execute seu aplicativo clicando na seta verde ou selecione **[!DNL Run->Run'app']**.
-* O emulador [!DNL Android] deve ser start e você deve ver seu aplicativo sendo executado com [!DNL "Hello World" ]texto.
-* Abra a janela [!DNL logcat]. Procure &quot;[!DNL Got]&quot;. Você deve ver o token recebido de [!DNL Firebase] gravado no log, como mostrado abaixo. A string longa depois de &quot;[!DNL Got token]&quot; é o [!DNL pushidentifier ]que é enviado para a Adobe Campaign.
+* O emulador [!DNL Android] deve ser iniciado e você deve ver seu aplicativo em execução com [!DNL "Hello World" ]texto.
+* Abra a janela [!DNL logcat]. Procure por &quot;[!DNL Got]&quot;. Você deve ver o token recebido de [!DNL Firebase] gravado no log, como mostrado abaixo. A sequência longa depois de &quot;[!DNL Got token]&quot; é o [!DNL pushidentifier ]que é enviado para o Adobe Campaign.
 
 ![logcat-token](assets/logcat-got-token.PNG)
 
-### Verificar assinantes do aplicativo móvel
+### Verificar Assinantes de Aplicativos Móveis
 
-Faça logon na sua instância do Adobe Campaign Standard.
-Navegue **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Abra o aplicativo móvel apropriado. Pressione para a guia [!UICONTROL Mobile Application Subscribers]. Você deve ver um [!UICONTROL registration token ]listado.
+Faça logon na instância do Adobe Campaign Standard.
+Navegue **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Abra o aplicativo móvel apropriado. Toque na guia [!UICONTROL Mobile Application Subscribers] . Você deve ver um [!UICONTROL registration token ]listado.
 
-![assinantes de aplicativos móveis](assets/mobile-application-subscribers.PNG)
+![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
 
 >[!NOTE]
 >
