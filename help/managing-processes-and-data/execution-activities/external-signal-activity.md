@@ -1,8 +1,7 @@
 ---
 title: Atividade de sinal externo - Chame um fluxo de trabalho com parâmetros
-description: '"Saiba como iniciar um fluxo de trabalho a partir de outro para oferecer suporte a jornadas de clientes mais complexas, além de monitorar e reagir melhor aos problemas."'
-feature: Execution Activity
-topics: Workflows
+description: Saiba como iniciar um fluxo de trabalho a partir de outro para oferecer suporte a jornadas de clientes mais complexas, além de monitorar e reagir melhor aos problemas.
+feature: Atividade de execução
 kt: 2750
 thumbnail: 27249
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: Business Practitioner, Developer
 level: Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 9%
