@@ -31,4 +31,4 @@ Este vídeo explica como criar um delivery de email independente na página inic
 
 * [Criar e enviar emails por meio de um workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [Criação de email (documentação)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [Práticas recomendadas para delivery](https://helpx.adobe.com/br/campaign/kb/delivery-best-practices.html)
+* [Práticas recomendadas de delivery](https://helpx.adobe.com/br/campaign/kb/delivery-best-practices.html)
