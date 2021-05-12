@@ -11,7 +11,7 @@ exl-id: fb138b50-5022-4320-8d45-a9ac6405a44e
 role: Business Practitioner
 level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: e652a86b4454cfe0ecb3e2991ef9f5333ea8a287
+source-git-commit: 3f4a6c9bd358c39f1c5513eb3735d840bfb9b655
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 49%
@@ -28,4 +28,4 @@ Este vídeo explica como criar perfis de teste
 
 ## Recursos adicionais
 
-* [Gerenciar perfis de teste (Documentação)](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-profiles/managing-test-profiles.html)
+* [Gerenciamento de perfis de teste (Documentação)](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-profiles/managing-test-profiles.html)
