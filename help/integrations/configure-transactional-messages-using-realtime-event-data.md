@@ -1,7 +1,7 @@
 ---
-title: Configurar mensagens transacionais usando dados de evento em tempo real
-description: Saiba como configurar mensagens transacionais usando dados de evento em tempo real provenientes de acionadores.
-feature: Triggers
+title: Configurar mensagens transacionais usando dados do evento em tempo real
+description: Saiba como configurar mensagens transacionais usando dados do evento em tempo real provenientes de acionadores.
+feature: Acionadores
 kt: 7471
 thumbnail: 332602.jpg
 doc-type: feature video
@@ -10,16 +10,15 @@ level: Experienced
 activity: use
 team: TM
 exl-id: 748d6cb3-86f0-4763-9d71-1f1e30dfeb93
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
-# Configurar mensagens transacionais usando dados de evento em tempo real
+# Configurar mensagens transacionais usando dados do evento em tempo real
 
-Saiba como configurar mensagens transacionais usando dados de evento em tempo real provenientes de acionadores.
+Saiba como configurar mensagens transacionais usando dados do evento em tempo real provenientes de acionadores.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12)
