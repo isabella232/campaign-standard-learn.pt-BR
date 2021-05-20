@@ -1,6 +1,6 @@
 ---
 title: Explore a hierarquia e as atividades de marketing
-description: '"Entenda a hierarquia de programas e campanhas, como criar um programa de marketing e como criar uma campanha de marketing em um programa."'
+description: '"Compreenda a hierarquia de programas e campanhas, como criar um programa de marketing e uma campanha de marketing em um programa."'
 feature: Campanhas, Programas
 kt: 3892
 thumbnail: 18465.jpg
@@ -10,11 +10,10 @@ team: WWFRE
 exl-id: c5804637-804c-473f-80d8-d54263c49a5c
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
