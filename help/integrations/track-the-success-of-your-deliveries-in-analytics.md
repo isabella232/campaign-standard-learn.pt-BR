@@ -11,11 +11,10 @@ thumbnail: 332576.jpg
 doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
-translation-type: tm+mt
 source-git-commit: ddbb0843ea45a83d9ab5bfa0877287f6ba7d6210
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
@@ -27,4 +26,4 @@ Saiba como configurar a integração do Campaign Standard e do Analytics. Entend
 
 ## Recursos adicionais
 
-[Como entender e criar conjuntos de relatórios](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=en#intro-to-analytics)
+[Entender e criar conjuntos de relatórios](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=pt-BR#intro-to-analytics)
