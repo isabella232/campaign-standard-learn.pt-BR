@@ -3,14 +3,13 @@ title: Tutoriais do Adobe Campaign Standard – Visão geral
 description: O Adobe Campaign oferece uma plataforma para projetar experiências de clientes entre canais, além de um ambiente para a orquestração visual de campanhas, gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: Overview
+feature: Visão geral
 role: Business Practitioner, Administrator, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +23,7 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
 
    *Saiba como configurar a integração do Campaign Standard e do Analytics. Entenda como criar um relatório no Analytics usando dados recebidos do Campaign Standard e quais KPIs estão disponíveis.*
 
-* **[Uso de acionadores para mensagens transacionais](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
+* **[Utilização de acionadores para mensagens transacionais](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
 
    *Saiba como configurar e usar acionadores para mensagens transacionais.*
 
@@ -63,7 +62,7 @@ O Adobe Campaign fornece uma plataforma para projetar experiências de clientes 
       <img alt="Tutorial: Introdução a notificações por push para Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <a href="https://docs.adobe.com/content/help/pt-BR/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
     <strong>Tutorial: Introdução a notificações por push para Android</strong>
     </a>
     </div>
