@@ -1,7 +1,7 @@
 ---
-title: Entender perfis e públicos-alvo no Adobe Campaign Standard
-description: Entenda o conceito de perfis e públicos-alvo e saiba como criar perfis e públicos-alvo.
-feature: Perfis, públicos-alvo
+title: Compreender perfis e públicos no Adobe Campaign Standard
+description: Entenda o conceito de perfis e públicos e saiba como criar perfis e públicos.
+feature: Perfis, públicos
 kt: 3893
 thumbnail: 18464.jpg
 doc-type: feature video
@@ -10,11 +10,10 @@ team: WWFRE
 exl-id: 8a11b35f-ac6b-4f63-a72e-4e676ea3d69d
 role: Business Practitioner, Developer, Administrator
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +27,4 @@ Este vídeo explica o conceito e como criar perfis e públicos-alvo.
 
 * [Criar um perfil](/help/profiles-and-audiences/creating-a-profile.md)
 * [Criar um perfil de teste](/help/profiles-and-audiences/test-profiles.md)
-* [Importar perfis com um workflow](/help/managing-processes-and-data/importing-profiles.md)
+* [Importar perfis com um fluxo de trabalho](/help/managing-processes-and-data/importing-profiles.md)
