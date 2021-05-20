@@ -1,6 +1,6 @@
 ---
 title: Crescer com o Adobe Campaign
-description: Entenda as próximas etapas potenciais para a verdadeira orquestração entre canais.
+description: Compreenda os próximos passos para uma verdadeira orquestração entre canais.
 feature: Orquestração entre canais
 kt: 3973
 thumbnail: 29460.jpg
@@ -10,11 +10,10 @@ team: PMM
 exl-id: c6c4e1b9-9a5c-4474-84df-adcfa7b42621
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '33'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
