@@ -10,11 +10,10 @@ team: PMM
 exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
 role: Business Practitioner, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +27,4 @@ Este vídeo oferece uma visão geral sobre os recursos de relatórios do Adobe C
 
 * [Criar um relatório dinâmico](/help/reporting/creating-a-dynamic-report.md)
 * [Criar relatório dinâmico usando atributos de perfil personalizados](/help/reporting/custom-profile-attributes-dynamic-reports.md)
-* [Criar um relatório com base em segmentos de workflow](/help/reporting/report-on-workflow-segments.md)
+* [Criar um relatório com base em segmentos de fluxo de trabalho](/help/reporting/report-on-workflow-segments.md)
