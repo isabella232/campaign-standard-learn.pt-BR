@@ -8,10 +8,10 @@ tutorials-title: Tutoriais
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=pt-BR
 getting-started-title: Documentação
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=pt-BR
-source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: ht
-source-wordcount: '549'
-ht-degree: 100%
+source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
+workflow-type: tm+mt
+source-wordcount: '558'
+ht-degree: 94%
 
 ---
 
@@ -93,20 +93,21 @@ ht-degree: 100%
       + [Atividade de sinal externo](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Atividades de gerenciamento de dados {#data-management-activities}
       + [Atividade de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Relatórios {#reporting}
++ Relatório {#reporting}
    + [Explorar relatórios](/help/getting-started/exploring-reports.md)
    + [Criar relatório dinâmico](/help/reporting/creating-a-dynamic-report.md)
    + [Criar relatório com base em atributos personalizados de perfil](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Criar relatório com base em segmentos de fluxo de trabalho](/help/reporting/report-on-workflow-segments.md)
-+ Integração com outras soluções {#integrations}
++ Integrar com outras soluções {#integrations}
    + [Rastrear o sucesso de suas entregas no Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + Utilização de acionadores para mensagens transacionais {#triggers}
+   + Use acionadores para mensagens transacionais {#triggers}
       + [Visão geral](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Configurar o Launch para acionadores](/help/integrations/configure-launch-for-triggers.md)
       + [Criar um acionador na Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Criar um evento de acionador no Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configurar mensagens transacionais usando dados do evento em tempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-+ Administração {#administrating}
+   + [Configurar o Microsoft® Dynamics 365 para integração com o Campaign Standard](/help/integrations/configure-dynamics-365.md)
++ Administre {#administrating}
    + [Gerenciamento de direitos de acesso do usuário](/help/administrating/managing-user-access-rights.md)
    + [Criar recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=pt-BR)
    + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=pt-BR)
