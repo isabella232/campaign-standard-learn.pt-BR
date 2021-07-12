@@ -7,17 +7,16 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '747'
-ht-degree: 20%
+ht-degree: 21%
 
 ---
 
-# Introdução a [!UICONTROL In-App] mensagens {#introduction}
+# Introdução a mensagens [!UICONTROL In-App] {#introduction}
 
 O canal [!UICONTROL In-App Messaging] permite exibir uma mensagem quando o usuário está ativo no aplicativo móvel. Este canal requer que os aplicativos móveis sejam integrados com [!UICONTROL Adobe Experience Platform SDK].
 
@@ -40,13 +39,13 @@ Este tutorial explicará as etapas necessárias para configurar as propriedades 
 
 Para obter mais informações sobre extensões, consulte a documentação [Configurar extensão do Campaign Standard no Adobe Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) em [!UICONTROL Adobe Launch ].
 
-## Etapas para configurar [!UICONTROL In-App] mensagens {#steps-to-set-up}
+## Etapas para configurar mensagens [!UICONTROL In-App] {#steps-to-set-up}
 
-1. [Configure um aplicativo para dispositivos móveis usando o Adobe Experience Platform SDK](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md).
+1. [Configurar um aplicativo para dispositivos móveis usando o SDK da Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md).
 
 1. [Configurar eventos](/help/communication-channels/mobile/in-app/configure-events.md).
 
-## Criar, gerenciar e publicar [!UICONTROL In-App] Deliveries {#create-manage-publish}
+## Criar, gerenciar e publicar [!UICONTROL In-App] deliveries {#create-manage-publish}
 
 Você pode criar deliveries ocasionais no aplicativo clicando no cartão **[!UICONTROL Create an In-App Message]** da página inicial, em [!UICONTROL Marketing Activities], ou pode [Criar um delivery no aplicativo em um workflow](/help/communication-channels/mobile/in-app/in-app-activity.md).
 
