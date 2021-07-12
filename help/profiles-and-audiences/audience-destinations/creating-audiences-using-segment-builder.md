@@ -1,5 +1,5 @@
 ---
-title: 'Criar um novo público-alvo usando o Criador de segmentos unificado '
+title: Criar um novo público usando o Criador de segmentos unificado
 description: Saiba como criar um novo público-alvo usando o Criador de segmentos unificado
 feature: Integração do Serviço principal de pessoas
 kt: 2754
@@ -8,17 +8,16 @@ doc-type: feature video
 activity: using
 team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 8%
 
 ---
 
-# Criar um novo público-alvo usando o Criador de segmentos unificado 
+# Criar um novo público usando o Criador de segmentos unificado
 
 >[!NOTE]
 >
