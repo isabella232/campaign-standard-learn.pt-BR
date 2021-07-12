@@ -1,24 +1,23 @@
 ---
-title: Criar perfis e públicos-alvo – visão geral
-description: Saiba como navegar até perfis existentes e criar perfis e públicos-alvo.
-feature: Perfis, públicos-alvo
+title: Criar perfis e públicos — Visão geral
+description: Saiba como navegar até perfis existentes e como criar perfis e públicos.
+feature: Perfis, públicos
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 16%
+ht-degree: 35%
 
 ---
 
-# Criar perfis e públicos-alvo – visão geral
+# Criar perfis e públicos — Visão geral
 
 O Adobe Campaign tem dois tipos ou perfis:
 
