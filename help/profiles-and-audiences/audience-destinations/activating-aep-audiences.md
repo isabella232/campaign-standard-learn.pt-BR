@@ -1,5 +1,5 @@
 ---
-title: Ativar públicos-alvo da Adobe Experience Platform em um workflow
+title: Ativar públicos da Adobe Experience Platform em um fluxo de trabalho
 description: Este vídeo explica como ativar o Público-alvo de consulta dos serviços de dados em um fluxo de trabalho usando a atividade "Ler público-alvo".
 feature: Integração do Serviço principal de pessoas
 kt: 2760
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: using
 team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 7%
