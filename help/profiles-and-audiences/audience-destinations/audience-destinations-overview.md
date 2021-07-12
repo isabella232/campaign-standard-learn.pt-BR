@@ -8,10 +8,9 @@ doc-type: feature video
 activity: using
 team: TM
 exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 9%
@@ -35,7 +34,7 @@ O módulo [!UICONTROL Audiences] no Adobe Campaign Standard permite criar segmen
 
 Os seguintes tutoriais em vídeo guiarão você pelas diferentes etapas:
 
-1. [Criar um novo público-alvo usando o Criador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md) 
+1. [Criar um novo público usando o Criador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Ativar públicos-alvo da AEP em um fluxo de trabalho de marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Alterar o targeting dimension de um delivery para um Público-alvo da plataforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
