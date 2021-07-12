@@ -1,17 +1,16 @@
 ---
 title: Criar relatório dinâmico
 description: Saiba como criar um relatório.
-feature: Reporting
+feature: Relatórios
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video
 activity: use
 team: DOC
 exl-id: a2b93d8b-0d3e-4525-a334-a01701d34d85
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 46%
@@ -28,4 +27,4 @@ Saiba como criar um relatório.
 
 ## Recursos adicionais
 
-* [Sobre os relatórios](https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html)
+* [Sobre relatórios](https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html)
