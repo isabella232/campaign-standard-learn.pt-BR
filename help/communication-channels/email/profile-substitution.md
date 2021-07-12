@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
-role: Business Practitioner
+role: User
 level: Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 92%
@@ -35,5 +34,5 @@ Para obter mais informações, consulte a [documentação detalhada do produto](
 ## Recursos adicionais
 
 * [Teste de mensagens usando perfis de público-alvo (documentação)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
-* [Criação de um email de teste A/B](/help/communication-channels/email/a-b-testing.md)
+* [Criação de email de teste A/B](/help/communication-channels/email/a-b-testing.md)
 * [Enviar um teste, preparar e enviar um email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
