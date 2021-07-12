@@ -1,5 +1,5 @@
 ---
-title: Revisar um delivery de email e relatórios
+title: Revisar uma entrega de email e relatórios
 description: Saiba como revisar um delivery de email personalizado e explorar diferentes relatórios disponíveis no Adobe Campaign Standard.
 feature: Relatórios
 kt: 3904
@@ -8,17 +8,16 @@ doc-type: tutorial
 activity: understand
 team: WWFRE
 exl-id: 629ba991-4e5c-419f-a32c-c632445afaf1
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 23%
 
 ---
 
-# Revisar um delivery de email e relatórios
+# Revisar uma entrega de email e relatórios
 
 Este vídeo explica como revisar um delivery de email personalizado e explora diferentes relatórios que estão disponíveis no Adobe Campaign Standard.
 
