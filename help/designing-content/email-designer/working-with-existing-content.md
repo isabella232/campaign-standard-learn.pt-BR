@@ -1,6 +1,6 @@
 ---
 title: Trabalhar com conteúdo existente
-description: Este vídeo explica como recuperar rapidamente seu conteúdo criativo de um site e carregá-lo no Designer de email.
+description: Saiba como recuperar seu conteúdo criativo de um site e carregá-lo no Designer de email.
 feature: Design de email
 kt: 6295
 thumbnail: 25926.jpg
@@ -10,9 +10,9 @@ team: TM
 exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
 role: User, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '105'
 ht-degree: 7%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 ## Importar conteúdo de um URL
 
-Este vídeo explica como recuperar rapidamente seu conteúdo criativo de um site e carregá-lo no Designer de email.
+Saiba como recuperar seu conteúdo criativo de um site e carregá-lo no Designer de email.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
 
@@ -29,6 +29,6 @@ Este vídeo explica como recuperar rapidamente seu conteúdo criativo de um site
 
 O Designer de email requer marcação específica, que deve ser aplicada para tornar o conteúdo HTML padrão carregado no Adobe Campaign totalmente compatível e editável.
 
-Você encontrará a documentação detalhada no link a seguir:
+Você pode encontrar a documentação detalhada no link a seguir:
 
-[Conversão de conteúdo HTML em um modelo do Designer de email](https://docs.adobe.com/content/help/en/campaign-standard/using/designing-content/building-email-content/using-existing-content.html#converting-an-html-content)
+[Conversão de conteúdo HTML em um modelo do Designer de email](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
