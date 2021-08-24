@@ -9,9 +9,9 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '120'
 ht-degree: 9%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->No momento, esse recurso está em beta e está sujeito a atualizações e modificações frequentes sem aviso prévio.
+>Esse recurso está em beta e está sujeito a atualizações e modificações frequentes sem aviso prévio.
 >
 >Entre em contato com [!UICONTROL Adobe Customer Support] se planeja implementar esse recurso.
 
