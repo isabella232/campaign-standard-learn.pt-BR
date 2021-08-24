@@ -8,10 +8,10 @@ tutorials-title: Tutoriais
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=pt-BR
 getting-started-title: Documentação
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=pt-BR
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 89%
+ht-degree: 83%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 89%
    + [Gerenciar serviços e assinaturas](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Destinos de público (BETA){#audience-destinations}
       + [Visão geral](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [Criar um novo público usando o Criador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [Criar um público-alvo usando o Criador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Ativar públicos da Adobe Experience Platform em um fluxo de trabalho](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Alterar a targeting dimension](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Canais de comunicação {#communication-channels}
@@ -50,7 +50,7 @@ ht-degree: 89%
       + [Testar mensagens de email usando perfis direcionados](/help/communication-channels/email/profile-substitution.md)
       + [Adicionar um grupo de controle a um delivery](/help/communication-channels/email/control-groups.md)
       + [Criar um email multilíngue ou uma entrega de SMS](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Converter um email, entrega de SMS ou modelo existente multilíngue](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Converter um email, delivery de SMS ou template de delivery existente multilíngue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Revisar uma entrega de email e relatórios](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Criar e enviar emails por meio de um fluxo de trabalho](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [Manual de práticas recomendadas para entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)
@@ -59,11 +59,11 @@ ht-degree: 89%
          + [Pontuação de envolvimento preditivo](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Celular {#mobile}
       + SMS{#sms}
-         + [Criar uma entrega de SMS](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [Crie uma entrega de SMS.](/help/communication-channels/mobile/sms/sms-delivery.md)
       + Notificações por push {#push}
          + [Criar uma notificação por push](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Criar uma notificação por push multilíngue](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [Tutorial: introdução a notificações por push para Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=pt-BR)
+         + [Tutorial: introdução a notificações por push para Android™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=pt-BR)
       + Mensagens no aplicativo {#in-app}
          + [Introdução a mensagens no aplicativo](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Configurar eventos](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -105,7 +105,7 @@ ht-degree: 89%
       + [Configurar o Launch para acionadores](/help/integrations/configure-launch-for-triggers.md)
       + [Criar um acionador na Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Criar um evento de acionador no Campaign Standard](/help/integrations/create-a-trigger-event.md)
-      + [Configurar mensagens transacionais usando dados do evento em tempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [Configurar mensagens transacionais usando dados de evento em tempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Configurar o Microsoft® Dynamics 365 para integração com o Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Administrar {#administrating}
    + [Gerenciamento de direitos de acesso do usuário](/help/administrating/managing-user-access-rights.md)
@@ -117,7 +117,7 @@ ht-degree: 89%
       + [Mapear eventos de experiência](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Mapear dados da tabela de propagação](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Modificar o mapeamento de dados](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Verifique o status de trabalhos de assimilação de dados](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Verifique o status de um trabalho de assimilação de dados](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Regras de tipologia{#typology-rules}
       + Gerenciamento de fadiga{#fatigue-management}
          + [Criar regras de fadiga](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
