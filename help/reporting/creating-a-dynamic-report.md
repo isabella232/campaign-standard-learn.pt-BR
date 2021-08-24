@@ -1,5 +1,5 @@
 ---
-title: Criar relatório dinâmico
+title: Criar um relatório dinâmico
 description: Saiba como criar um relatório.
 feature: Relatórios
 kt: 2037
@@ -10,16 +10,16 @@ team: DOC
 exl-id: a2b93d8b-0d3e-4525-a334-a01701d34d85
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 46%
+source-wordcount: '63'
+ht-degree: 33%
 
 ---
 
 # Criar um [!UICONTROL Dynamic Report]{#creating-a-report}
 
-Os Adobe Campaign [!UICONTROL Dynamic Reports] são projetados para serem um ambiente de forma livre flexível, onde você pode explorar dados. Ele permite combinar dimensões, métricas e intervalo de tempo em qualquer combinação, com detalhamentos e comparações ilimitados.
+A Adobe Campaign [!UICONTROL Dynamic Reports] é um ambiente de forma livre flexível, onde você pode explorar dados. Ele permite combinar dimensões, métricas e intervalo de tempo em qualquer combinação, com detalhamentos e comparações ilimitados.
 
 Saiba como criar um relatório.
 
@@ -27,4 +27,4 @@ Saiba como criar um relatório.
 
 ## Recursos adicionais
 
-* [Sobre relatórios](https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html)
+* [Sobre relatórios](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
