@@ -1,28 +1,28 @@
 ---
 title: Criar namespaces para solicitações de acesso a dados pessoais no Adobe Campaign Standard (ACS)
-description: Um pré-requisito para que seja possível criar solicitações de acesso e cancelamento, conforme exigido pelo GDPR ou CCPA, é a definição do namespace que será usado para identificar o titular dos dados no banco de dados do Adobe Campaign. Estes vídeos explicam como criar namespaces para solicitações de privacidade.
-feature: GDPR, CCPA
+description: Saiba como criar namespaces para solicitações de privacidade.
+feature: Ferramentas de privacidade
 kt: 1460
 thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
-source-git-commit: 569c196b0d94a9bee5010da46003ed7b2a8afefd
-workflow-type: ht
-source-wordcount: '125'
-ht-degree: 100%
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+workflow-type: tm+mt
+source-wordcount: '80'
+ht-degree: 27%
 
 ---
 
 # Criação de namespaces para solicitações de privacidade
 
-Um pré-requisito para que seja possível criar solicitações de acesso e cancelamento, conforme exigido pelo GDPR ou CCPA, é a definição do namespace que será usado para identificar o titular dos dados no banco de dados do Adobe Campaign.
+Para criar solicitações de acesso e exclusão de privacidade, conforme exigido pelo GDPR ou pela CCPA, um namespace deve ser usado para identificar o titular dos dados no banco de dados do Adobe Campaign.
 
-Estes vídeos explicam como criar namespaces para solicitações de privacidade.
+Saiba como criar namespaces para solicitações de privacidade.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12)
 
 ## Recursos adicionais
 
-* [Diretrizes gerais de privacidade do Campaign](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
+* [Diretrizes gerais de privacidade do Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=en#getting-started)
