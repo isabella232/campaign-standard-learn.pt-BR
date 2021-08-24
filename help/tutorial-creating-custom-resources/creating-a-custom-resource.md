@@ -1,15 +1,14 @@
 ---
 title: Criar um recurso personalizado
 description: Saiba como criar um recurso personalizado chamado clientes.
-feature: Recursos personalizados
+feature: Modelo de dados
 kt: 3000
 thumbnail: 27716.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 33a68e3b-2e28-48c5-840b-05fc49825fff
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 27%
