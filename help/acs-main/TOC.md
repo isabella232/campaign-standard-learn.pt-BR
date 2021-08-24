@@ -8,10 +8,10 @@ tutorials-title: Tutoriais
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=pt-BR
 getting-started-title: Documentação
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=pt-BR
-source-git-commit: 0dd34fe4027d2c7512a7fc6ec7258cf7a41efa65
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -21,18 +21,18 @@ ht-degree: 100%
 + [Visão geral](/help/overview.md)
 + Introdução {#getting-started}
    + [Introdução ao Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [Introdução à interface](/help/getting-started/getting-started-with-the-ui.md)
+   + [Introdução à interface do usuário](/help/getting-started/getting-started-with-the-ui.md)
    + [Configurar uma lista](/help/getting-started/configure-a-list.md)
    + [Explore a hierarquia e as atividades de marketing](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Gerenciar campanhas](/help/getting-started/managing-campaigns.md)
-   + [Compreender perfis e públicos](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Criar email](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=pt-BR)
+   + [Sobre perfis e públicos-alvo](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [Criar um email](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=pt-BR)
    + [Criar um workflow](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=pt-BR)
    + [Introdução aos relatórios](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Marketing para dispositivos móveis com o Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Crescer com o Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Perfis e públicos {#profiles-and-audiences}
-   + [Criar perfis e públicos — Visão geral](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [Criar perfis e públicos-alvo - Visão geral](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Criar um perfil](/help/profiles-and-audiences/creating-a-profile.md)
    + [Criar um perfil de teste](/help/profiles-and-audiences/test-profiles.md)
    + [Importar perfis com um fluxo de trabalho](/help/managing-processes-and-data/importing-profiles.md)
@@ -48,7 +48,7 @@ ht-degree: 100%
       + [Enviar um teste, preparar e enviar um email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Teste AB](/help/communication-channels/email/a-b-testing.md)
       + [Testar mensagens de email usando perfis direcionados](/help/communication-channels/email/profile-substitution.md)
-      + [Adicionar um grupo de controle a uma entrega](/help/communication-channels/email/control-groups.md)
+      + [Adicionar um grupo de controle a um delivery](/help/communication-channels/email/control-groups.md)
       + [Criar um email multilíngue ou uma entrega de SMS](/help/communication-channels/create-multilingual-deliveries.md)
       + [Converter um email, entrega de SMS ou modelo existente multilíngue](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Revisar uma entrega de email e relatórios](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -80,7 +80,7 @@ ht-degree: 100%
 + Projetar e personalizar conteúdo {#designing-content}
    + Email Designer{#email-designer}
       + [Visão geral](/help/designing-content/email-designer/email-designer-overview.md)
-      + [Introdução ao Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [Introdução ao Designer de email](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Introdução a modelos de conteúdo de email](/help/designing-content/email-designer/email-content-templates.md)
       + [Configurar visualização para dispositivos móveis](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Pré-visualização de email e análise anti spam](/help/designing-content/email-designer/preview-your-email.md)
@@ -95,9 +95,9 @@ ht-degree: 100%
       + [Atividade de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
 + Relatórios {#reporting}
    + [Explorar relatórios](/help/getting-started/exploring-reports.md)
-   + [Criar relatório dinâmico](/help/reporting/creating-a-dynamic-report.md)
-   + [Criar relatório com base em atributos personalizados de perfil](/help/reporting/custom-profile-attributes-dynamic-reports.md)
-   + [Criar relatório com base em segmentos de fluxo de trabalho](/help/reporting/report-on-workflow-segments.md)
+   + [Criar um relatório dinâmico](/help/reporting/creating-a-dynamic-report.md)
+   + [Criar um relatório com base em atributos de perfil personalizados](/help/reporting/custom-profile-attributes-dynamic-reports.md)
+   + [Criar um relatório com base em segmentos de fluxo de trabalho](/help/reporting/report-on-workflow-segments.md)
 + Integrar a outras soluções {#integrations}
    + [Acompanhe o sucesso de suas entregas no Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Usar acionadores para mensagens transacionais {#triggers}
@@ -113,17 +113,17 @@ ht-degree: 100%
    + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=pt-BR)
    + Conector de dados da Adobe Experience Platform {#adobe-experience-platform-data-connector}
       + [Saiba mais sobre o Conector de dados da Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
-      + [Mapeamento de recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-      + [Mapeamento de eventos de experiência](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-      + [Mapeamento de dados da tabela de seed](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
-      + [Modificação do mapeamento de dados](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Verificação do status dos trabalhos de assimilação de dados](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Mapear recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
+      + [Mapear eventos de experiência](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+      + [Mapear dados da tabela de propagação](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+      + [Modificar o mapeamento de dados](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
+      + [Verifique o status de trabalhos de assimilação de dados](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Regras de tipologia{#typology-rules}
       + Gerenciamento de fadiga{#fatigue-management}
          + [Criar regras de fadiga](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Privacidade {#privacy}
    + [Visão geral](/help/privacy/privacy-overview.md)
-   + [Criação de namespaces para solicitações de privacidade](/help/privacy/namespaces-for-privacy-requests.md)
-   + [Modificação de recursos personalizados para solicitações de privacidade](/help/privacy/custom-resources-for-privacy-requests.md)
+   + [Criar namespaces para solicitações de privacidade](/help/privacy/namespaces-for-privacy-requests.md)
+   + [Modificar recursos personalizados para solicitações de privacidade](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Criação e rastreamento manual de solicitações de privacidade](/help/privacy/create-and-track-privacy-requests.md)
-   + [Execução de solicitações de privacidade](/help/privacy/execute-privacy-requests.md)
+   + [Executar solicitações de privacidade](/help/privacy/execute-privacy-requests.md)
