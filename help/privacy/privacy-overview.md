@@ -1,42 +1,40 @@
 ---
 title: Solicitações de privacidade com o Adobe Campaign Standard (ACS) - Visão geral
-description: O tutorial explica como criar solicitações de privacidade por meio da interface do Adobe Campaign Standard (ACS).
-feature: GDPR, CCAP
-topic: Privacy
+description: O tutorial explica como criar solicitações de privacidade por meio da interface da Adobe Campaign Standard.
+feature: Ferramentas de privacidade
 kt: 1480
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
-workflow-type: ht
-source-wordcount: '371'
-ht-degree: 100%
+exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+workflow-type: tm+mt
+source-wordcount: '351'
+ht-degree: 62%
 
 ---
-
 
 # Solicitações de privacidade com a interface do Adobe Campaign Standard
 
 O Adobe Campaign oferece aos controladores de dados três métodos para executar o acesso à Privacidade e excluir solicitações de dados PII em conformidade com as leis de privacidade, como o GDPR (Regulamento Geral sobre a Proteção de Dados) e a CCPA (Lei de Privacidade do Consumidor da Califórnia):
 
-* **Pela integração do Serviço principal de privacidade:** as solicitações de privacidade transmitidas do [!UICONTROL Privacy Service] para todas as soluções da Experience Cloud são tratadas automaticamente pelo Campaign, por meio de um fluxo de trabalho específico. Consulte o [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html) para saber como criar solicitações de privacidade no Serviço principal de privacidade
+* **Pela integração do Serviço principal de privacidade:** as solicitações de privacidade transmitidas do [!UICONTROL Privacy Service] para todas as soluções da Experience Cloud são tratadas automaticamente pelo Campaign, por meio de um fluxo de trabalho específico. Para saber como criar solicitações de privacidade do Privacy Core Service, consulte o [Adobe Experience Platform Privacy Service](https://www.adobe.io/apis/experienceplatform/gdpr.html)
 
 * **Pela API:** o Adobe Campaign fornece uma API que permite o processo automático de solicitações de privacidade usando REST
 
-* **Pela interface do Adobe Campaign:** para cada solicitação de acesso a dados pessoais, o controlador de dados cria uma nova solicitação de acesso a dados pessoais no Adobe Campaign
+* **Por meio da interface do Adobe Campaign:** para cada solicitação de privacidade, o controlador de dados cria uma solicitação de privacidade no Adobe Campaign
 
 >[!NOTE]
 >
 > **ALTERAÇÕES NO ACS 19.4:**
 > 
-> A [Integração do Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html) é o método que deve ser usado para todas as solicitações de acesso e exclusão. A partir da versão 19.4, o uso da API e da interface do Campaign para solicitações de acesso e exclusão se tornará obsoleto. Para obter mais informações sobre recursos obsoletos e removidos do Campaign Standard, consulte [esta página](https://helpx.adobe.com/br/campaign/kb/acs-deprecated-and-removed-features.html).
+> A [Integração do Privacy Service](https://www.adobe.io/apis/experienceplatform/gdpr.html) é o método que deve ser usado para todas as solicitações de acesso e exclusão. A partir da versão 19.4, o uso da API e da interface do Campaign para solicitações de acesso e exclusão se tornará obsoleto. Para obter mais informações sobre recursos obsoletos e removidos do Campaign Standard, consulte [esta página](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=en).
 >
 >**Recusar a venda de informações pessoais (CCPA)**
 >
->A partir da versão 19.4, o campo Recusa da CCPA é oferecido pronto para uso na interface e API do Campaign. Para usar essas informações na versão 19.3, é necessário criar esse campo no Adobe Campaign Standard. Consulte a [documentação detalhada](https://helpx.adobe.com/br/campaign/kb/acs-privacy.html#ccpa) para obter mais informações.
+> Um campo Recusa da CCPA é fornecido pronto para uso na interface do Campaign e na API.
 >
-> Você pode verificar sua versão clicando no ícone ? no canto superior direito da interface e selecionando Sobre.
+> Você pode verificar sua versão, clicar no **?** no canto superior direito da interface e selecionando Sobre.
 
 ## Tutoriais em vídeo
 
@@ -52,7 +50,7 @@ O Adobe Campaign oferece aos controladores de dados três métodos para executar
 
 ## Recursos adicionais
 
-* [Diretrizes gerais de privacidade do Campaign](https://helpx.adobe.com/br/campaign/kb/campaign-privacy-overview.html)
-* [CCPA para ACS](https://helpx.adobe.com/br/campaign/kb/acs-privacy.html#ccpa)
-* [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html)
+* [Diretrizes gerais de privacidade do Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=en#getting-started)
+* [CCPA para ACS](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=en#privacy-requests)
+* [Adobe Experience Platform Privacy Service](https://www.adobe.io/apis/experienceplatform/gdpr.html)
 * [Documentação da API REST do Adobe Campaign Standard](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
