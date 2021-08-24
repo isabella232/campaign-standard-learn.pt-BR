@@ -10,16 +10,16 @@ team: DOC
 exl-id: fb138b50-5022-4320-8d45-a9ac6405a44e
 role: User
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 49%
+source-wordcount: '107'
+ht-degree: 25%
 
 ---
 
 # Criar um perfil de teste {#creating-a-test-profile}
 
-Os perfis de teste permitem direcionar recipients adicionais que não correspondem aos critérios de direcionamento definidos. Eles são adicionados ao público-alvo de uma mensagem para detectar qualquer uso fraudulento do seu banco de dados de recipients ou para garantir que os emails cheguem às caixas de entrada.
+Os perfis de teste permitem direcionar recipients adicionais que não correspondem aos critérios de direcionamento definidos. Eles são adicionados ao público de uma mensagem para detectar qualquer uso fraudulento do banco de dados do recipient ou para garantir que os emails cheguem às caixas de entrada.
 
 Este vídeo explica como criar perfis de teste
 
