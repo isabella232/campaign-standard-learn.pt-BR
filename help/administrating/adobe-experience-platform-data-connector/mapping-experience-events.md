@@ -1,16 +1,17 @@
 ---
 title: Mapeamento de eventos de experiência
 description: Saiba como mapear Eventos de experiência no Adobe Experience Platform (AEP)
+feature: Integração do Serviço principal de pessoas
 kt: 2832
 thumbnail: 27265.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
-source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
+source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 12%
+source-wordcount: '78'
+ht-degree: 11%
 
 ---
 
