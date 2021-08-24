@@ -9,7 +9,7 @@ team: TM
 exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
 role: User
 level: Beginner
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
 workflow-type: tm+mt
 source-wordcount: '730'
 ht-degree: 21%
@@ -25,24 +25,25 @@ Este tutorial explica as etapas necessárias para configurar as propriedades mó
 ## Pré-requisitos {#prerequisites}
 
 1. Certifique-se de acessar o canal **[!UICONTROL In-App]**. Se não conseguir acessar esses canais, entre em contato com sua equipe de conta.
-2. Verifique se o **usuário** tem as **permissões** necessárias no Adobe Campaign Standard e [!UICONTROL Launch].
+1. Verifique se o **usuário** tem as **permissões** necessárias no Adobe Campaign Standard e [!UICONTROL Launch].
 
-   1. No Adobe Campaign Standard, verifique se o usuário IMS faz parte dos grupos [!UICONTROL Standard User] e [!UICONTROL Administrator].\
+   1. No Adobe Campaign Standard, verifique se o usuário IMS faz parte dos grupos [!UICONTROL Standard User] e [!UICONTROL Administrator].
+
       Esta etapa permite que o usuário faça logon no Adobe Campaign Standard, navegue até a página do aplicativo móvel do SDK do Experience Platform e exiba as propriedades do aplicativo móvel que você criou em [!UICONTROL Launch].
-   2. Em [!UICONTROL Launch], verifique se o usuário IMS faz parte de um perfil de produto [!UICONTROL Launch]. Esta etapa permite que o usuário faça logon em [!UICONTROL Launch] para criar e exibir as propriedades. No perfil do produto, não deve haver permissões definidas na empresa ou nas propriedades, mas o usuário ainda deve conseguir fazer logon.
 
-3. No Adobe Experience Platform Launch:
+   1. Em [!UICONTROL Launch], verifique se o usuário IMS faz parte de um perfil de produto [!UICONTROL Launch]. Esta etapa permite que o usuário faça logon em [!UICONTROL Launch] para criar e exibir as propriedades. No perfil do produto, não deve haver permissões definidas na empresa ou nas propriedades, mas o usuário ainda deve conseguir fazer logon.
+
+1. No Adobe Experience Platform Launch:
 
    1. Crie o aplicativo móvel criando uma propriedade móvel e instrua seu aplicativo móvel com o SDK do Experience Platform.
-   2. Instale a extensão **Adobe Campaign Standard** para seu aplicativo móvel.
+   1. Instale a extensão **Adobe Campaign Standard** para seu aplicativo móvel.
 
 Para obter mais informações sobre extensões, consulte [Configurar extensão do Campaign Standard no Adobe Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) na documentação.
 
 ## Etapas para configurar mensagens [!UICONTROL In-App] {#steps-to-set-up}
 
 1. [Configurar um aplicativo para dispositivos móveis usando o SDK da Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md).
-
-2. [Configurar eventos](/help/communication-channels/mobile/in-app/configure-events.md).
+1. [Configurar eventos](/help/communication-channels/mobile/in-app/configure-events.md).
 
 ## Criar, gerenciar e publicar [!UICONTROL In-App] deliveries {#create-manage-publish}
 
@@ -54,11 +55,11 @@ Ao configurar o delivery, você tem três opções para direcionar seus usuário
 
    esse tipo de mensagem permite enviar mensagens para todos os usuários (atuais ou futuros) do seu aplicativo móvel, mesmo que eles não tenham um perfil existente no Adobe Campaign. Portanto, a personalização não é possível ao personalizar as mensagens, pois o perfil do usuário não existe necessariamente no Adobe Campaign.
 
-2. Direcione todos os usuários com base em seu perfil de aplicativo móvel.
+1. Direcione todos os usuários com base em seu perfil de aplicativo móvel.
 
-esse tipo de mensagem permite direcionar todos os usuários conhecidos ou anônimos de um aplicativo móvel que tenha um perfil móvel no Adobe Campaign. Esse tipo de mensagem pode ser personalizado usando apenas atributos não pessoais e não confidenciais e não requer handshake seguro entre o Mobile SDK e o serviço de mensagens no aplicativo do Adobe Campaign. Assim, a estratégia de personalização é baseada no que você aprendeu sobre os usuários a partir da interação deles com o dispositivo. Por exemplo, direcione para todos os usuários que inicializaram seu aplicativo mais de cinco vezes na última semana.
+   esse tipo de mensagem permite direcionar todos os usuários conhecidos ou anônimos de um aplicativo móvel que tenha um perfil móvel no Adobe Campaign. Esse tipo de mensagem pode ser personalizado usando apenas atributos não pessoais e não confidenciais e não requer handshake seguro entre o Mobile SDK e o serviço de mensagens no aplicativo do Adobe Campaign. Assim, a estratégia de personalização é baseada no que você aprendeu sobre os usuários a partir da interação deles com o dispositivo. Por exemplo, direcione para todos os usuários que inicializaram seu aplicativo mais de cinco vezes na última semana.
 
-3. [**Direcionar usuários com base em seus perfis do Campaign**](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md).
+1. [**Direcionar usuários com base em seus perfis do Campaign**](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md).
 
    esse tipo de mensagem permite direcionar perfis do Adobe Campaign (perfis CRM) que assinaram seu aplicativo para dispositivos móveis. A mensagem pode ser personalizada com todos os atributos de perfil disponíveis no Adobe Campaign. Ela requer um handshake seguro entre o Mobile SDK e o serviço de mensagens no aplicativo do Campaign para garantir que mensagens com informações pessoais e confidenciais sejam usadas apenas por usuários autorizados.
 
