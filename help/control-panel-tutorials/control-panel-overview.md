@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -66,8 +66,8 @@ O Painel de controle do Adobe Campaign permite que os administradores do Campaig
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Conectar-se a um servidor SFTP</strong>
-    </a>
+    <strong>Conectar-se a um servidor SFTP</strong>
+    </a>
     </div>
     <p>
     <em>Saiba como se conectar ao servidor SFTP usando um aplicativo SFTP cliente, usando as chaves que você armazenou no Painel de controle do Campaign. </em>
@@ -78,4 +78,4 @@ O Painel de controle do Adobe Campaign permite que os administradores do Campaig
 
 ## Recursos adicionais
 
-* [Centro de ajuda do Painel de controle do Campaign](https://docs.adobe.com/content/help/pt-BR/control-panel/using/control-panel-home.translate.html)
+* [Centro de ajuda do Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=pt-BR)
