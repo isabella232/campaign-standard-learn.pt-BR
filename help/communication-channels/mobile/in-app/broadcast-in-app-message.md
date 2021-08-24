@@ -10,7 +10,7 @@ team: TM
 exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 63d07d2922310ac779c486383b83d708beeba627
+source-git-commit: 7f70c5a02654b03f248e2ec71563473f98688b70
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 7%
@@ -30,7 +30,7 @@ Saiba como configurar e usar o modelo de transmissão para direcionar todos os u
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
-*Criar uma mensagem de transmissão no aplicativo usando uma propriedade móvel SDKV5]*
+*Criar uma mensagem de transmissão no aplicativo usando uma propriedade móvel SDKV5*
 
 ## Recursos adicionais
 
