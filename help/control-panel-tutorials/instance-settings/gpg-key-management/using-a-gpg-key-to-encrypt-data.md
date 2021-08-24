@@ -9,11 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 849f2da2-aced-45ff-8b4b-554add5a5474
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 100%
+ht-degree: 77%
 
 ---
 
@@ -26,4 +25,4 @@ Saiba como exportar dados usando uma chave GPG instalada no Painel de controle d
 ## Recursos adicionais
 
 * [Gerenciamento de chaves GPG (vídeos)](./gpg-key-management-overview.md)
-* [Gerenciamento de chaves GPG (documentação)](https://docs.adobe.com/content/help/pt-BR/control-panel/using/instances-settings/gpg-keys-management.html)
+* [Gerenciamento de chaves GPG (documentação)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=pt-BR)
