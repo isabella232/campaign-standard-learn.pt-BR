@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 7%
+source-wordcount: '148'
+ht-degree: 12%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->No momento, esse recurso está em beta e está sujeito a atualizações e modificações frequentes sem aviso prévio. [!UICONTROL Audience Destinations] O é baseado no Adobe Experience Platform e requer uma configuração específica.
+>Esse recurso está em beta e está sujeito a atualizações e modificações frequentes sem aviso prévio. [!UICONTROL Audience Destinations] O é baseado no Adobe Experience Platform e requer uma configuração específica.
 >
 >Entre em contato com [!UICONTROL Adobe Customer Support] se planeja implementar esse recurso.
 
@@ -35,9 +35,9 @@ Este vídeo explica como ativar o [!UICONTROL Data Services Query Audience] em u
 
 Documentação:
 
-* [Ativar públicos-alvo do Experience Platform no Campaign - Documentação](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [Assimilar públicos da Adobe Experience Platform no Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
 
-Recurso de vídeo:
+Recursos de vídeo:
 
-* [Criação de um novo público-alvo no Adobe Campaign Standard usando o Criador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Alteração do targeting dimension de um delivery para um Público-alvo da plataforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Criar um público-alvo no Adobe Campaign Standard usando o Criador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Alterar o targeting dimension de um delivery para um Público-alvo da plataforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
