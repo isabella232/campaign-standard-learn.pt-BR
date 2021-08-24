@@ -10,16 +10,16 @@ team: TM
 exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '134'
 ht-degree: 6%
 
 ---
 
 # Direcione usuários com base em seu perfil [!DNL Campaign]
 
-Você pode direcionar usuários conhecidos do aplicativo móvel (aqueles que fizeram logon no aplicativo com PII) com mensagens personalizadas com atributos de perfil do CRM disponíveis no Adobe Campaign Standard. Esse modelo é mais útil para suportar casos de uso de orquestração entre canais, onde você já direcionou usuários em outros canais, como Email ou Push , e com base em sua resposta, deseja engajá-los com uma mensagem [!UICONTROL In-App].
+Você pode direcionar usuários que fizeram logon no aplicativo com PII (usuários conhecidos do aplicativo móvel) com mensagens personalizadas, usando atributos de perfil do CRM disponíveis no Adobe Campaign Standard. Esse modelo oferece suporte a casos de uso de orquestração entre canais, onde você já direcionou clientes em outros canais, como Email ou Push, com base em sua resposta, e deseja envolver esses clientes novamente com uma mensagem no aplicativo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
@@ -27,5 +27,5 @@ Você pode direcionar usuários conhecidos do aplicativo móvel (aqueles que fiz
 
 ## Recursos adicionais
 
-* [Preparação e envio de uma mensagem no aplicativo (documentação)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
-* [Personalização de uma mensagem no aplicativo (documentação)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)
+* [Preparação e envio de uma mensagem no aplicativo (documentação)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
+* [Personalização de uma mensagem no aplicativo (documentação)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)
