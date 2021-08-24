@@ -10,16 +10,16 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 87%
+source-wordcount: '177'
+ht-degree: 46%
 
 ---
 
 # Configure e execute um workflow com o [!UICONTROL External API activity]
 
-O [!UICONTROL External API activity] é um [!UICONTROL Data Management activity]. Ela permite que você chame um ponto de entrada REST API. O objetivo dessa atividade é obter dados de personalização de um sistema de terceiros para a sua campanha.
+O [!UICONTROL External API activity] é um [!UICONTROL Data Management activity]. Ela permite que você chame um ponto de entrada REST API. A finalidade dessa atividade é obter dados de personalização de um sistema de terceiros para a campanha.
 
 Estes são alguns exemplos de utilização:
 
@@ -36,8 +36,8 @@ Este vídeo demonstra o uso da [!UICONTROL External API activity].
 
 >[!NOTE]
 >
->Observe que a atividade se destina à busca de dados em toda a campanha (último conjunto de ofertas, últimas pontuações, etc.), não para a recuperação de informações específicas para cada perfil, pois pode resultar na transferência de grandes quantidades de dados. Se o caso de uso exigir, a recomendação é usar a atividade Transferir arquivo.
+>A atividade se destina à busca de dados em toda a campanha, não para a recuperação de informações específicas para cada perfil, pois pode resultar na transferência de grandes quantidades de dados. Se o caso de uso exigir informações específicas do perfil, recomenda-se usar a atividade Transferir arquivo .
 
 ## Recursos adicionais
 
-* [API externa (Documentação)](https://docs.adobe.com/content/help/pt-BR/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [API externa (Documentação)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html?lang=en)
