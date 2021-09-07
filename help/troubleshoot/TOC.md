@@ -7,9 +7,9 @@ index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: 908c997c130cf0fbb6699b4b5d824e6996e59cc3
+source-git-commit: 9eecc356e0ef4595874894294a71f797f3d105ac
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '51'
 ht-degree: 1%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 1%
 # Solução de problemas do Adobe Campaign Standard {#troubleshooting}
 
 + [Visão geral](/help/troubleshoot/overview.md)
-+ [Solucionar problemas técnicos ao visualizar um perfil](/help/troubleshoot/technical-error-while-viewing-profile.md)
-+ [Erro ao conectar ao Experience Manager](/help/troubleshoot/error-aem-connection.md)
-+ [Etapas para alterar o URL do recurso público de http para https](/help/troubleshoot/change-public-resource-url.md)
-+ [Como obter uma ID de evento descriptografada e uma ID de delivery](/help/troubleshoot/decrypted-eventid-and-deliveryid.md)
++ [Erro técnico ao visualizar um perfil](/help/troubleshoot/technical-error-while-viewing-profile.md)
++ [Erro ao conectar-se ao Experience Manager](/help/troubleshoot/error-aem-connection.md)
++ [Alterar o URL do recurso público de http para https](/help/troubleshoot/change-public-resource-url.md)
++ [Obter uma ID de evento descriptografada e uma ID de delivery](/help/troubleshoot/decrypted-eventid-and-deliveryid.md)
 
