@@ -1,5 +1,5 @@
 ---
-title: Explore a hierarquia e as atividades de marketing
+title: Explorar a hierarquia e as atividades de marketing
 description: Compreenda a hierarquia de programas e campanhas, como criar um programa de marketing e uma campanha de marketing em um programa.
 feature: Campaigns, Programs
 kt: 3892
@@ -11,9 +11,9 @@ exl-id: c5804637-804c-473f-80d8-d54263c49a5c
 role: User
 level: Beginner
 source-git-commit: d63bb82ec0043f09e480f3edd395083943035eea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Este vídeo explica a hierarquia de programas e campanhas, como criar um program
 
 ## Recursos adicionais
 
-* [Atividades de marketing](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activities.html?lang=en)
+* [Atividades de marketing](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activities.html?lang=br)
