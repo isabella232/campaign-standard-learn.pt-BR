@@ -1,7 +1,7 @@
 ---
 title: Configurar o Microsoft® Dynamics 365 para integração com o Campaign Standard
 description: Saiba como configurar o Microsoft® Dynamics 365 para uso na integração com o Campaign Standard.
-feature: Integração do Microsoft CRM
+feature: Microsoft CRM Integration
 kt: 2927
 doc-type: feature video
 role: Admin
@@ -9,14 +9,14 @@ level: Experienced
 activity: setup
 team: PM
 source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
-workflow-type: tm+mt
-source-wordcount: '66'
+workflow-type: ht
+source-wordcount: '63'
 ht-degree: 100%
 
 ---
 
 
-# Configurar [!DNL Microsoft® Dynamics 365] para a integração com o Campaign Standard {#configure-microsoft-dynamics-365}
+# Configurar o [!DNL Microsoft® Dynamics 365] para a integração com o Campaign Standard {#configure-microsoft-dynamics-365}
 
 Saiba como configurar o Microsoft® Dynamics 365 para uso na integração com o Campaign Standard.
 
