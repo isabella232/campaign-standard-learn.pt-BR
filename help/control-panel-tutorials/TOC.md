@@ -4,9 +4,9 @@ user-guide-description: Saiba como monitorar os principais ativos das instância
 breadcrumb-title: Tutoriais do Painel de controle do Campaign
 index: true
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 85%
    + Gerenciamento de chaves GPG {#gpg-key-management}
       + [Gerenciamento de chaves GPG – visão geral](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
       + [Gerar e instalar chaves GPG para criptografia de dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-      + [Usar uma chave GPG para criptografar dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+      + [Utilização de uma chave GPG para criptografar dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [Descriptografar dados](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + Monitoramento de desempenho {#performance-monitoring}
    + [Monitoramento de bancos de dados](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
