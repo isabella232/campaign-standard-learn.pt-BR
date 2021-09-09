@@ -1,5 +1,5 @@
 ---
-title: Tutoriais do Adobe Campaign Standard – Visão geral
+title: Tutoriais do Adobe Campaign Standard — visão geral
 description: O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
@@ -8,8 +8,8 @@ role: User, Admin, Developer
 level: Beginner
 source-git-commit: 5f019c5a5906a8bd24ab7c0dac23045cfbc046ad
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 64%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +37,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
     </a>
     </div>
     <p>
-    <em>Saiba como enviar uma prova para revisão com a representação exata da mensagem que o perfil recebe.</em>
+    <em>Aprenda a enviar uma prova para análise com a representação exata da mensagem que o perfil recebe.</em>
     <p>
   </td>
    <td>
@@ -63,7 +63,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
     </a>
     </div>
     <p>
-    <em>Este tutorial o orienta pelas etapas envolvidas no envio de notificações por push da Adobe Campaign e no recebimento dessas notificações em seu aplicativo Android™.  </em>
+    <em>Este tutorial percorre as etapas envolvidas no envio de notificações por push do Adobe Campaign e no recebimento dessas notificações em aplicativos Android™. </em>
     <p>
   </td>
 </tr>
@@ -71,4 +71,4 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Recursos adicionais
 
-* [Documentação](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en)
+* [Documentação](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=br)
