@@ -6,7 +6,7 @@ exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 5f019c5a5906a8bd24ab7c0dac23045cfbc046ad
+source-git-commit: aeb30af96ea10240f3e51a7b30ae0dbcf74b5c5a
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -21,7 +21,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 * **[Solução de problemas](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
 
-   *Encontre ajuda para solucionar problemas conhecidos com o Adobe Campaign Standard.*
+*Encontre ajuda para solucionar problemas conhecidos com o Adobe Campaign Standard.*
 
 ## Seleção de pessoal
 
