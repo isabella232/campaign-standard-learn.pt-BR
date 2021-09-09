@@ -1,8 +1,8 @@
 ---
 title: Rastrear o sucesso de suas entregas no Adobe Analytics
 description: Saiba como configurar a integração do Campaign Standard e do Analytics. Entenda como criar um relatório no Analytics usando dados recebidos do Campaign Standard e quais KPIs estão disponíveis.
-feature: Configurações do aplicativo
-topic: Integrações
+feature: Application Settings
+topic: Integrations
 role: Admin
 level: Intermediate
 kt: 6526
@@ -11,8 +11,8 @@ doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
-workflow-type: tm+mt
-source-wordcount: '97'
+workflow-type: ht
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
