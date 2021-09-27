@@ -2,16 +2,10 @@
 user-guide-title: Tutoriais do Adobe Campaign Standard
 user-guide-description: Desenvolva experiências de clientes entre canais e crie um ambiente para a orquestração visual de campanhas, gerenciamento de interação em tempo real e execução entre canais.
 breadcrumb-title: Tutoriais do Campaign Standard
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
-tutorials-title: Tutorials
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
-getting-started-title: Documentation
-getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
-source-git-commit: aeb30af96ea10240f3e51a7b30ae0dbcf74b5c5a
+source-git-commit: e38405b798f231c9f7c22ac95ea44324ce94651d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '542'
+ht-degree: 98%
 
 ---
 
