@@ -9,8 +9,8 @@ team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 4%
+source-wordcount: '138'
+ht-degree: 3%
 
 ---
 
@@ -20,10 +20,10 @@ Agora precisamos criar e enviar um [!UICONTROL Push Notification] usando o Adobe
 
 * Faça logon na sua instância do Adobe Campaign Standard
 * Clique em **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
-* Selecione **[!UICONTROL Send push to app subscribers(mobileApp)]** e clique em Avançar
-* Selecione o aplicativo móvel apropriado na lista suspensa **[!UICONTROL Associate a Mobile App to a delivery]** e clique em **[!UICONTROL Next]**
+* Selecionar **[!UICONTROL Send push to app subscribers(mobileApp)]** e clique em Avançar
+* Selecione o aplicativo móvel apropriado no **[!UICONTROL Associate a Mobile App to a delivery]** e clique em **[!UICONTROL Next]**
 * Clique no rótulo da contagem e ele deverá retornar um valor maior que 0. Clique em **[!UICONTROL Next]**
-* Forneça um [!UICONTROL Message title] e [!UICONTROL Message body] significativo e clique em **[!UICONTROL Create]**.
+* Fornecer uma [!UICONTROL Message title] e [!UICONTROL Message body] e clique em **[!UICONTROL Create]**.
 * Clique em **[!UICONTROL Prepare]**. Uma vez concluída a preparação, clique em **[!UICONTROL Confirm]** para enviar a mensagem.
 
 Se tudo correr bem, você verá a notificação em seu aplicativo Android™ em execução no emulador

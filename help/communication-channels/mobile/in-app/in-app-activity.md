@@ -1,7 +1,7 @@
 ---
 title: Criar uma entrega no aplicativo em um fluxo de trabalho
 description: Saiba como usar a atividade de entrega no aplicativo para automatizar o envio de uma mensagem no aplicativo para um público-alvo calculado em um fluxo de trabalho.
-feature: No aplicativo
+feature: In App
 kt: 2500
 thumbnail: 26226.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '129'
+ht-degree: 6%
 
 ---
 
-# Criar um delivery [!UICONTROL In-App] em um workflow
+# Crie um [!UICONTROL In-App] delivery em um workflow
 
-A atividade In-App delivery é usada para automatizar o envio de uma mensagem [!UICONTROL In-App] para um público-alvo calculado no mesmo workflow.
+A atividade In-App delivery é usada para automatizar o envio de um [!UICONTROL In-App] para um público-alvo calculado no mesmo fluxo de trabalho.
 
 Saiba como usar a atividade de entrega no aplicativo para automatizar o envio de uma mensagem no aplicativo para um público-alvo calculado em um fluxo de trabalho.
 

@@ -1,7 +1,7 @@
 ---
 title: Enviar um teste, preparar e enviar um email
 description: '"Saiba como enviar um email de teste, preparar e enviar o delivery de email. "'
-feature: 'Email  '
+feature: Email
 kt: 1812
 thumbnail: 24013.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '70'
+ht-degree: 40%
 
 ---
 

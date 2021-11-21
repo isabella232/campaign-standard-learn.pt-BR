@@ -1,7 +1,7 @@
 ---
 title: Transmitir uma mensagem no aplicativo
 description: Saiba como configurar e usar o modelo de transmissão para direcionar todos os usuários do seu aplicativo móvel.
-feature: No aplicativo
+feature: In App
 kt: 2497
 thumbnail: 26199.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 7f70c5a02654b03f248e2ec71563473f98688b70
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 7%
 
 ---

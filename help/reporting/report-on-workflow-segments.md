@@ -1,7 +1,7 @@
 ---
 title: Criar um relatório com base em segmentos de fluxo de trabalho
 description: Saiba como definir segmentos em seu fluxo de trabalho e como defini-los em relatórios dinâmicos.
-feature: Relatórios
+feature: Reporting
 kt: 3252
 thumbnail: 28262.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 17%
+source-wordcount: '85'
+ht-degree: 16%
 
 ---
 
@@ -25,4 +25,4 @@ Saiba como definir segmentos em seu fluxo de trabalho e como defini-los em relat
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
-Para obter mais informações, consulte a [documentação](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+Para obter mais informações, consulte o [documentação](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)

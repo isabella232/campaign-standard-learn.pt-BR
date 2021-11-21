@@ -1,7 +1,7 @@
 ---
 title: Importar perfis com um fluxo de trabalho
 description: Saiba como importar dados de perfil usando um workflow.
-feature: Gerenciamento de dados
+feature: Data Management
 kt: 1818
 thumbnail: 24993.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer, Admin
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 27%
+source-wordcount: '102'
+ht-degree: 26%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 27%
 
 Você pode coletar dados de um arquivo para processá-los e/ou importá-los para o banco de dados do Adobe Campaign.
 
-Este vídeo explica como usar as atividades [!UICONTROL Data Management] em um workflow para importar dados de perfil.
+Este vídeo explica como usar o [!UICONTROL Data Management] atividades em um workflow para importar dados de perfil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
 

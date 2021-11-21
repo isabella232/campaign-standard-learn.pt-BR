@@ -1,7 +1,7 @@
 ---
 title: Relatório sobre a entrega no aplicativo
 description: Saiba como apresentar ao usuário mensagens no aplicativo relevantes contextualmente em resposta ao comportamento em tempo real de um cliente no aplicativo móvel.
-feature: No aplicativo
+feature: In App
 kt: 2558
 thumbnail: 26412.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 63d07d2922310ac779c486383b83d708beeba627
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 10%
+source-wordcount: '81'
+ht-degree: 11%
 
 ---
 
-# Relatório sobre seu delivery [!UICONTROL In-App] {#in-app-message-reporting}
+# Relatório sobre seu [!UICONTROL In-App] delivery {#in-app-message-reporting}
 
-Você pode revisar seus [!UICONTROL In-App] dados relacionados ao delivery no resumo do delivery adicionando métricas específicas [!UICONTROL In-App]. Como alternativa, você pode usar o [Relatório no aplicativo](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en) pronto para uso.
+Você pode revisar sua [!UICONTROL In-App] dados relacionados ao delivery no resumo do delivery adicionando [!UICONTROL In-App]métricas específicas do . Como alternativa, você pode usar a opção pronta para uso [Relatório no aplicativo](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 

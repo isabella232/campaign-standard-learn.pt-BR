@@ -1,7 +1,7 @@
 ---
 title: Criar e editar uma página de aterrissagem
 description: '"Saiba como criar, editar e testar landing pages no Adobe Campaign Standard."'
-feature: Páginas de aterrissagem
+feature: Landing Pages
 kt: 1808
 thumbnail: 24093.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 17%
+source-wordcount: '87'
+ht-degree: 16%
 
 ---
 

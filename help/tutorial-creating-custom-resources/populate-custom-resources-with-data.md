@@ -1,7 +1,7 @@
 ---
 title: Preenchimento de recursos personalizados com dados
 description: Saiba como preencher recursos personalizados com dados de um arquivo CSV usando um fluxo de trabalho.
-feature: Modelo de dados
+feature: Data Model
 kt: 3003
 thumbnail: 27714.jpg
 doc-type: feature video
@@ -10,14 +10,14 @@ team: TM
 exl-id: afd173f9-4e60-4e78-8f08-5d3894f78949
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
 # Preenchimento de recursos personalizados com dados
 
-Saiba como preencher recursos personalizados com dados de um arquivo [!DNL CSV] usando um workflow.
+Saiba como preencher recursos personalizados com dados de um [!DNL CSV] usando um workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?quality=9)
 

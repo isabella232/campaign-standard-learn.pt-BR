@@ -1,7 +1,7 @@
 ---
 title: Criar perfis e públicos — Visão geral
 description: Saiba como navegar até perfis existentes e como criar perfis e públicos.
-feature: Perfis, públicos
+feature: Profiles, Audiences
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 35%
+source-wordcount: '83'
+ht-degree: 33%
 
 ---
 
@@ -24,7 +24,7 @@ O Adobe Campaign tem dois tipos ou perfis:
 * Perfis identificados
 * Testar perfis
 
-Os perfis que são agrupados de acordo com um ou vários critérios comuns são chamados de **audiences**.
+Os perfis que são agrupados de acordo com um ou vários critérios comuns são chamados de **públicos**.
 
 Este vídeo explica como navegar até perfis existentes e criar perfis e públicos no Adobe Campaign Standard.
 

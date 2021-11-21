@@ -1,7 +1,7 @@
 ---
 title: Configurar listas de produtos em emails transacionais
 description: Saiba quais etapas são necessárias para configurar listas de produtos em emails transacionais.
-feature: Mensagens transacionais, Email
+feature: Transactional Messaging, Email
 kt: 1728
 thumbnail: 25915
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Experienced
 source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 4%
 
 ---

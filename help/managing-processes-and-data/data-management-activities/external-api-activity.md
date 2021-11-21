@@ -1,7 +1,7 @@
 ---
 title: Configurar e executar um workflow com a atividade de API externa
 description: Saiba como chamar um endpoint da REST API externa para extrair dados de personalização de um sistema de terceiros para a campanha.
-feature: Atividade de gestão de dados
+feature: Data Management Activity
 kt: 2764
 thumbnail: 28200.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 46%
+source-wordcount: '174'
+ht-degree: 47%
 
 ---
 

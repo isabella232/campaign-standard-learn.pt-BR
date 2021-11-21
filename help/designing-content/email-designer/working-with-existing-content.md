@@ -1,7 +1,7 @@
 ---
 title: Trabalhar com conteúdo existente
 description: Saiba como recuperar seu conteúdo criativo de um site e carregá-lo no Designer de email.
-feature: Design de email
+feature: Email Design
 kt: 6295
 thumbnail: 25926.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 7%
 
 ---
@@ -25,10 +25,10 @@ Saiba como recuperar seu conteúdo criativo de um site e carregá-lo no Designer
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
 
-## Tornar o conteúdo HTML existente compatível {#making-existing-html-content-compatible}
+## Compatibilidade do conteúdo HTML existente {#making-existing-html-content-compatible}
 
-O Designer de email requer marcação específica, que deve ser aplicada para tornar o conteúdo HTML padrão carregado no Adobe Campaign totalmente compatível e editável.
+O Designer de email requer marcação específica, que deve ser aplicada para tornar o conteúdo de HTML padrão carregado no Adobe Campaign totalmente compatível e editável.
 
 Você pode encontrar a documentação detalhada no link a seguir:
 
-[Conversão de conteúdo HTML em um modelo do Designer de email](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[Conversão de conteúdo do HTML em um modelo do Designer de email](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)

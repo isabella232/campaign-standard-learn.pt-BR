@@ -1,7 +1,7 @@
 ---
 title: Alterar a targeting dimension
 description: Este vídeo explica como alterar o targeting dimension de um delivery para um Público-alvo da plataforma fora da tabela de perfil principal no Adobe Campaign Standard.
-feature: Integração do Serviço principal de pessoas
+feature: People Core Service Integration
 kt: 3739
 thumbnail: 30151.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 6%
+source-wordcount: '162'
+ht-degree: 11%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 6%
 >
 >Esse recurso está em beta e está sujeito a atualizações e modificações frequentes sem aviso prévio. [!UICONTROL Audience Destinations] O é baseado no Adobe Experience Platform e requer uma configuração específica.
 >
->Entre em contato com [!UICONTROL Adobe Customer Support] se planeja implementar esse recurso.
+>Entre em contato com o [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
 
-Este vídeo explica como alterar o targeting dimension de um delivery para um [!UICONTROL Platform Audience] fora da tabela de perfil principal no Adobe Campaign Standard.
+Este vídeo explica como alterar a targeting dimension de um delivery para um delivery [!UICONTROL Platform Audience] fora da tabela de perfil principal no Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
@@ -39,5 +39,5 @@ Documentação:
 
 Recursos de vídeo:
 
-* [Criar um público-alvo usando o Criador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Criar um público usando o Criador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Ativar públicos-alvo da Adobe Experience Platform em um fluxo de trabalho de marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

@@ -1,18 +1,17 @@
 ---
 title: Criar regras de fadiga
 description: Este vídeo mostra como configurar a regra de tipologia.
-feature: Gerenciamento de fadiga
+feature: Fatigue Management
 kt: 3446
 thumbnail: 28450.jpg
 doc-type: feature video
 activity: setup
 team: TM
 exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 26%
+source-wordcount: '92'
+ht-degree: 25%
 
 ---
 
@@ -23,7 +22,7 @@ Para criar [!UICONTROL fatigue rules], é necessário definir um número máximo
 
 >[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12)
 
-*Como criar um  [!UICONTROL fatigue rule] (04:49 min)*
+*Como criar um [!UICONTROL fatigue rule] (04:49 min)*
 
 ## Recursos adicionais
 

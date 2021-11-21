@@ -1,7 +1,7 @@
 ---
 title: Mapeamento de eventos de experiência
 description: Saiba como mapear Eventos de experiência no Adobe Experience Platform (AEP)
-feature: Integração do Serviço principal de pessoas
+feature: People Core Service Integration
 kt: 2832
 thumbnail: 27265.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
 source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 11%
+source-wordcount: '74'
+ht-degree: 12%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 11%
 >
 >No momento, esse recurso está em beta e está sujeito a atualizações e modificações frequentes sem aviso prévio.
 >
->Entre em contato com [!UICONTROL Adobe Customer Support] se planeja implementar esse recurso.
+>Entre em contato com o [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
 
 Saiba como mapear [!UICONTROL Experience Events] no Adobe Experience Platform (AEP).
 

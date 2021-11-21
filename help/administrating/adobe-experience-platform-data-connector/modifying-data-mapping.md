@@ -1,7 +1,7 @@
 ---
 title: Modificação do mapeamento de dados
 description: Saiba como verificar o status e modificar o mapeamento de dados.
-feature: Integração do Serviço principal de pessoas
+feature: People Core Service Integration
 kt: 2830
 thumbnail: 27266
 doc-type: feature video
@@ -10,7 +10,7 @@ team: TM
 exl-id: a03299d2-3ef5-42a7-b0ab-ec90908f71ec
 source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '78'
 ht-degree: 7%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 7%
 >
 >No momento, esse recurso está em beta e está sujeito a atualizações e modificações frequentes sem aviso prévio.
 >
->Entre em contato com [!UICONTROL Adobe Customer Support] se planeja implementar esse recurso.
+>Entre em contato com o [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
 
 Saiba como verificar o status e modificar o mapeamento de dados.
 

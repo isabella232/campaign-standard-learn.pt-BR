@@ -1,7 +1,7 @@
 ---
 title: Gerar e instalar chaves GPG para criptografia de dados
 description: Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância do Campaign especificada para a criptografia de dados de saída.
-feature: Painel de controle do Campaign
+feature: Control Panel
 audience: administrator
 kt: 5188
 thumbnail: 36386.jpg
@@ -11,8 +11,8 @@ team: PM
 exl-id: ff5a2d83-d38c-47d2-a3ae-e07d8cab13eb
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 80%
+source-wordcount: '79'
+ht-degree: 100%
 
 ---
 
