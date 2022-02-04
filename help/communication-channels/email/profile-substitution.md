@@ -1,7 +1,7 @@
 ---
 title: Substituição de perfil - Testar mensagens de email usando perfis direcionados
 description: Saiba como você pode testar suas mensagens de email usando o recurso de substituição de perfil.
-feature: Email
+feature: Personalization, Email
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
@@ -10,10 +10,10 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 76%
+source-wordcount: '167'
+ht-degree: 67%
 
 ---
 
@@ -31,8 +31,4 @@ Para obter mais informações, consulte a [documentação detalhada do produto](
 >
 >Esse recurso permite enviar informações pessoais do perfil para endereços de email externos. Lembre-se de que a execução de solicitações de privacidade (GDPR e CCPA) no Campaign Standard NÃO executará externamente essa solicitação.
 
-## Recursos adicionais
-
-* [Teste de mensagens usando perfis de público-alvo (documentação)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
-* [Criação de email de teste A/B](/help/communication-channels/email/a-b-testing.md)
-* [Enviar um teste, preparar e enviar um email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+Consulte a documentação do produto para saber mais sobre [teste de mensagens usando perfis do target](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)

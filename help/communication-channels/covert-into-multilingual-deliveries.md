@@ -10,10 +10,10 @@ team: TM
 exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
 role: User
 level: Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 32%
+source-wordcount: '78'
+ht-degree: 28%
 
 ---
 
@@ -23,6 +23,4 @@ Este vídeo demonstra como um email, delivery de SMS ou um template de delivery 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12)
 
-## Recursos adicionais
-
-* [Criação de um email multilíngue (documentação)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
+Consulte a documentação do produto para obter mais informações sobre [criação de um email multilíngue](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
