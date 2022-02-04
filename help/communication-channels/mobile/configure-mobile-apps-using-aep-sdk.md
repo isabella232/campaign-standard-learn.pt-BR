@@ -10,14 +10,15 @@ team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
 role: Admin
 level: Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: fa79214cceb411a8a53c650ac06c64cf3c7cdfd3
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 11%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Configurar um aplicativo para dispositivos móveis usando [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
+
+# Configurar um aplicativo para dispositivos móveis usando [!UICONTROL Adobe Experience Platform SDK]
 
 Para enviar mensagens no aplicativo ou [!UICONTROL push notifications] usando o Mobile SDK V5, o aplicativo móvel deve ser configurado em [!UICONTROL Adobe Experience Platform Launch] e configuradas no Adobe Campaign.
 
