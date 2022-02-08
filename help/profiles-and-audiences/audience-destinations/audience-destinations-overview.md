@@ -10,10 +10,11 @@ team: TM
 exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+recommendations: noDisplay
+source-git-commit: 87c7d040e2bdd1ccaceb5035b494a6fb50c77f7b
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 9%
+source-wordcount: '165'
+ht-degree: 4%
 
 ---
 
@@ -36,7 +37,3 @@ Os seguintes tutoriais em vídeo o orientam pelas diferentes etapas:
 1. [Criar um público usando o Criador de segmentos unificado](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Ativar públicos-alvo do Experience Platform em um fluxo de trabalho de marketing](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Alterar o targeting dimension de um delivery para um Público-alvo da plataforma](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
-
-## Recursos adicionais
-
-*[Saiba mais sobre o Conector de dados da Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
