@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c3ccbd6f1453bbc0da5f3a65b0165002707884e3
+source-git-commit: c270d2c6ef7ad695226d79da51cfd2f18dcefaff
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '123'
+ht-degree: 6%
 
 ---
 
@@ -31,4 +31,4 @@ Este vídeo explica como ativar o [!UICONTROL Data Services Query Audience] em u
 
 *Ativar um público-alvo da Adobe Experience Platform em um fluxo de trabalho (02:37 min)*
 
-Consulte a documentação do produto sobre como [Assimilar públicos da Adobe Experience Platform no Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
+Consulte a documentação do produto sobre como [assimilar públicos do Adobe Experience Platform no Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
