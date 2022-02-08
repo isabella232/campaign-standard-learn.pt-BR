@@ -10,10 +10,10 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 275b7f05b50891757a7921c16dfcd9c8a1c3a036
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 66%
+source-wordcount: '188'
+ht-degree: 67%
 
 ---
 
@@ -29,13 +29,3 @@ Desenvolvido pela [!UICONTROL Journey AI], o [!DNL Adobe Campaign] pode analisar
 Saiba como visualizar as pontuações de engajamento no nível do perfil individual, usar pontuações para direcionar usuários engajados e suprimir usuários cansados e como criar regras de tipologia para gerenciar a fadiga do cliente.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
-
-## Recursos adicionais
-
-Tutoriais:
-
-* [Otimização preditiva do tempo de envio](predictive-send-time-optimization.md)
-
-Documentação:
-
-* [Otimizar o design e o delivery com emails alimentados por IA](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
