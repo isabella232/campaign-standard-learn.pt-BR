@@ -10,10 +10,10 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c249ea1f955d3e0d3f1477ee822edb6295da8de1
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 8%
+source-wordcount: '167'
+ht-degree: 9%
 
 ---
 
@@ -34,10 +34,3 @@ O vídeo abaixo explica como um novo público-alvo é criado usando [!UICONTROL 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
 *Como criar um público-alvo no Adobe Campaign Standard usando o Criador de segmentos unificado (02:47 min)*
-
-Para obter mais informações, consulte a documentação do produto:
-
-* [Visão geral do perfil do cliente em tempo real](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-* [Guia do usuário do Construtor de segmentos](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-
-

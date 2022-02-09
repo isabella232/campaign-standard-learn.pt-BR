@@ -1,6 +1,6 @@
 ---
-title: Modificação de recursos personalizados ao configurar o Adobe Campaign Standard (ACS) para solicitações de privacidade
-description: Ao configurar o Adobe Campaign Standard (ACS) para lidar com solicitações de privacidade, é necessário garantir que todos os dados personalizados vinculados a um perfil sejam excluídos quando o perfil for excluído. Este vídeo explica como modificar seus recursos personalizados para atender a esse requisito.
+title: Modificação de recursos personalizados ao configurar o Adobe Campaign Standard para solicitações de privacidade
+description: Ao configurar o Adobe Campaign Standard para lidar com solicitações de privacidade, é necessário garantir que todos os dados personalizados vinculados a um perfil sejam excluídos quando o perfil for excluído. Este vídeo explica como modificar seus recursos personalizados para atender a esse requisito.
 feature: Privacy Tools
 kt: 1243
 thumbnail: 23326.jpg
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -29,6 +29,4 @@ Ao configurar o Adobe Campaign Standard para lidar com solicitações de privaci
 >
 > Para verificar sua versão, clique no **?** no canto superior direito da interface e selecione Sobre.
 
-## Recursos adicionais
-
-* [Diretrizes gerais de privacidade do Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=pt-BR)
+Consulte também a [Diretrizes gerais de privacidade do Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=pt-BR)

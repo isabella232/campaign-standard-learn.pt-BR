@@ -9,9 +9,9 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: ff5a2d83-d38c-47d2-a3ae-e07d8cab13eb
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
@@ -21,8 +21,3 @@ ht-degree: 100%
 Saiba como gerar e instalar um par de chaves públicas/privadas em uma instância do Campaign especificada para a criptografia de dados de saída.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
-
-## Recursos adicionais
-
-* [Gerenciamento de chaves GPG (vídeos)](./gpg-key-management-overview.md)
-* [Gerenciamento de chaves GPG (documentação)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=pt-BR)
