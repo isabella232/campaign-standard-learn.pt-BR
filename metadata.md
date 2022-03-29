@@ -1,14 +1,14 @@
 ---
 cloud: Experience Cloud
 product: campaign
-solution: Campaign, Campaign Standard v7
+solution: Campaign, Campaign Standard
 version: Standard
 type: Tutorial
 feature-set: Campaign
 mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-standard-learn.pt-BR
 index: true
-source-git-commit: 680a0f26f27c3beb9aa744b7359e55b011c922b5
+source-git-commit: 0a47045ae9400b3ee99f57a7659aa089d5545b90
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 100%
