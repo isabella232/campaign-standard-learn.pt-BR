@@ -2,9 +2,9 @@
 user-guide-title: Tutoriais do Adobe Campaign Standard
 user-guide-description: Desenvolva experiências de clientes entre canais e crie um ambiente para a orquestração visual de campanhas, gerenciamento de interação em tempo real e execução entre canais.
 breadcrumb-title: Tutoriais do Campaign Standard
-source-git-commit: e38405b798f231c9f7c22ac95ea44324ce94651d
-workflow-type: ht
-source-wordcount: '542'
+source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
+workflow-type: tm+mt
+source-wordcount: '544'
 ht-degree: 100%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # Tutoriais do Adobe Campaign Standard {#tutorials}
 
-+ [Visão geral](/help/overview.md)
++ [Adobe Campaign Standard](/help/overview.md)
 + Introdução {#getting-started}
    + [Introdução ao Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Introdução à interface](/help/getting-started/getting-started-with-the-ui.md)
