@@ -3,10 +3,10 @@ user-guide-title: Tutoriais do painel de controle do Adobe Campaign
 user-guide-description: Saiba como monitorar os principais ativos das instâncias do Adobe Campaign e executar tarefas administrativas no Painel de controle do Campaign.
 breadcrumb-title: Tutoriais do Painel de controle do Campaign
 index: true
-source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
+source-git-commit: f5d3396f46839a37fdc7199347344382a02d3ff1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 96%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 0%
    + [Gerar uma chave SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Conectar a um servidor SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Subdomínios e certificados {#subdomains-and-certificates}
-   + [Delegação total de subdomínio (beta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
-   + [Delegar subdomínios usando CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
+   + [Delegação de subdomínio completa](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [Delegar subdomínios usando CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [Adicionar certificados SSL](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Gerenciamento de registros TXT do Google](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Configurações de instância {#instance-settings}
