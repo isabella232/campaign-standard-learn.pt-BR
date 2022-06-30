@@ -1,32 +1,32 @@
 ---
 title: Tutoriais do Adobe Campaign Standard — visão geral
-description: O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
+description: O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a orquestração visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
-workflow-type: ht
-source-wordcount: '305'
-ht-degree: 100%
+source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
+workflow-type: tm+mt
+source-wordcount: '306'
+ht-degree: 78%
 
 ---
 
 # Adobe Campaign Standard – Visão geral
 
-O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a organização visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
+O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a orquestração visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 
 ## Novidades
 
-* **[Maximize o ROI do seu email e conheça as práticas recomendadas para reengajamento do assinante](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=pt-BR)**
+* **[Painel de controle do Campaign - Monitorar workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
 
-   *Saiba como maximizar o ROI do email e aprenda as práticas recomendadas para o reengajamento do assinante. Descubra as estratégias para melhorar o engajamento dos assinantes e entender o sucesso geral de suas campanhas de email.*
+   *Saiba como monitorar o uso de armazenamento temporário dos workflows e onde definir as configurações do workflow para evitar problemas no banco de dados ou no workflow na sua instância.*
 
-* **[Solução de problemas](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=pt-BR)**
+* **[Painel de controle do Campaign - Monitorar throughput e latência](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
 
-*Encontre ajuda para solucionar problemas conhecidos no Adobe Campaign Standard.*
+   *Saiba como monitorar os resultados do delivery e as latências de mensagem transacional da instância do Campaign.*
 
 ## Seleção de pessoal
 
@@ -63,7 +63,7 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
       <img alt="Tutorial: Introdução a notificações por push para Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=br">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
     <strong>Tutorial: Introdução a notificações por push para Android™</strong>
     </a>
     </div>

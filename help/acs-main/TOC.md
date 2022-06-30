@@ -2,10 +2,10 @@
 user-guide-title: Tutoriais do Adobe Campaign Standard
 user-guide-description: Desenvolva experiências de clientes entre canais e crie um ambiente para a orquestração visual de campanhas, gerenciamento de interação em tempo real e execução entre canais.
 breadcrumb-title: Tutoriais do Campaign Standard
-source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
-workflow-type: ht
-source-wordcount: '565'
-ht-degree: 100%
+source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
+workflow-type: tm+mt
+source-wordcount: '567'
+ht-degree: 98%
 
 ---
 
@@ -103,7 +103,7 @@ ht-degree: 100%
 + Administrar {#administrating}
    + [Gerenciamento de direitos de acesso do usuário](/help/administrating/managing-user-access-rights.md)
    + [Criar recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=pt-BR)
-   + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=pt-BR)
+   + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target=&quot;_blank&quot;}
    + Conector de dados da Adobe Experience Platform {#adobe-experience-platform-data-connector}
       + [Saiba mais sobre o Conector de dados da Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mapear recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
