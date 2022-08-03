@@ -4,8 +4,8 @@ user-guide-description: Desenvolva experiências de clientes entre canais e crie
 breadcrumb-title: Tutoriais do Campaign Standard
 source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '567'
+ht-degree: 100%
 
 ---
 
