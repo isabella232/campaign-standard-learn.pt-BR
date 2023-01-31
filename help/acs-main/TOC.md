@@ -2,9 +2,9 @@
 user-guide-title: Tutoriais do Adobe Campaign Standard
 user-guide-description: Desenvolva experiências de clientes entre canais e crie um ambiente para a orquestração visual de campanhas, gerenciamento de interação em tempo real e execução entre canais.
 breadcrumb-title: Tutoriais do Campaign Standard
-source-git-commit: 41cc794dbdc295d76bba63cba2ef145eb50df540
+source-git-commit: 027b8b368f88cc9fd3bc450b525f057450fa9af8
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '567'
 ht-degree: 98%
 
 ---
@@ -122,6 +122,6 @@ ht-degree: 98%
    + [Executar solicitações de privacidade](/help/privacy/execute-privacy-requests.md)
 + [Solução de problemas do Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=pt-BR)
 + Estratégia e liderança de pensamento{#strategy}
-   + [10 Práticas recomendadas para o sucesso do Adobe Campaign para profissionais de marketing](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
+   + [Dez práticas recomendadas para o sucesso do Adobe Campaign para profissionais de marketing](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
    + [Maximizar o ROI do email e práticas recomendadas para reengajamento do assinante](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=pt-BR)
    + [Manual de práticas recomendadas para capacidade de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=pt-BR)
