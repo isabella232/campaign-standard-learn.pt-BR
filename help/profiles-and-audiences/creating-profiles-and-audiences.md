@@ -22,7 +22,7 @@ ht-degree: 37%
 O Adobe Campaign tem dois tipos ou perfis:
 
 * Perfis identificados
-* Testar perfis
+* Perfis de teste
 
 Os perfis que são agrupados de acordo com um ou vários critérios comuns são chamados de **públicos**.
 
