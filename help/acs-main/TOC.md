@@ -2,9 +2,9 @@
 user-guide-title: Tutoriais do Adobe Campaign Standard
 user-guide-description: Desenvolva experiências de clientes entre canais e crie um ambiente para a orquestração visual de campanhas, gerenciamento de interação em tempo real e execução entre canais.
 breadcrumb-title: Tutoriais do Campaign Standard
-source-git-commit: 1330f710368996dfa5562673360c12f2414a4ac7
+source-git-commit: 22048e99a99cb0796fc62054c9202603ce57d250
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '570'
 ht-degree: 99%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 99%
    + Email {#email}
       + [Criar um email](/help/communication-channels/email/create-email-from-homepage.md)
       + [Enviar um teste, preparar e enviar um email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [Enviar uma prova](/help/communication-channels/email/send-a-proof.md)
       + [Teste AB](/help/communication-channels/email/a-b-testing.md)
       + [Testar mensagens de email usando perfis direcionados](/help/communication-channels/email/profile-substitution.md)
       + [Adicionar um grupo de controle a uma entrega](/help/communication-channels/email/control-groups.md)
@@ -99,11 +100,11 @@ ht-degree: 99%
       + [Criar um acionador na Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Criar um evento de acionador no Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configurar mensagens transacionais usando dados do evento em tempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [Configurar o Microsoft](/help/integrations/configure-dynamics-365.md)
+   + [Configurar Microsoft](/help/integrations/configure-dynamics-365.md)
 + Administrar {#administrating}
    + [Gerenciamento de direitos de acesso do usuário](/help/administrating/managing-user-access-rights.md)
    + [Criar recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=pt-BR)
-   + [Painel de controle do Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=pt-BR){target="_blank"}
+   + [Painel de controle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=pt-BR){target="_blank"}
    + Conector de dados da Adobe Experience Platform {#adobe-experience-platform-data-connector}
       + [Saiba mais sobre o Conector de dados da Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mapear recursos personalizados](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
