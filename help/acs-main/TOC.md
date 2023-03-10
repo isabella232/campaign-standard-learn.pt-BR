@@ -2,9 +2,9 @@
 user-guide-title: Tutoriais do Adobe Campaign Standard
 user-guide-description: Desenvolva experiências de clientes entre canais e crie um ambiente para a orquestração visual de campanhas, gerenciamento de interação em tempo real e execução entre canais.
 breadcrumb-title: Tutoriais do Campaign Standard
-source-git-commit: 22048e99a99cb0796fc62054c9202603ce57d250
+source-git-commit: b2bd6a29c54c505359eb3bc908ccf950db07da3a
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '572'
 ht-degree: 99%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 99%
    + Email {#email}
       + [Criar um email](/help/communication-channels/email/create-email-from-homepage.md)
       + [Enviar um teste, preparar e enviar um email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [Programar mensagens](/help/communication-channels/email/schedule-messages.md)
       + [Enviar uma prova](/help/communication-channels/email/send-a-proof.md)
       + [Teste AB](/help/communication-channels/email/a-b-testing.md)
       + [Testar mensagens de email usando perfis direcionados](/help/communication-channels/email/profile-substitution.md)
