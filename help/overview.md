@@ -7,26 +7,30 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 6a8b4679212207d6cce5c1dba317d3349d319baa
-workflow-type: ht
-source-wordcount: '308'
-ht-degree: 100%
+source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+workflow-type: tm+mt
+source-wordcount: '297'
+ht-degree: 84%
 
 ---
 
 # Adobe Campaign Standard – Visão geral
 
-O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a orquestração visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
+O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a orquestração visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e funcionalidades do Adobe Campaign Standard.
 
 ## Novidades
 
-* **[Painel de controle do Campaign - Monitorar workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=pt-BR){target=&quot;_blank&quot;}**
+* **[Programar mensagens](/help/communication-channels/email/schedule-messages.md)**
 
-   *Saiba como monitorar o uso de armazenamento temporário dos workflows e onde definir as configurações do workflow para evitar problemas no banco de dados ou no workflow na sua instância.*
+   *Saiba como agendar uma entrega de email.*
 
-* **[Painel de controle do Campaign - Monitorar taxas de transferência e latência](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=pt-BR){target=&quot;_blank&quot;}**
+* **[Enviar uma prova](/help/communication-channels/email/send-a-proof.md)**
 
-   *Saiba como monitorar as taxas de transferência de entrega e as latências de mensagem transacional da instância do Campaign.*
+   *Saiba como testar uma mensagem de email antes de enviá-la aos recipients finais.*
+
+* **[Dez práticas recomendadas para o sucesso de profissionais de marketing no Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)**
+
+   *Conheça as dez práticas recomendadas para ajudar os profissionais da Adobe Campaign a desbloquear e acelerar a transformação do consumidor digital e uma melhor experiência para seus clientes.*
 
 ## Seleção de pessoal
 
@@ -47,15 +51,15 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
   </td>
    <td>
     <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=pt-BR">
-      <img alt="Painel de controle do Campaign (vídeos)" src="./assets/control-panel.png" />
+      <img alt="Painel de controle (vídeos)" src="./assets/control-panel.png" />
     </a>
     <div>
     <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=pt-BR">
-    <strong>Painel de controle do Campaign (vídeos)</strong>
+    <strong>Painel de controle (vídeos)</strong>
     </a>
     </div>
     <p>
-    <em> Aumente sua eficiência como administrador gerenciando configurações e rastreando o uso de suas instâncias com o Painel de controle do Campaign .</em>
+    <em> Aumente sua eficiência como administrador gerenciando configurações e rastreando o uso de suas instâncias com o Painel de controle .</em>
     <p>
   </td>
   <td>
