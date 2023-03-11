@@ -7,16 +7,18 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+source-git-commit: 9ff98f4144284db542d6bb561bc9c21b052e02ed
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 84%
+source-wordcount: '286'
+ht-degree: 83%
 
 ---
 
 # Adobe Campaign Standard – Visão geral
 
 O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a orquestração visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e funcionalidades do Adobe Campaign Standard.
+
+<div id="whats-new-section">
 
 ## Novidades
 
@@ -31,6 +33,11 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 * **[Dez práticas recomendadas para o sucesso de profissionais de marketing no Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)**
 
    *Conheça as dez práticas recomendadas para ajudar os profissionais da Adobe Campaign a desbloquear e acelerar a transformação do consumidor digital e uma melhor experiência para seus clientes.*
+
+</div>
+
+
+<div id="events-section">
 
 ## Seleção de pessoal
 
@@ -78,6 +85,4 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 </tr>
 </table>
 
-## Recursos adicionais
-
-* [Documentação](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=br)
+</div>
