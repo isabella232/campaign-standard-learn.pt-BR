@@ -2,7 +2,7 @@
 title: Maximize o ROI do seu email e conheça as práticas recomendadas para reengajamento do assinante
 description: Saiba como maximizar o ROI do email e aprenda as práticas recomendadas para reengajamento do assinante. Descubra as estratégias para melhorar o engajamento dos assinantes e entender o sucesso geral de suas campanhas de email.
 solution: Campaign
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
+source-git-commit: fda23ddb8a9b31dd637e42a31836214ad14f494c
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 3%
@@ -104,7 +104,7 @@ O status dos assinantes (ativo, expirado ou inativo) depende da frequência com 
 
 Esta é uma tabela simples para ajudá-lo durante sua auditoria:
 
-![status do assinante](assets/subscriber-status.png)
+![status do assinante](/help/assets/subscriber-status.png)
 
 Por exemplo, se você estiver enviando emails para clientes diariamente, eles devem ter interagido com um desses emails no último mês para serem considerados ativos e envolvidos. Por outro lado, se você estiver enviando emails para clientes mensalmente e eles não tiverem interagido dentro de 9 a 14 meses, eles poderão ser considerados inativos.
 
