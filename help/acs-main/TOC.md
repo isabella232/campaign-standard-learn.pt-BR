@@ -68,10 +68,10 @@ ht-degree: 99%
          + [Relatório sobre a entrega no aplicativo](/help/communication-channels/mobile/in-app/in-app-reporting.md)
       + [Configurar um aplicativo para dispositivos móveis usando o SDK da Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
    + [Correspondência direta](/help/communication-channels/direct-mail/directmail.md)
-   + Páginas de aterrissagem {#landing-pages}
-      + [Criar e editar uma página de aterrissagem](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
-      + [Testar e publicar uma página de aterrissagem](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
-      + [Configurar um modelo de página de aterrissagem](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
+   + Landing pages {#landing-pages}
+      + [Criar e editar uma landing page](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
+      + [Testar e publicar uma landing page](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
+      + [Configurar um modelo de landing page](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
 + Projetar e personalizar conteúdo {#designing-content}
    + Email Designer{#email-designer}
       + [Visão geral](/help/designing-content/email-designer/email-designer-overview.md)
@@ -101,7 +101,7 @@ ht-degree: 99%
       + [Criar um acionador na Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Criar um evento de acionador no Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configurar mensagens transacionais usando dados do evento em tempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [Configurar Microsoft](/help/integrations/configure-dynamics-365.md)
+   + [Configurar o Microsoft](/help/integrations/configure-dynamics-365.md)
 + Administrar {#administrating}
    + [Gerenciamento de direitos de acesso do usuário](/help/administrating/managing-user-access-rights.md)
    + [Criar recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=pt-BR)
