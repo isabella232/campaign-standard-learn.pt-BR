@@ -1,5 +1,5 @@
 ---
-title: Tutoriais do Adobe Campaign Standard — visão geral
+title: Tutoriais do Adobe Campaign Standard - Visão geral
 description: O Adobe Campaign fornece uma plataforma para criação de experiências para clientes entre canais, além de um ambiente para a orquestração visual de campanhas, a gestão de interações em tempo real e a execução entre canais. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 04bc3a93595f90e8ed48fb7f3896b734256fe92d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '286'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -22,17 +22,17 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 ## Novidades
 
-* **[Programar mensagens](/help/communication-channels/email/schedule-messages.md)**
+* **[Agendar mensagens](/help/communication-channels/email/schedule-messages.md)**
 
    *Saiba como agendar uma entrega de email.*
 
 * **[Enviar uma prova](/help/communication-channels/email/send-a-proof.md)**
 
-   *Saiba como testar uma mensagem de email antes de enviá-la aos recipients finais.*
+   *Saiba como testar uma mensagem de email antes de enviá-la para os destinatários finais.*
 
 * **[Dez práticas recomendadas para o sucesso de profissionais de marketing no Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *Conheça as dez práticas recomendadas para ajudar os profissionais da Adobe Campaign a desbloquear e acelerar a transformação do consumidor digital e uma melhor experiência para seus clientes.*
+   *Conheça as dez práticas recomendadas para ajudar os profissionais do Adobe Campaign a desbloquear e acelerar a transformação digital do consumidor e fornecer uma melhor experiência para seus clientes.*
 
 </div>
 
