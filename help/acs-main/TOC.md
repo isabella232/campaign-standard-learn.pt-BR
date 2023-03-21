@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Adobe Campaign Standard
 user-guide-description: Desenvolva experiências de clientes entre canais e crie um ambiente para a orquestração visual de campanhas, gerenciamento de interação em tempo real e execução entre canais.
 breadcrumb-title: Tutoriais do Campaign Standard
 source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '563'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 99%
    + Email {#email}
       + [Criar um email](/help/communication-channels/email/create-email-from-homepage.md)
       + [Enviar um teste, preparar e enviar um email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-      + [Programar mensagens](/help/communication-channels/email/schedule-messages.md)
+      + [Agendar mensagens](/help/communication-channels/email/schedule-messages.md)
       + [Enviar uma prova](/help/communication-channels/email/send-a-proof.md)
       + [Teste AB](/help/communication-channels/email/a-b-testing.md)
       + [Testar mensagens de email usando perfis direcionados](/help/communication-channels/email/profile-substitution.md)
@@ -73,7 +73,7 @@ ht-degree: 99%
       + [Testar e publicar uma landing page](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [Configurar um modelo de landing page](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
 + Projetar e personalizar conteúdo {#designing-content}
-   + Email Designer{#email-designer}
+   + Designer de email{#email-designer}
       + [Visão geral](/help/designing-content/email-designer/email-designer-overview.md)
       + [Introdução ao Designer de email](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Introdução a modelos de conteúdo de email](/help/designing-content/email-designer/email-content-templates.md)
@@ -101,7 +101,7 @@ ht-degree: 99%
       + [Criar um acionador na Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Criar um evento de acionador no Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Configurar mensagens transacionais usando dados do evento em tempo real](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [Configurar o Microsoft](/help/integrations/configure-dynamics-365.md)
+   + [Configurar a Microsoft](/help/integrations/configure-dynamics-365.md)
 + Administrar {#administrating}
    + [Gerenciamento de direitos de acesso do usuário](/help/administrating/managing-user-access-rights.md)
    + [Criar recursos personalizados](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=pt-BR)
