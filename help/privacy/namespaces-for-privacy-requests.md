@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
@@ -21,4 +21,4 @@ Para criar solicitações de acesso e exclusão de privacidade, conforme exigido
 
 Saiba como criar namespaces para solicitações de privacidade.
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12&learn=on)
