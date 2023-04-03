@@ -10,8 +10,8 @@ team: WWFRE
 exl-id: fef1b535-8055-4d6b-a099-5e04340ce6e9
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
-workflow-type: tm+mt
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+workflow-type: ht
 source-wordcount: '53'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Este vídeo oferece uma visão geral sobre os recursos de relatórios do Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12&learn=on)
 
 ## Recursos adicionais
 
