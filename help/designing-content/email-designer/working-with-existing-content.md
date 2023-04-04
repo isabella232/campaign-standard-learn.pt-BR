@@ -10,7 +10,7 @@ team: TM
 exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
 role: User, Developer
 level: Beginner
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 7%
@@ -23,7 +23,7 @@ ht-degree: 7%
 
 Saiba como recuperar seu conteúdo criativo de um site e carregá-lo no Designer de email.
 
->[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12&learn=on)
 
 ## Compatibilidade do conteúdo HTML existente {#making-existing-html-content-compatible}
 

@@ -8,7 +8,7 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 4%
@@ -31,7 +31,7 @@ O conector é unidirecional e envia os dados do Adobe Campaign Standard para o A
 
 Adobe Experience Platform [!UICONTROL Data Connector] destina-se a engenheiros de dados que compreendem a Adobe Campaign Standard [!UICONTROL custom resources] e ter uma compreensão de como o schema de dados geral do cliente deve estar dentro do Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12&learn=on)
 
 *Este vídeo fornece uma visão geral sobre a Adobe Experience Platform [!UICONTROL Data Connector] (09:35 min)*
 
