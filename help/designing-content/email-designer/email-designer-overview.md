@@ -1,6 +1,6 @@
 ---
-title: Visão geral do Email Designer
-description: Entenda a funcionalidade geral do Designer de email e como projetar um email do zero.
+title: Visão geral do Designer de email
+description: Entenda a funcionalidade geral do Designer de email e aprenda a criar um email do zero.
 feature: Email Design
 kt: 1402
 thumbnail: 22771.jpg
@@ -12,9 +12,9 @@ role: User, Developer
 recommendations: noDisplay
 level: Beginner
 source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -30,9 +30,9 @@ Este vídeo oferece uma visão geral de alto nível sobre a funcionalidade e o u
 
 Os seguintes tutoriais detalhados estão disponíveis:
 
-* [Introdução ao Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+* [Introdução ao Designer de email](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
 * [Modelos de conteúdo](/help/designing-content/email-designer/email-content-templates.md)
 * [Configurar visualização para dispositivos móveis](/help/designing-content/email-designer/configure-the-mobile-view.md)
-* [Pré-visualizar seu email](/help/designing-content/email-designer/preview-your-email.md)
+* [Visualizar seu email](/help/designing-content/email-designer/preview-your-email.md)
 * [Trabalhar com conteúdo existente](/help/designing-content/email-designer/working-with-existing-content.md)
 * [Criar conteúdo usando o Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
