@@ -1,6 +1,6 @@
 ---
-title: Introdução ao Email Designer
-description: Entenda a funcionalidade geral do Designer de email e como projetar um email do zero.
+title: Introdução ao Designer de email
+description: Entenda a funcionalidade geral do Designer de email e aprenda a criar um email do zero.
 feature: Email Design
 kt: 2391
 thumbnail: 25912.jpg
@@ -11,9 +11,9 @@ exl-id: 298fa9c5-153b-4886-9324-82d2651060ab
 role: User, Developer
 level: Beginner
 source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
