@@ -11,13 +11,13 @@ exl-id: c5804637-804c-473f-80d8-d54263c49a5c
 role: User
 level: Beginner
 source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
 ht-degree: 100%
 
 ---
 
-# Explore a hierarquia e as atividades de marketing
+# Explorar a hierarquia e as atividades de marketing
 
 Este vídeo explica a hierarquia de programas e campanhas, como criar um programa de marketing e uma campanha de marketing em um programa.
 
