@@ -2,10 +2,10 @@
 user-guide-title: Tutoriais do Adobe Campaign Standard
 user-guide-description: Desenvolva experiências de clientes entre canais e crie um ambiente para a orquestração visual de campanhas, gerenciamento de interação em tempo real e execução entre canais.
 breadcrumb-title: Tutoriais do Campaign Standard
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: ht
-source-wordcount: '563'
-ht-degree: 100%
+source-git-commit: 5fd8decb13b8d7376c6899b1597eade4b3c5a83d
+workflow-type: tm+mt
+source-wordcount: '568'
+ht-degree: 99%
 
 ---
 
@@ -88,11 +88,12 @@ ht-degree: 100%
       + [Atividade de sinal externo](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Atividades de gerenciamento de dados {#data-management-activities}
       + [Atividade de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Relatórios {#reporting}
++ Relatório e monitoramento {#reporting}
    + [Explorar relatórios](/help/getting-started/exploring-reports.md)
    + [Criar um relatório dinâmico](/help/reporting/creating-a-dynamic-report.md)
    + [Criar um relatório com base em atributos de perfil personalizados](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Criar um relatório com base em segmentos de fluxo de trabalho](/help/reporting/report-on-workflow-segments.md)
+   + [Monitorar um delivery](/help/reporting/monitor-a-delivery.md)
 + Integrar a outras soluções {#integrations}
    + [Acompanhe o sucesso de suas entregas no Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Usar acionadores para mensagens transacionais {#triggers}
