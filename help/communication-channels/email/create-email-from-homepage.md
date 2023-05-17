@@ -21,6 +21,6 @@ ht-degree: 40%
 
 Você pode criar um delivery de email independente de uma campanha, da página inicial do Adobe Campaign ou na [!UICONTROL Marketing Activity] lista. Você também pode criar e enviar emails recorrentes e de envio único a partir de um workflow.
 
-Saiba como criar uma entrega de email com base na página inicial.
+Saiba como criar uma entrega de email a partir da página inicial.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23721?quality=12&learn=on)
