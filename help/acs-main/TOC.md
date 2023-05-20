@@ -2,10 +2,10 @@
 user-guide-title: Tutoriais do Adobe Campaign Standard
 user-guide-description: Desenvolva experiências de clientes entre canais e crie um ambiente para a orquestração visual de campanhas, gerenciamento de interação em tempo real e execução entre canais.
 breadcrumb-title: Tutoriais do Campaign Standard
-source-git-commit: 5ac2210e2682cab45e4fe99eb41e53abf160bbe7
+source-git-commit: 6ae9e253f99947c2515031b520d5ab029e9c4b8a
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 98%
+source-wordcount: '585'
+ht-degree: 96%
 
 ---
 
@@ -88,13 +88,14 @@ ht-degree: 98%
       + [Atividade de sinal externo](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Atividades de gerenciamento de dados {#data-management-activities}
       + [Atividade de API externa](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Relatório e monitoramento {#reporting}
++ Relatar e monitorar {#reporting}
    + [Explorar relatórios](/help/getting-started/exploring-reports.md)
    + [Criar um relatório dinâmico](/help/reporting/creating-a-dynamic-report.md)
    + [Criar um relatório com base em atributos de perfil personalizados](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Criar um relatório com base em segmentos de fluxo de trabalho](/help/reporting/report-on-workflow-segments.md)
    + [Monitorar um delivery](/help/reporting/monitor-a-delivery.md)
 + Integrar a outras soluções {#integrations}
+   + [Integração do Target ao Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=en)
    + [Acompanhe o sucesso de suas entregas no Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Usar acionadores para mensagens transacionais {#triggers}
       + [Visão geral](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
