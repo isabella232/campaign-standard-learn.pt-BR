@@ -19,12 +19,12 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->No momento, esse recurso está em beta e está sujeito a atualizações e modificações frequentes sem aviso prévio.
+>No momento, esse recurso está na versão beta e está sujeito a atualizações e modificações frequentes sem aviso prévio.
 >
->Entre em contato com o [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
+>Entre em contato com [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
 
 Saiba como mapear diferentes tipos de dados entre o Adobe Campaign Standard e o Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?quality=12&learn=on)
 
-Consulte a documentação do produto para obter mais informações sobre [Definição de mapeamento](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+Consulte a documentação do produto para obter mais informações sobre o [Definição de mapeamento](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)

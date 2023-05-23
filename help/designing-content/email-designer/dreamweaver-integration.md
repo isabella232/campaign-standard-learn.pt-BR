@@ -27,7 +27,7 @@ A integração do Adobe Campaign Standard com o Adobe Dreamweaver permite editar
 
 >[!NOTE]
 >
->Esse recurso exige a extensão do Dreamweaver chamada **[!UICONTROL Adobe Campaign Integration]**. Você pode baixar a extensão do [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search). Para obter mais informações sobre a instalação, consulte [Extensão do Campaign para Dreamweaver](https://helpx.adobe.com/br/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
+>Esse recurso exige a extensão do Dreamweaver chamada **[!UICONTROL Adobe Campaign Integration]**. Você pode baixar a extensão do [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search). Para obter mais informações sobre a instalação, consulte [Extensão do Campaign para o Dreamweaver](https://helpx.adobe.com/br/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
 
 O vídeo explica o que é necessário para habilitar a integração do Dreamweaver e como criar e editar conteúdo do Adobe Campaign Standard usando o Dreamweaver.
 
@@ -35,4 +35,4 @@ O vídeo explica o que é necessário para habilitar a integração do Dreamweav
 
 *Como usar a integração do Dreamweaver no Adobe Campaign (02:37 min)*
 
-Consulte a Dreamweaver [Documentação do Adobe Dreamweaver](https://helpx.adobe.com/br/dreamweaver/using/working-with-dreamweaver-and-campaign.html) para informações sobre [Solução de problemas de instalação do Adobe Campaign Dreamweaver](https://helpx.adobe.com/br/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
+Consulte a Dreamweaver [Documentação do Adobe Dreamweaver](https://helpx.adobe.com/br/dreamweaver/using/working-with-dreamweaver-and-campaign.html) para obter informações sobre [Solução de problemas de instalação do Adobe Campaign Dreamweaver](https://helpx.adobe.com/br/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).

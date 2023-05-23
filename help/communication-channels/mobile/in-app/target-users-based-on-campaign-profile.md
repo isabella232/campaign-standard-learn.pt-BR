@@ -1,6 +1,6 @@
 ---
 title: Direcionar usuários com base em seus perfis do Campaign
-description: Saiba como direcionar usuários conhecidos de aplicativos móveis com mensagens personalizadas com atributos de perfil do CRM.
+description: Saiba como direcionar usuários de aplicativos móveis conhecidos com mensagens personalizadas com atributos de perfil do CRM.
 feature: In App
 kt: 1796
 thumbnail: 26200.jpg
@@ -17,9 +17,9 @@ ht-degree: 7%
 
 ---
 
-# Direcione usuários com base em seus [!DNL Campaign] perfil
+# Direcionar usuários com base em seus [!DNL Campaign] perfil
 
-Você pode direcionar usuários que fizeram logon no aplicativo com PII (usuários conhecidos do aplicativo móvel) com mensagens personalizadas, usando atributos de perfil do CRM disponíveis no Adobe Campaign Standard. Esse modelo oferece suporte a casos de uso de orquestração entre canais, onde você já direcionou clientes em outros canais, como Email ou Push, com base em sua resposta, e deseja envolver esses clientes novamente com uma mensagem no aplicativo.
+Você pode direcionar os usuários que fizeram logon no aplicativo com PII (usuários de aplicativo móvel conhecidos) com mensagens personalizadas, usando atributos de perfil do CRM disponíveis no Adobe Campaign Standard. Esse modelo é compatível com casos de uso de orquestração entre canais, em que você já direcionou clientes em outros canais, como email ou push, com base na resposta deles, e deseja engajar esses clientes novamente com uma mensagem no aplicativo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12&learn=on)
 

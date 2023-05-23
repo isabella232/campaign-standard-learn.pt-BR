@@ -1,6 +1,6 @@
 ---
 title: Configurar listas de produtos em emails transacionais
-description: Saiba quais etapas são necessárias para configurar listas de produtos em emails transacionais.
+description: Saiba quais etapas são necessárias para configurar as listas de produtos em emails transacionais.
 feature: Transactional Messaging, Email
 kt: 1728
 thumbnail: 25915
@@ -19,13 +19,13 @@ ht-degree: 4%
 
 # Configurar [!UICONTROL product listings] em emails transacionais
 
-Você pode configurar um email de redirecionamento que tenha uma lista de produtos desconhecidos ao criar o email. Esses produtos podem ser adicionados a partir da carga em tempo de execução. Por exemplo, você pode enviar automaticamente um email de abandono de carrinho listando todos os produtos que estavam no carrinho do usuário antes de abandoná-lo, com uma imagem, preço e link para cada produto.
+Você pode configurar um email de redirecionamento que tenha uma lista de produtos desconhecidos ao criar o email. Esses produtos podem ser adicionados da carga no tempo de execução. Por exemplo, você pode enviar um email de abandono de carrinho automaticamente listando todos os produtos, que estavam no carrinho do usuário antes de serem abandonados, com uma imagem, preço e link para cada produto.
 
-Os vídeos a seguir explicam as etapas necessárias para configurar [!UICONTROL product listings] em [!UICONTROL transactional emails].
+Os vídeos a seguir explicam as etapas necessárias para configurar o [!UICONTROL product listings] in [!UICONTROL transactional emails].
 
 >[!NOTE]
 >
->Esse recurso é chamado de Loop nos vídeos.
+>Esse recurso é conhecido como Loop nos vídeos.
 
 ## Etapa 1 - Criar um evento e publicá-lo
 
@@ -35,6 +35,6 @@ Os vídeos a seguir explicam as etapas necessárias para configurar [!UICONTROL 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12&learn=on)
 
-## Etapa 3 - Testar a mensagem transacional
+## Etapa 3 — teste da mensagem transacional
 
 >[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12&learn=on)

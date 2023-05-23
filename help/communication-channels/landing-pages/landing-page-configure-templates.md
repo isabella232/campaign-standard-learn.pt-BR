@@ -18,7 +18,7 @@ ht-degree: 22%
 
 ---
 
-# Configure um [!UICONTROL landing page template]
+# Configurar um [!UICONTROL landing page template]
 
 Este vídeo explica como configurar [!UICONTROL landing page] modelos.
 

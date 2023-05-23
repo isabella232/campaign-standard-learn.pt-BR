@@ -19,15 +19,15 @@ ht-degree: 8%
 
 # Transmitir uma mensagem no aplicativo
 
-Você pode transmitir uma mensagem no aplicativo, direcionando todos os usuários de um aplicativo móvel se o Adobe Campaign tem suas informações de perfil.
+É possível transmitir uma mensagem no aplicativo, direcionada a todos os usuários de um aplicativo móvel independentemente do Adobe Campaign ter suas informações de perfil.
 
 Alguns dos casos de uso pertinentes nesta categoria são:
 
-* Envie um tutorial de aplicativos móveis para inicializadores de aplicativos pela primeira vez ou
+* Envie um tutorial de aplicativo móvel para iniciadores de aplicativos pela primeira vez ou
 * Anúncios de novas versões de recursos
 
 Saiba como configurar e usar o modelo de transmissão para direcionar todos os usuários do seu aplicativo móvel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12&learn=on)
 
-*Criar uma mensagem de transmissão no aplicativo usando uma propriedade móvel SDKV5*
+*Criar uma mensagem no aplicativo de transmissão usando uma propriedade móvel SDKV5*

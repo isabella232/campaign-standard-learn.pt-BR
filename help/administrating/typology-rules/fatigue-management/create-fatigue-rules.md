@@ -1,6 +1,6 @@
 ---
 title: Criar regras de fadiga
-description: Este vídeo mostra como configurar a regra de tipologia.
+description: Este vídeo mostra como configurar uma regra de tipologia.
 feature: Fatigue Management
 kt: 3446
 thumbnail: 28450.jpg
@@ -17,8 +17,8 @@ ht-degree: 26%
 
 # Create [!UICONTROL fatigue rules]
 
-[!UICONTROL Fatigue rules] permitir que os profissionais de marketing definam regras comerciais globais entre canais que excluirão automaticamente perfis excessivamente solicitados das campanhas.
-Para criar [!UICONTROL fatigue rules], é necessário definir um número máximo de mensagens por perfil e selecionar um período no qual a regra será aplicada. Durante a preparação do delivery, os perfis são excluídos do delivery, se aplicável, dependendo do número de mensagens já enviadas a eles.
+[!UICONTROL Fatigue rules] permitem que os profissionais de marketing definam regras de negócios globais entre canais que excluirão automaticamente perfis excessivamente solicitados de campanhas.
+Para criar [!UICONTROL fatigue rules], é necessário definir um número máximo de mensagens por perfil e selecionar um período ao qual a regra será aplicada. Durante a preparação do delivery, os perfis são excluídos do delivery, se aplicável, dependendo do número de mensagens já enviadas a eles.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12&learn=on)
 

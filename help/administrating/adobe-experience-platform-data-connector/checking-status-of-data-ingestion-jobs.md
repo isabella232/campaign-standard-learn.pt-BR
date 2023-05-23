@@ -20,11 +20,11 @@ ht-degree: 23%
 
 >[!NOTE]
 >
->Esse recurso está em beta e está sujeito a atualizações e modificações frequentes sem aviso prévio.
+>Esse recurso está na versão beta e está sujeito a atualizações e modificações frequentes sem aviso prévio.
 >
->Entre em contato com o [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
+>Entre em contato com [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
 
-Saiba como verificar o status de um trabalho de assimilação de dados e se os dados foram assimilados do Adobe Campaign Standard no Adobe Experience Platform.
+Saiba como verificar o status de um trabalho de assimilação de dados e se os dados foram assimilados do Adobe Campaign Standard para o Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12&learn=on)
 

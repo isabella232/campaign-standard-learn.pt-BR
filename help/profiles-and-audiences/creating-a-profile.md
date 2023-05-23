@@ -19,6 +19,6 @@ ht-degree: 8%
 
 # Criação de um perfil
 
-Este vídeo explica como criar um perfil e adicioná-lo a um público-alvo.
+Este vídeo explica como criar um perfil e como adicioná-lo a um público-alvo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25277/?quality=12&learn=on)

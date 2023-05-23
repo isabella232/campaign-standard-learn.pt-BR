@@ -1,6 +1,6 @@
 ---
 title: Pré-visualização de email e análise anti spam
-description: "Saiba como visualizar seu email e a análise antisspam."
+description: "Saiba como pré-visualizar seu email e a análise antisspam."
 feature: Email Design
 kt: 2393
 thumbnail: 25921.jpg
@@ -19,6 +19,6 @@ ht-degree: 38%
 
 # Pré-visualização de email e análise anti spam{#preview-your-email}
 
-Este vídeo explica como visualizar seu email e a análise antisspam.
+Este vídeo explica como pré-visualizar seu email e a análise antisspam.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25921?quality=12&learn=on)

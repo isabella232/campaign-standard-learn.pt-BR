@@ -1,5 +1,5 @@
 ---
-title: Configurar a visualização móvel no Designer de email
+title: Configurar a visualização para dispositivos móveis no Designer de email
 description: "Saiba como ajustar o design responsivo de um email editando separadamente todas as opções de estilo para exibição em dispositivos móveis."
 feature: Email Design
 kt: 2423
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Configure a visualização móvel no [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# Configure a visualização para dispositivos móveis no [!UICONTROL Email Designer] {#configure-the-mobile-view}
 
 Este vídeo explica como ajustar o design responsivo de um email editando separadamente todas as opções de estilo para exibição em dispositivos móveis.
 

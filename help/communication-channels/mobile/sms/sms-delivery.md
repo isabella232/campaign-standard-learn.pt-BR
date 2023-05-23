@@ -19,8 +19,8 @@ ht-degree: 20%
 
 # Criar uma entrega de SMS{#creating-a-sms-delivery}
 
-Saiba como criar um delivery de SMS no Adobe Campaign Standard. Você também pode configurar o envio de SMS em um workflow usando a atividade de delivery de SMS .
+Saiba como criar uma entrega de SMS no Adobe Campaign Standard. Você também pode configurar o envio de SMS em um workflow usando a atividade SMS delivery.
 
-A atividade de delivery de SMS é usada para automatizar o envio de SMS. A configuração dessa atividade é a mesma da configuração do delivery one time descrita no vídeo.
+A atividade SMS delivery é usada para automatizar o envio de SMS. A configuração dessa atividade é a mesma da configuração do delivery único descrita no vídeo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25265/?quality=12&learn=on)

@@ -19,7 +19,7 @@ ht-degree: 37%
 
 # Teste AB
 
-O [!UICONTROL A/B Test] no Adobe Campaign permite definir duas a três variantes de email. Cada variante é enviada para amostras de população, a fim de determinar qual tem o melhor resultado. Uma vez determinada, a variante vencedora é então enviada para a população restante. É possível optar por variar o conteúdo, o assunto ou o remetente do email.
+A variável [!UICONTROL A/B Test] A funcionalidade no Adobe Campaign permite definir duas a três variantes de email. Cada variante é enviada para amostras de população, a fim de determinar qual tem o melhor resultado. Uma vez determinada, a variante vencedora é então enviada para a população restante. É possível optar por variar o conteúdo, o assunto ou o remetente do email.
 
 Saiba como configurar e enviar um teste A/B para testar a linha de assunto de um email.
 

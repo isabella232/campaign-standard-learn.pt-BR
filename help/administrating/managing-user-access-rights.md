@@ -1,6 +1,6 @@
 ---
 title: Gerenciamento de direitos de acesso do usuário
-description: Este vídeo explica como definir e gerenciar as permissões atribuídas a usuários diferentes no Adobe Campaign.
+description: Este vídeo explica como definir e gerenciar as permissões atribuídas a diferentes usuários no Adobe Campaign.
 feature: Access Management
 kt: 1814
 thumbnail: 24671.jpg
@@ -17,6 +17,6 @@ ht-degree: 18%
 
 # Gerenciamento de direitos de acesso do usuário
 
-Este vídeo explica como definir e gerenciar as permissões atribuídas a usuários diferentes no Adobe Campaign.
+Este vídeo explica como definir e gerenciar as permissões atribuídas a diferentes usuários no Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24671?quality=12&learn=on)

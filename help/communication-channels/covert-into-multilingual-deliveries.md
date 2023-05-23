@@ -1,6 +1,6 @@
 ---
 title: Converter um email, entrega de SMS ou template do delivery existente em multilíngue
-description: Saiba como converter um email, delivery de SMS ou um template do delivery existente em multilíngue.
+description: Saiba como converter um email, uma entrega de SMS ou um modelo de entrega existente multilíngue.
 feature: Email, SMS
 kt: 1703
 thumbnail: 23251.jpg
@@ -19,7 +19,7 @@ ht-degree: 28%
 
 # Converter um email, entrega de SMS ou template do delivery existente em multilíngue
 
-Este vídeo demonstra como um email, delivery de SMS ou um template de delivery existentes podem ser facilmente convertidos em multilíngues.
+Este vídeo demonstra como um email, um delivery de SMS ou um template do delivery existente pode ser facilmente convertido em multilíngue.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12&learn=on)
 

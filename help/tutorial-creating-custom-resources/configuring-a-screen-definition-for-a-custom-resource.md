@@ -23,4 +23,4 @@ Saiba como configurar uma definição de tela para um recurso personalizado.
 
 **Próxima etapa**
 
-[Vinculação de recursos personalizados](./linking-custom-resources.md)
+[Vincular recursos personalizados](./linking-custom-resources.md)

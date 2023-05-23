@@ -19,13 +19,13 @@ ht-degree: 43%
 
 # Gerenciar serviços e assinaturas{#managing-services-and-subscriptions}
 
-O Adobe Campaign permite criar e gerenciar informativos e comunicações entre canais por meio de um conjunto de serviços. As mensagens só podem ser enviadas aos perfis que assinaram (aceitaram) o serviço. Esses perfis são identificados usando um filtro dedicado ao criar uma mensagem.
+O Adobe Campaign permite criar e gerenciar informativos e comunicações entre canais por meio de um conjunto de serviços. As mensagens só podem ser enviadas a perfis que assinaram o serviço (aceitação). Esses perfis são identificados usando um filtro dedicado ao criar uma mensagem.
 
 Os mecanismos de assinatura podem ser configurados para permitir que os clientes assinem esses serviços, principalmente por meio de emails e landing pages.
 
 Cada serviço vem com:
 
-* Assinar (opt-in) e cancelar a subscrição (opt-out).
+* Mecanismos de assinatura (aceitação) e cancelamento de assinatura (recusa).
 * Assinar e/ou cancelar a assinatura de mecanismos de confirmação.
 * Um histórico da assinatura.
 

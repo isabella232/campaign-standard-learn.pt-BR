@@ -1,6 +1,6 @@
 ---
 title: Configurar e executar um workflow com a atividade de API externa
-description: Saiba como chamar um endpoint da REST API externa para extrair dados de personalização de um sistema de terceiros para a campanha.
+description: Saiba como chamar um endpoint da REST API externa para obter dados de personalização de um sistema de terceiros na sua campanha.
 feature: Data Management Activity
 kt: 2764
 thumbnail: 28200.jpg
@@ -19,7 +19,7 @@ ht-degree: 49%
 
 # Configure e execute um workflow com o [!UICONTROL External API activity]
 
-O [!UICONTROL External API activity] é um [!UICONTROL Data Management activity]. Ela permite que você chame um ponto de entrada REST API. A finalidade dessa atividade é obter dados de personalização de um sistema de terceiros para a campanha.
+O [!UICONTROL External API activity] é um [!UICONTROL Data Management activity]. Ela permite que você chame um ponto de entrada REST API. O objetivo dessa atividade é obter dados de personalização de um sistema de terceiros para a sua campanha.
 
 Estes são alguns exemplos de utilização:
 
@@ -36,4 +36,4 @@ Este vídeo demonstra o uso da [!UICONTROL External API activity].
 
 >[!NOTE]
 >
->A atividade se destina à busca de dados em toda a campanha, não para a recuperação de informações específicas para cada perfil, pois pode resultar na transferência de grandes quantidades de dados. Se o caso de uso exigir informações específicas do perfil, recomenda-se usar a atividade Transferir arquivo .
+>A atividade se destina à busca de dados em toda a campanha, não para a recuperação de informações específicas para cada perfil, pois pode resultar na transferência de grandes quantidades de dados. Se o caso de uso exigir informações específicas do perfil, a recomendação é usar a atividade Transferir arquivo.

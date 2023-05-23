@@ -24,8 +24,8 @@ O Adobe Campaign tem dois tipos ou perfis:
 * Perfis identificados
 * Perfis de teste
 
-Os perfis que são agrupados de acordo com um ou vários critérios comuns são chamados de **públicos**.
+Os perfis agrupados de acordo com um ou vários critérios comuns são chamados **públicos**.
 
-Este vídeo explica como navegar até perfis existentes e criar perfis e públicos no Adobe Campaign Standard.
+Este vídeo explica como navegar até perfis existentes e como criar perfis e públicos no Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12&learn=on)

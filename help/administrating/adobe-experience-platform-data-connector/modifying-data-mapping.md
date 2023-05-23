@@ -19,9 +19,9 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->No momento, esse recurso está em beta e está sujeito a atualizações e modificações frequentes sem aviso prévio.
+>No momento, esse recurso está na versão beta e está sujeito a atualizações e modificações frequentes sem aviso prévio.
 >
->Entre em contato com o [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
+>Entre em contato com [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
 
 Saiba como verificar o status e modificar o mapeamento de dados.
 

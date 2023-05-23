@@ -30,4 +30,4 @@ Este vídeo mostrará como criar e editar um fluxo de trabalho no Adobe Campaign
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12&learn=on)
 
-Consulte a documentação do produto para obter mais informações sobre [Criar um fluxo de trabalho (documentação)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
+Consulte a documentação do produto para obter mais informações sobre [Criação de um fluxo de trabalho (Documentação)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)

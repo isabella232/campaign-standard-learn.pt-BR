@@ -1,6 +1,6 @@
 ---
 title: Testar e publicar uma landing page
-description: Saiba como testar uma landing page que foi criada no Adobe Campaign Standard e como publicá-la.
+description: Saiba como testar uma página de aterrissagem que foi incorporada no Adobe Campaign Standard e como publicá-la.
 feature: Landing Pages
 kt: 1813
 thumbnail: 24992.jpg

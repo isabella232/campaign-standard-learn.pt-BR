@@ -1,6 +1,6 @@
 ---
-title: Atividade de sinal externo - Chame um fluxo de trabalho com parâmetros
-description: Saiba como iniciar um fluxo de trabalho a partir de outro para oferecer suporte a jornadas de clientes mais complexas, além de monitorar e reagir melhor aos problemas.
+title: Atividade de sinal externo - Chama um workflow com parâmetros
+description: Saiba como iniciar um workflow a partir de outro para oferecer suporte a jornadas mais complexas do cliente e, ao mesmo tempo, ser capaz de monitorar e reagir melhor aos problemas.
 feature: Execution Activity
 kt: 2750
 thumbnail: 27249
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # [!UICONTROL External Signal activity] - Chamar um fluxo de trabalho com parâmetros
 
-O [!UICONTROL External Signal activity] é usada para organizar e orquestrar diferentes processos que fazem parte da mesma jornada do cliente em workflows diferentes. Essa atividade pode iniciar um workflow a partir de outro. O [!UICONTROL External Signal activity] O pode chamar um workflow e enviar parâmetros, como um nome de público-alvo para o target, um nome de arquivo a ser importado ou uma parte do conteúdo da mensagem, de um workflow para outro. Também pode chamar uma REST API para integrar com sistemas externos, como um sistema de gerenciamento de conteúdo. Com o **Teste** , os testes podem ser executados com essa funcionalidade.
+A variável [!UICONTROL External Signal activity] O é usado para organizar e orquestrar diferentes processos que fazem parte da mesma jornada do cliente em workflows diferentes. Esta atividade pode iniciar um workflow a partir de outro. A variável [!UICONTROL External Signal activity] O pode chamar um fluxo de trabalho e transmitir parâmetros, como um nome de público-alvo para o target, um nome de arquivo para importar ou uma parte do conteúdo da mensagem, de um fluxo de trabalho para outro. Ele também pode chamar uma API REST para integrar a sistemas externos, como um sistema de gerenciamento de conteúdo. Com o **Teste** atividade, testes podem ser executados nessa funcionalidade.
 
 Saiba como configurar [!UICONTROL External Signal activity] para receber parâmetros** de um sistema externo, personalize um workflow com parâmetros externos e configure uma atividade final para chamar um workflow com os parâmetros externos
 

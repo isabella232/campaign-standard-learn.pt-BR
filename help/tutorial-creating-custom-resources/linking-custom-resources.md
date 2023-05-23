@@ -1,5 +1,5 @@
 ---
-title: Vinculação de recursos personalizados
+title: Vincular recursos personalizados
 description: Saiba como vincular dois recursos personalizados.
 feature: Data Model
 kt: 3002
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 ---
 
-# Vinculação de recursos personalizados
+# Vincular recursos personalizados
 
 Saiba como vincular dois recursos personalizados.
 

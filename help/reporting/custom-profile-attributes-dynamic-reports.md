@@ -1,5 +1,5 @@
 ---
-title: Criar atributos de perfil personalizados com base em relatório
+title: Criação de atributos de perfil personalizados com base em relatórios
 description: Saiba como criar um relatório com base em atributos de perfil personalizados.
 feature: Reporting
 kt: 1444
@@ -19,7 +19,7 @@ ht-degree: 13%
 
 # Criar relatório com base em atributos personalizados de perfil
 
-Adobe Campaign [!UICONTROL Dynamic Reports] O é um ambiente de forma livre flexível, onde você pode explorar dados incluindo atributos de perfil personalizados. Ele permite combinar dimensões, métricas e intervalo de tempo em qualquer combinação, com detalhamentos e comparações ilimitados.
+Adobe Campaign [!UICONTROL Dynamic Reports] O é um ambiente de forma livre flexível, em que você pode explorar dados incluindo atributos de perfil personalizados. Ele permite combinar dimensões, métricas e intervalo de tempo em qualquer combinação, com detalhamentos e comparações ilimitados.
 
 Este vídeo explica como criar um relatório com base em atributos de perfil personalizados.
 

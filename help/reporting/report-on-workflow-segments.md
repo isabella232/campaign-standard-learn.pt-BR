@@ -1,6 +1,6 @@
 ---
 title: Criar um relatório com base em segmentos de fluxo de trabalho
-description: Saiba como definir segmentos em seu fluxo de trabalho e como defini-los em relatórios dinâmicos.
+description: Saiba como definir segmentos no seu fluxo de trabalho e como convertê-los em relatórios dinâmicos.
 feature: Reporting
 kt: 3252
 thumbnail: 28262.jpg
@@ -19,10 +19,10 @@ ht-degree: 16%
 
 # Criar um relatório com base em segmentos de fluxo de trabalho
 
-Depois de criar um workflow e filtrar sua população em diferentes públicos-alvo, você pode medir a eficiência de suas campanhas de marketing com base nos segmentos definidos nesse workflow de direcionamento.
+Depois de criar um fluxo de trabalho e filtrar sua população em públicos-alvo direcionados diferentes, você pode medir a eficiência de suas campanhas de marketing com base nos segmentos definidos nesse fluxo de trabalho direcionado.
 
-Saiba como definir segmentos em seu fluxo de trabalho e como defini-los em relatórios dinâmicos.
+Saiba como definir segmentos no seu fluxo de trabalho e como convertê-los em relatórios dinâmicos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12&learn=on)
 
-Para obter mais informações, consulte o [documentação](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+Para obter mais informações, consulte [documentação](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)

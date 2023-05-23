@@ -1,6 +1,6 @@
 ---
 title: Alterar a targeting dimension
-description: Este vídeo explica como alterar o targeting dimension de um delivery para um Público-alvo da plataforma fora da tabela de perfil principal no Adobe Campaign Standard.
+description: Este vídeo explica como alterar a dimensão de direcionamento de uma entrega para um Público-alvo da plataforma fora da tabela de perfil principal no Adobe Campaign Standard.
 feature: People Core Service Integration
 kt: 3739
 thumbnail: 30151.jpg
@@ -21,10 +21,10 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->Esse recurso está em beta e está sujeito a atualizações e modificações frequentes sem aviso prévio. [!UICONTROL Audience Destinations] O é baseado no Adobe Experience Platform e requer uma configuração específica.
+>Esse recurso está na versão beta e está sujeito a atualizações e modificações frequentes sem aviso prévio. [!UICONTROL Audience Destinations] é baseado no Adobe Experience Platform e requer uma configuração específica.
 >
->Entre em contato com o [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
+>Entre em contato com [!UICONTROL Adobe Customer Support] se você planeja implementar esse recurso.
 
-Este vídeo explica como alterar a targeting dimension de um delivery para um delivery [!UICONTROL Platform Audience] fora da tabela de perfil principal no Adobe Campaign Standard.
+Este vídeo explica como alterar a dimensão de direcionamento de uma entrega para uma [!UICONTROL Platform Audience] fora da tabela de perfil principal no Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12&learn=on)

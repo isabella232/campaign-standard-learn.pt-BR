@@ -19,16 +19,16 @@ ht-degree: 7%
 
 # Trabalhar com conteúdo existente{#working-with-existing-content}
 
-## Importar conteúdo de um URL
+## Importação de conteúdo de um URL
 
 Saiba como recuperar seu conteúdo criativo de um site e carregá-lo no Designer de email.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12&learn=on)
 
-## Compatibilidade do conteúdo HTML existente {#making-existing-html-content-compatible}
+## Tornar o conteúdo de HTML existente compatível {#making-existing-html-content-compatible}
 
-O Designer de email requer marcação específica, que deve ser aplicada para tornar o conteúdo de HTML padrão carregado no Adobe Campaign totalmente compatível e editável.
+O Designer de email requer marcações específicas, que devem ser aplicadas para tornar o conteúdo de HTML padrão carregado no Adobe Campaign totalmente compatível e editável.
 
-Você pode encontrar a documentação detalhada no link a seguir:
+Você pode encontrar a documentação detalhada no seguinte link:
 
-[Conversão de conteúdo do HTML em um modelo do Designer de email](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[Conversão de conteúdo de HTML em um modelo do Designer de email](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)

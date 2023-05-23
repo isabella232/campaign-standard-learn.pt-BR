@@ -10,131 +10,131 @@ ht-degree: 3%
 
 ---
 
-# ROI de email e práticas recomendadas para reengajamento do assinante
+# ROI do email e práticas recomendadas para reengajamento do assinante
 
-O marketing por email é uma ferramenta valiosa para desenvolver a fidelidade da marca e aumentar as vendas. No entanto, com o grande número de emails que as pessoas recebem todos os dias, sem falar no outro conteúdo digital que estão consumindo, é importante que seu conteúdo se destaque na multidão. E é importante que ele atenda às necessidades exclusivas de seu público-alvo.
+O marketing por email é uma ferramenta valiosa para desenvolver a fidelidade à marca e aumentar as vendas. No entanto, com o vasto número de emails que as pessoas recebem todos os dias, sem mencionar os outros conteúdos digitais que estão consumindo, é importante que seu conteúdo se destaque entre as pessoas. E é importante que ele atenda às necessidades exclusivas do seu público-alvo.
 
-Neste artigo, revisamos quatro estratégias para melhorar o engajamento dos assinantes e o sucesso geral de suas campanhas de email. Também discutimos a fadiga de email, como identificá-la em seus públicos-alvo e discutimos etapas simples que podem ser tomadas para melhorar a experiência dos assinantes.
+Neste artigo, analisamos quatro estratégias para melhorar o engajamento dos assinantes e o sucesso geral de suas campanhas de email. Também discutimos sobre fadiga do email, como identificá-la em seus públicos e as etapas simples que você pode seguir para melhorar a experiência dos assinantes.
 
 ## O que é a capacidade de entrega?
 
-Pode haver confusão entre os termos delivery e deliverability. A capacidade de entrega é uma medida de sucesso para campanhas por email; sejam entregues à caixa de entrada do assinante, pasta de lixo eletrônico ou bloqueados pelo ISP. Se olhássemos para ela como uma equação, seria a ação de enviar um email + a capacidade de chegar à caixa de entrada + a capacidade de fazê-lo continuamente.
+Pode haver confusão entre os termos delivery e deliverability. A capacidade de entrega é uma medida de sucesso para campanhas de email, sejam elas entregues na caixa de entrada do assinante, na pasta de lixo eletrônico ou bloqueadas pelo ISP. Se fôssemos vê-la como uma equação, seria a ação de enviar um email + a capacidade de chegar à caixa de entrada + a capacidade de fazê-lo continuamente.
 
-Como sua organização está rastreando a capacidade de delivery de suas campanhas de email e você sabe onde seus emails estão acabando?
+Como sua organização está rastreando a capacidade de entrega de suas campanhas de email e você sabe onde seus emails estão acabando?
 
 ## Filtragem de spam
 
-Antes de entrar na estratégia, é importante estar ciente dos problemas mais comuns de filtros de spam que podem afetar os resultados da campanha. Se você continuar enviando emails para assinantes inativos que não estão abrindo seus emails por mais de um ano, eis algumas coisas que você pode estar executando:
+Antes de mergulhar na estratégia, é importante estar ciente dos problemas mais comuns do filtro de spam que podem afetar os resultados da campanha. Se você continuar enviando emails para assinantes inativos que não abrem seus emails, por mais de um ano, veja algumas coisas que você pode estar executando:
 
-* listas de bloqueios e listas de permissões
+* INCLUI NA LISTA DE BLOQUEIOS e INCLUI NA LISTA DE PERMISSÕES
 * Filtros de conteúdo
-* Id e reputação do domínio
+* Reputação de IP e domínio
 * Autenticação
 * Reclamações
 * Ações do usuário
 
-## Maximizar o ROI do seu email
+## Maximize o ROI do seu email
 
-Você sabia que em apenas um minuto na internet, há mais de um milhão de visualizações de vídeo, dois milhões de consultas de pesquisa do Google, seis milhões de visualizações do Facebook e 200 milhões de emails enviados? Com tanta coisa acontecendo, é importante garantir que seu conteúdo não se perca no barulho. Particularmente se você estiver criando uma campanha durante uma temporada de festas, é ainda mais desafiador colocar seus emails na frente de clientes em potencial e de retorno.
+Você sabia que em apenas um minuto na internet, há mais de um milhão de visualizações de vídeo, dois milhões de consultas de pesquisa do Google, seis milhões de visualizações do Facebook e 200 milhões de emails enviados? Com tanta coisa acontecendo, é importante garantir que seu conteúdo não se perca com o ruído. Particularmente se você está criando uma campanha durante uma temporada de festas, é ainda mais desafiador receber seus emails na frente de clientes em potencial e recorrentes.
 
-De novembro até o início de janeiro, o volume de emails de marketing enviados aumenta significativamente. Os provedores de caixas de correio (ISPs) terão muito mais tráfego vindo para seus servidores do que durante o resto do ano e, como resultado, estarão ainda mais vigilantes em relação à proteção de seus clientes (seus assinantes).
+De novembro até o início de janeiro, o volume de emails de marketing enviados aumenta significativamente. Os provedores de caixa de entrada (ISPs) terão muito mais tráfego chegando aos seus servidores do que durante o resto do ano e, como resultado, estarão ainda mais atentos à proteção de seus clientes (seus assinantes).
 
-Aqui estão quatro estratégias principais para maximizar seu ROI:
+Estas são quatro estratégias principais para maximizar seu ROI:
 
-### 1. Prepare seu calendário de conteúdo
+### 1. Preparar seu calendário de conteúdo
 
-* Os ISPs rastreiam o envio médio de um endereço IP, portanto, distribuem o volume o máximo possível para evitar a criação de um sinalizador vermelho e o envio para spam
-* Configure seu calendário de conteúdo antecipadamente e prepare seus autores de conteúdo para um aumento no volume de envio
-* Pense em como agendar seus emails e evitar um grande pico no volume de envio. Considere algumas táticas, como:
-   * Não enviando uma explosão ao mesmo tempo, mas ao longo de alguns dias
-   * Planejar estrategicamente por volta das horas do dia em que as pessoas estão recebendo sobrecarga de email, como 8 às 10 horas
-   * Se você não pode espalhá-lo por dias, tente por horas
+* Os ISPs rastreiam o seu envio médio a partir de um endereço IP, para distribuir o volume o máximo possível e evitar a criação de um sinalizador vermelho e o envio para spam
+* Configure seu calendário de conteúdo com antecedência e prepare seus autores de conteúdo para um aumento no volume de envio
+* Pense em como você agenda seus emails e evita um grande pico no volume de envio. Considere algumas táticas, como:
+   * Não enviando uma explosão ao mesmo tempo, mas sim em alguns dias
+   * Planeje estrategicamente por volta dos horários do dia em que as pessoas estão recebendo sobrecarga de email, como das 8h às 10h
+   * Se você não conseguir espalhá-lo por dias, tente por horas
 
 ### 2. Infraestrutura
 
-* Certifique-se de que a autenticação de email está configurada corretamente, fazendo um teste com seu próprio email
-* Familiarize-se com o tratamento de rejeição e verifique o desempenho em todos os ISPs
-   * Existem possíveis problemas ou blocos com um ISP específico?
-   * Conheça seus problemas antes de começar a enviar alto volume para evitar surpresas desagradáveis e mau desempenho da campanha
+* Verifique se a autenticação de email está configurada corretamente fazendo um teste com seu próprio email
+* Familiarize-se com o Manuseio de rejeição e verifique o desempenho em seus ISPs
+   * Há possíveis problemas ou blocos com um provedor de serviços específico?
+   * Conheça seus problemas antes de começar a enviar grandes volumes para evitar surpresas desagradáveis e um desempenho insatisfatório da campanha
 
 ### 3. Dados
 
 * Identifique todas as técnicas de aquisição, especialmente seus processos de inscrição e o GDPR.
-* Seja o mais transparente possível com seus assinantes quando solicitar seu endereço de email:
-   * Que conteúdo você enviará (boletim informativo, promoções, eventos)
+* Seja o mais transparente possível com seus assinantes quando você solicitar o endereço de email deles:
+   * Qual conteúdo você enviará (informativo, promoções, eventos)
    * Quantos emails você enviará (diariamente, semanalmente, mensalmente)
 
-* Envie um email de boas-vindas para novos assinantes:
-   * Os emails de boas-vindas ajudam a garantir que os assinantes não sejam ocultados por novo conteúdo e não cancelem a assinatura ou marcem como spam.
-   * Emails de boas-vindas também são um bom indicador de desempenho. Se eles não forem entregues ou interagidos com êxito, você sabe que é um sinal de mau desempenho ou má coleta de dados.
+* Enviar um email de boas-vindas para novos assinantes:
+   * Os emails de boas-vindas ajudam a garantir que os assinantes não sejam deixados de lado pelo novo conteúdo e não cancelem a inscrição ou marquem como spam.
+   * Emails de boas-vindas também são um bom indicador de desempenho. Se elas não estiverem sendo entregues ou interagidas com sucesso, você sabe que isso é um sinal de desempenho insatisfatório ou coleta de dados inadequada.
 
-### 4. Gerenciamento de emails
+### 4. Gerenciamento de email
 
 * Segmente seus assinantes e monitore onde eles estão no ciclo de vida da marca
-* Usar estratégias de personalização de conteúdo para melhorar a relevância dos seus emails
+* Use estratégias de personalização de conteúdo para melhorar a relevância dos emails
 
-## Como aumentar a participação no email e resolver a fadiga do email
+## Como aumentar o engajamento no email e solucionar a fadiga do email
 
-A fadiga de email ocorre quando seus assinantes se cansam de receber suas mensagens de email. A fadiga do email pode ocorrer por vários motivos; talvez eles estejam na sua lista por muito tempo e estejam cansados de ouvir de você ou seu conteúdo mais recente não seja mais relevante. Cabe a você e a sua equipe identificar quais clientes estão enfrentando fadiga de email e por quê. Então, quais são os sinais a serem observados?
+A fadiga do email ocorre quando os assinantes se cansam de receber mensagens de email. A fadiga do email pode ocorrer por vários motivos: talvez eles estejam na sua lista há muito tempo e estejam cansados de ouvir você ou o seu conteúdo mais recente não seja mais relevante. Cabe a você e sua equipe identificar quais clientes estão enfrentando fadiga de email e por quê. Então, quais são os sinais a serem observados?
 
-As métricas principais para monitorar incluem:
+As principais métricas a serem monitoradas incluem:
 
 * Taxas de abertura mais baixas
-* Taxas de clique mais baixas
-* Taxas de cancelamento de subscrição mais altas
+* Taxas de cliques mais baixas
+* Taxas de cancelamento de inscrição mais altas
 
-Infelizmente, a maioria dos assinantes que experimentam fadiga de email não facilitará para você. Eles não cancelarão sua assinatura, um sinalizador claro de que não estão satisfeitos com o conteúdo. Muitos simplesmente excluem seus emails ou os ignoram, de modo que você ainda pode ver aberturas de assinantes que não estão envolvidos. A conclusão é que se você não reagir a mudanças de hábitos de seus assinantes, isso pode prejudicar sua reputação do remetente, o que, em última análise, prejudica seu sucesso geral.
+Infelizmente, a maioria dos assinantes que enfrenta fadiga do email não vai facilitar para você. Eles mesmos não cancelarão a inscrição, indicando claramente que não estão satisfeitos com o conteúdo. Muitos simplesmente excluem seus emails ou os ignoram, de modo que você ainda pode ver aberturas de assinantes que não estão envolvidos. O resultado final é que se você não reagir à mudança de hábitos dos assinantes, isso pode prejudicar a reputação do remetente, o que, em última análise, prejudica o sucesso geral.
 
-Pensando nisso, veja algumas práticas recomendadas para manter seus assinantes envolvidos e antecipar o tipo de conteúdo que desejam receber, a fim de evitar cancelamentos de assinaturas e públicos inativos.
+Com isso em mente, veja algumas práticas recomendadas para manter os assinantes envolvidos e antecipar o tipo de conteúdo que desejam receber, a fim de evitar cancelamentos de assinatura e públicos inativos.
 
 ### 1. Criar uma estratégia para a frequência de email
 
-Infelizmente, não há resposta certa sobre quantos emails enviar por semana. Para encontrar o número correto, considere os seguintes itens:
+Infelizmente, não há resposta certa sobre quantos emails devem ser enviados por semana. Para localizar o número correto, considere os seguintes itens:
 
-* Onde está seu cliente no ciclo de vida do cliente?
-* Como eles estão envolvidos com seus emails?
-   * Email de abandono de cesta vs informativo
-   * Reativação de email vs lançamento de venda
-   * Email de abandono da cesta vs lançamento de novo produto
-* Qual é a capacidade do cliente de receber conteúdo de sua marca?
-* Quais são as preferências sazonais de seu cliente?
+* Onde está o ciclo de vida do seu cliente?
+* Eles estão engajados com seus emails?
+   * Email de abandono de cesta vs. informativo
+   * Email de reativação vs. lançamento de venda
+   * Email de abandono de cesta versus lançamento de novo produto
+* Qual é a capacidade do seu cliente para receber conteúdo da sua marca?
+* Quais são as preferências sazonais do seu cliente?
 
-### 2. Identificar o status dos assinantes
+### 2. Identifique o status dos assinantes
 
-O status dos assinantes (ativo, lapidado ou inativo) depende da frequência com que você está enviando conteúdo para eles. A partir daí, você pode determinar o grau de engajamento.
+O status dos assinantes (ativo, expirado ou inativo) depende da frequência com que você está enviando o conteúdo. A partir daí, você pode determinar o quanto eles estão envolvidos.
 
 Esta é uma tabela simples para ajudá-lo durante sua auditoria:
 
 ![status do assinante](/help/assets/subscriber-status.png)
 
-Por exemplo, se você estiver enviando emails para clientes diariamente, eles devem ter interagido com um desses emails no último mês para serem considerados ativos e envolvidos. Por outro lado, se você estiver enviando um email para clientes por mês e eles não tiverem interagido dentro de 9 a 14 meses, eles poderão ser considerados inativos.
+Por exemplo, se você estiver enviando emails para clientes diariamente, eles devem ter interagido com um desses emails no último mês para serem considerados ativos e envolvidos. Por outro lado, se você estiver enviando emails para clientes mensalmente e eles não tiverem interagido dentro de 9 a 14 meses, eles poderão ser considerados inativos.
 
-Para usuários com lapsos e inativos, considere analisar a data em que o usuário se inscreveu para ajudar a determinar seu nível de engajamento. Por exemplo, eles se inscreveram na data de uma competição ou outra campanha de marketing? Eles se inscreveram em um pop-up de site com uma oferta de desconto? Depois de identificar seus usuários que sofreram lapso e inativos, é importante alterar sua estratégia para tentar melhorar sua satisfação e transformá-los em um assinante ativo.
+Para usuários obsoletos e inativos, considere consultar a data em que o usuário se inscreveu para ajudar a determinar seu nível de engajamento. Por exemplo, eles se inscreveram na data de uma competição ou outra campanha de marketing? Eles se inscreveram em um pop-up de site com uma oferta de desconto? Depois de identificar os usuários lapsados e inativos, é importante alterar a estratégia para tentar melhorar a satisfação deles e transformá-los de volta em um assinante ativo.
 
 ### 3. Implementar estratégias de reengajamento
 
 Divida esse processo em duas áreas de foco: a) padrões de envio de email e b) o conteúdo criativo dos próprios emails. Veja a seguir cada uma dessas áreas com mais detalhes:
 
-**Atualizar seus padrões e programações de envio**
+**Atualizar os padrões e agendamentos de envio**
 
-* **Comece lentamente** - É uma maratona e não uma espingarda. Não é uma solução que você possa implementar em um dia. Considere começar com uma pequena porcentagem de seu público-alvo, de 4 a 5% ou mais, e monitore cuidadosamente o desempenho.
+* **Iniciar lentamente** - É uma maratona, não um sprint. Não é uma solução que você pode implementar em um dia. Considere começar com uma pequena porcentagem do público-alvo, cerca de 4-5% e monitore cuidadosamente o desempenho.
 
-* **Considere a reputação da marca** - Certifique-se de que o tráfego de email para segmentos inativos não esteja causando problemas de reputação.
+* **Considerar a reputação da marca** - Garantir que o tráfego de email para segmentos inativos não esteja causando problemas de reputação.
 
-* **Automatizar workflows** - Mantenha as suas listas limpas e arrumadas.
+* **Automatizar workflows** - Mantenha suas listas limpas e arrumadas.
 
-* **Regras de pressão** - Exclua os assinantes do programa de reengajamento de receber outros emails.
+* **Regras de pressão** - Impeça que os assinantes no programa de reengajamento recebam outros emails.
 
-**Criativo e conteúdo**
+**Criação e conteúdo**
 
-* **Oferecer uma aceitação/rejeição clara** - Facilite para os usuários decidirem rapidamente se querem ouvir de você. Você pode ser recompensado com uma aceitação em atender às suas necessidades primeiro, em vez de se concentrar nas necessidades de negócios para o engajamento.
+* **Oferecer uma opção clara de aceitação/recusa** - Facilite para que os usuários decidam rapidamente se desejam receber notícias suas. Você pode ser recompensado com a opção de aceitação por atender primeiro às necessidades deles, em vez de se concentrar nas necessidades comerciais de envolvimento.
 
-* **Criar um centro de preferências** - Essa é uma oportunidade de fornecer controle adicional aos assinantes, permitindo que eles selecionem de diferentes conteúdos de email, como boletins informativos, ofertas promocionais, eventos e assim por diante, bem como diferentes regularidade. Lembre-se de que, se você decidir oferecer isso, pode acompanhar e segmentar adequadamente seu público-alvo para atender a essas preferências.
+* **Criar um Centro de preferências** - É uma chance de dar controle adicional aos assinantes, permitindo que eles selecionem entre diferentes conteúdos de email, como boletins informativos, ofertas promocionais, eventos e assim por diante, bem como diferentes regularidades. Lembre-se de que, se decidir oferecer isso, você pode acompanhar e segmentar corretamente o público-alvo para atender a essas preferências.
 
-* **Linhas de assunto fortes** - Certifique-se de que eles se destacam do conteúdo de outra marca
+* **Linhas de assunto fortes** - Destaque-se do conteúdo de outras marcas
 
-* **Teste e aprenda** - um bom plano de testes é importante para garantir que os seus esforços estejam a produzir o efeito desejado. Saiba o que está funcionando e o que não está e repita de acordo.
+* **Testar e aprender** - um bom plano de testes é importante para garantir que seus esforços estejam tendo o efeito desejado. Saiba o que está funcionando e o que não está funcionando e iterar de acordo.
 
-Para obter um resumo deste artigo e uma demonstração ao vivo da implementação de estratégias de reengajamento, assista a nossa [webinário](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+Para obter um resumo deste artigo e uma demonstração ao vivo da implementação de estratégias de reengajamento, assista ao nosso [webinário](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Saiba mais sobre estratégia e liderança de pensamento no [Sucesso do cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) cubo.
+Saiba mais sobre estratégia e liderança de pensamento na [Sucesso do cliente](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) hub.

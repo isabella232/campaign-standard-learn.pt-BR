@@ -1,6 +1,6 @@
 ---
 title: Criar e editar uma landing page
-description: "Saiba como criar, editar e testar landing pages no Adobe Campaign Standard."
+description: "Saiba como criar, editar e testar páginas de aterrissagem no Adobe Campaign Standard."
 feature: Landing Pages
 kt: 1808
 thumbnail: 24093.jpg
@@ -19,7 +19,7 @@ ht-degree: 16%
 
 # Criar e editar uma landing page {#create-and-edit-a-landing-page}
 
-O Adobe Campaign permite criar landing pages online que podem ser usadas para capturar informações de seus públicos-alvo, oferecer assinaturas de um serviço, exibir dados e expandir seu banco de dados. As landing pages também podem ser usadas para adquirir ou atualizar perfis existentes.
+O Adobe Campaign permite criar páginas de aterrissagem que são formulários online que podem ser usados para capturar informações em seus públicos, oferecer assinaturas para um serviço, exibir dados e expandir seu banco de dados. As landing pages também podem ser usadas para adquirir ou atualizar perfis existentes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12&learn=on)
 

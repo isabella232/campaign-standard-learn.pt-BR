@@ -17,18 +17,18 @@ ht-degree: 0%
 
 ---
 
-# Crie um [!UICONTROL Direct Mail] {#create-a-direct-mail}
+# Criar um [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-O [!UICONTROL Direct Mail] O canal permite extrair uma lista segmentada de recipients a serem enviados para uma agência ou carregados em um servidor SFTP.
+A variável [!UICONTROL Direct Mail] channel permite extrair uma lista segmentada de recipients a serem enviados a uma agência ou carregados em um servidor SFTP.
 
-Este vídeo explica como configurar um [!UICONTROL Direct Mail] e quais configurações são necessárias para adicionar um perfil a um [!UICONTROL Direct Mail] delivery.
+Este vídeo explica como configurar uma [!UICONTROL Direct Mail] e quais configurações são necessárias para poder adicionar um perfil a um [!UICONTROL Direct Mail] entrega.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12&learn=on)
 
-## Crie um [!UICONTROL Direct Mail] em um fluxo de trabalho
+## Criar um [!UICONTROL Direct Mail] em um workflow
 
-O canal está disponível na página inicial e na visualização do fluxo de trabalho para definir estratégias de marketing coesas e entre canais. O seguinte exemplo de fluxo de trabalho inclui o [!UICONTROL Direct Mail activity].
+O canal está disponível na página inicial e na visualização do fluxo de trabalho para definir estratégias de marketing coesas e entre canais. O exemplo de fluxo de trabalho a seguir inclui [!UICONTROL Direct Mail activity].
 
 ![Imagem do fluxo de trabalho](/help/assets/direct_mail_examplewf.png)
 
-Consulte a documentação do produto para saber mais [sobre Correspondência direta](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+Consulte a documentação do produto para saber mais [sobre correspondência direta](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)

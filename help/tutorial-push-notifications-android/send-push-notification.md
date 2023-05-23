@@ -14,21 +14,21 @@ ht-degree: 3%
 
 ---
 
-# Parte 6 - Enviar [!UICONTROL Push Notification] para testar seu trabalho
+# Parte 6 - Envio [!UICONTROL Push Notification] para testar seu trabalho
 
 Agora precisamos criar e enviar um [!UICONTROL Push Notification] usando o Adobe Campaign. Para criar uma notificação por push simples para fins de teste, siga as etapas a seguir.
 
 * Faça logon na sua instância do Adobe Campaign Standard
 * Clique em **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
-* Selecionar **[!UICONTROL Send push to app subscribers(mobileApp)]** e clique em Avançar
-* Selecione o aplicativo móvel apropriado no **[!UICONTROL Associate a Mobile App to a delivery]** e clique em **[!UICONTROL Next]**
-* Clique no rótulo da contagem e ele deverá retornar um valor maior que 0. Clique em **[!UICONTROL Next]**
+* Selecionar **[!UICONTROL Send push to app subscribers(mobileApp)]** e clique em Próximo
+* Selecione o aplicativo móvel apropriado na **[!UICONTROL Associate a Mobile App to a delivery]** e clique em **[!UICONTROL Next]**
+* Clique no rótulo de contagem e ele deve retornar um valor maior que 0. Clique em **[!UICONTROL Next]**
 * Fornecer uma [!UICONTROL Message title] e [!UICONTROL Message body] e clique em **[!UICONTROL Create]**.
-* Clique em **[!UICONTROL Prepare]**. Uma vez concluída a preparação, clique em **[!UICONTROL Confirm]** para enviar a mensagem.
+* Clique em **[!UICONTROL Prepare]**. Quando a preparação for concluída, clique em **[!UICONTROL Confirm]** para enviar a mensagem.
 
-Se tudo correr bem, você verá a notificação em seu aplicativo Android™ em execução no emulador
+Se tudo correr bem, você deverá ver uma notificação em seu aplicativo Android™ em execução no emulador
 
 ## Recursos adicionais
 
 * [Documentação detalhada sobre notificações por push](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
-* [Criação de uma notificação por push (vídeo)](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
+* [Criar uma notificação por push (Vídeo)](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
