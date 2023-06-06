@@ -1,6 +1,6 @@
 ---
 title: Configurar eventos
-description: "Entenda como os eventos definem qual ação iniciada pelo usuário aciona a exibição de uma mensagem no aplicativo. "
+description: Entenda qual ação iniciada pelo usuário aciona uma mensagem no aplicativo e saiba como configurar esses eventos.
 feature: In App
 kt: 2548
 thumbnail: 26245.jpg
@@ -10,54 +10,15 @@ team: TM
 exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 56b973566e9dee412aeee1412fe6271537fc1295
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 2%
+source-wordcount: '35'
+ht-degree: 8%
 
 ---
 
 # Configurar [!UICONTROL Events] {#configuring-events}
 
-Ao configurar um [!UICONTROL In-App] você deve definir qual ação iniciada pelo usuário aciona a mensagem a ser exibida. Essas ações são chamadas de [!UICONTROL events]. Três categorias [!UICONTROL events] estão disponíveis: [!UICONTROL Mobile Application events], [!UICONTROL Life-Cycle events], e [!UICONTROL Analytics events].
-
-## [!UICONTROL Mobile Application Events] {#mobile-application-events}
-
-[!UICONTROL Mobile Application events] são [!UICONTROL custom events] que são implementadas no aplicativo móvel.
-
-São exemplos:
-
-* Um cliente visualizou um item
-* Um cliente adiciona um item ao carrinho
-* Abandono do carrinho
-* Um cliente comprou algo
-
-Você deve configurar estes [!UICONTROL events] no Adobe Campaign. O vídeo a seguir descreve como fazer isso.
+Entenda qual ação iniciada pelo usuário aciona uma mensagem no aplicativo e saiba como configurar esses eventos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12&learn=on)
-
-## [!UICONTROL Life-Cycle events] {#life-cycle-events}
-
-[!UICONTROL Lifecycle events] são prontos para uso [!UICONTROL events]. As seguintes [!UICONTROL events] estão disponíveis:
-
-* [!UICONTROL launched]
-* [!UICONTROL upgraded]
-* [!UICONTROL crashed]
-
-Um exemplo de caso de uso pode ser uma mensagem apresentando novos recursos após uma atualização ou uma promoção de evento.
-
->[!NOTE]
->
->A variável [!UICONTROL Lifecycle module] deve ser configurado no aplicativo móvel. Clique aqui para obter mais informações sobre [Como adicionar um ciclo de vida ao seu aplicativo](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
-
-## [!UICONTROL Analytics Events] {#analytics-events}
-
-As três categorias a seguir têm suporte, dependendo do que é instrumentado no aplicativo móvel:
-
-* Adobe Analytics
-* [!UICONTROL Context data]
-* [!UICONTROL View state]
-
->[!NOTE]
->
->[!UICONTROL Analytics events] exigir uma licença do Adobe Analytics. Depois que você tiver o [!DNL Analytics] extensão configurada e tiver adicionado o Analytics ao seu aplicativo, esses eventos ficarão disponíveis no [!UICONTROL In-App] no ACS.
