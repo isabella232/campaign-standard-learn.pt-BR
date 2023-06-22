@@ -2,14 +2,14 @@
 title: Modificação de recursos personalizados ao configurar o Adobe Campaign Standard para solicitações de privacidade
 description: Ao configurar o Adobe Campaign Standard para lidar com solicitações de privacidade, é necessário garantir que todos os dados personalizados vinculados a um perfil sejam excluídos quando o perfil for excluído. Este vídeo explica como modificar seus recursos personalizados para atender a esse requisito.
 feature: Privacy Tools
-kt: 1243
+jira: KT-1243
 thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
 source-wordcount: '198'
 ht-degree: 100%
 
