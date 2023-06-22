@@ -2,7 +2,7 @@
 title: Atividade de sinal externo - Chama um workflow com parâmetros
 description: Saiba como iniciar um workflow a partir de outro para oferecer suporte a jornadas mais complexas do cliente e, ao mesmo tempo, ser capaz de monitorar e reagir melhor aos problemas.
 feature: Execution Activity
-kt: 2750
+jira: KT-2750
 thumbnail: 27249
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: User, Developer
 level: Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%

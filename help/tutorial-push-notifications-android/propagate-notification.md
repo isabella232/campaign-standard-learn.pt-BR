@@ -2,12 +2,12 @@
 title: Etapa 5 – Propagar notificações
 description: Nesta parte, propagaremos a mensagem recebida do Adobe Campaign usando o Android Notification Manager.Firebase
 feature: Push
-kt: 4829
+jira: KT-4829
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 2%

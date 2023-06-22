@@ -2,7 +2,7 @@
 title: Adicionar um grupo de controle a um delivery
 description: Saiba como definir um grupo de controle para o seu delivery e como extrair os perfis atribuídos ao grupo de controle após o envio do delivery.
 feature: Control Groups
-kt: 5060
+jira: KT-5060
 thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 exl-id: 7d799136-a308-422d-8a97-d3ed8fed0c73
 role: User
 level: Intermediate, Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # Adicionar um [!UICONTROL control group] a um [!UICONTROL delivery]
 
-Trabalhar com o [!UICONTROL control groups] permite medir o impacto do seu [!UICONTROL delivery ] e otimizar sua campanha de marketing.
+Trabalhar com o [!UICONTROL control groups] permite medir o impacto do seu [!UICONTROL delivery] e otimizar sua campanha de marketing.
 
 O [!DNL Adobe Campaign Standard] permite criar um [!UICONTROL control group], que pode ser excluído do público-alvo, aleatoriamente ou de acordo com critérios específicos. O comportamento do [!UICONTROL control group] pode servir como referência para comparar o comportamento da população que recebeu a comunicação de marketing.
 
