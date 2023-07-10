@@ -11,9 +11,9 @@ exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: b7c0c39339ff89bab2c81a3d9fd31f67b8ee4d71
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '164'
 ht-degree: 4%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 4%
 
 Este tutorial explica como usar os dados de perfil centralizados e consolidados do Adobe Experience Platform para campanhas de marketing no Adobe Campaign Standard.
 
-A variável [!UICONTROL Audiences] módulo no Adobe Campaign Standard permite criar segmentos usando dados do [Adobe Experience Platform - Serviços de dados](https://www.adobe.io/apis/experienceplatform/home/services.html) que vive no [Perfil do cliente em tempo real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+A variável [!UICONTROL Audiences] módulo no Adobe Campaign Standard permite criar segmentos usando dados do [Adobe Experience Platform - Serviços de dados](https://developer.adobe.com/apis/experienceplatform/home/services.html) que vive no [Perfil do cliente em tempo real](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
 Os seguintes tutoriais em vídeo orientam você pelas diferentes etapas:
 
