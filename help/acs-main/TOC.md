@@ -3,9 +3,9 @@ user-guide-title: Tutoriais do Adobe Campaign Standard
 user-guide-description: Desenvolva experiências de clientes entre canais e crie um ambiente para a orquestração visual de campanhas, gerenciamento de interação em tempo real e execução entre canais.
 breadcrumb-title: Tutoriais do Campaign Standard
 source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '581'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -92,9 +92,9 @@ ht-degree: 96%
    + [Criar um relatório dinâmico](/help/reporting/creating-a-dynamic-report.md)
    + [Criar um relatório com base em atributos de perfil personalizados](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Criar um relatório com base em segmentos de fluxo de trabalho](/help/reporting/report-on-workflow-segments.md)
-   + [Monitorar um delivery](/help/reporting/monitor-a-delivery.md)
+   + [Monitorar uma entrega](/help/reporting/monitor-a-delivery.md)
 + Integrar a outras soluções {#integrations}
-   + [Integração do Target ao Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=en)
+   + [Integração do Target com o Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=pt-BR)
    + [Acompanhe o sucesso de suas entregas no Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Usar acionadores para mensagens transacionais {#triggers}
       + [Visão geral](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
