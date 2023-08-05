@@ -11,9 +11,9 @@ team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '350'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ O Adobe Campaign oferece aos controladores de dados três métodos para executar
 >
 > **ALTERAÇÕES NO ACS 19.4:**
 > 
-> A variável [integração de Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html) é o método que deve ser usado para todas as solicitações de acesso e exclusão. A partir da versão 19.4, o uso da API e da interface do Campaign para solicitações de acesso e exclusão se tornará obsoleto. Para obter mais informações sobre recursos obsoletos e removidos do Campaign Standard, consulte [esta página](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=br).
+> A [integração do Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html) é o método que deve ser usado para todas as solicitações de acesso e exclusão. A partir da versão 19.4, o uso da API e da interface do Campaign para solicitações de acesso e exclusão se tornará obsoleto. Para obter mais informações sobre recursos obsoletos e removidos do Campaign Standard, consulte [esta página](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=br).
 >
 >**Recusar a venda de informações pessoais (CCPA)**
 >
