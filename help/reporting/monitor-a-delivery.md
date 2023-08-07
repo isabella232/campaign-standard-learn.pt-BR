@@ -1,5 +1,5 @@
 ---
-title: Monitorar um delivery
+title: Monitorar uma entrega
 description: Entenda logs de mensagens, logs de tarefas e logs de entrega.
 feature: Monitoring
 role: User
@@ -16,7 +16,7 @@ ht-degree: 27%
 
 ---
 
-# Monitorar um delivery
+# Monitorar uma entrega
 
 Entenda logs de mensagens, logs de tarefas e logs de entrega.
 

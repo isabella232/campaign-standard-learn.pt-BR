@@ -24,15 +24,15 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
 
 * **[Agendar mensagens](/help/communication-channels/email/schedule-messages.md)**
 
-   *Saiba como agendar uma entrega de email.*
+  *Saiba como agendar uma entrega de email.*
 
 * **[Enviar uma prova](/help/communication-channels/email/send-a-proof.md)**
 
-   *Saiba como testar uma mensagem de email antes de enviá-la para os destinatários finais.*
+  *Saiba como testar uma mensagem de email antes de enviá-la para os destinatários finais.*
 
 * **[Dez práticas recomendadas para o sucesso de profissionais de marketing no Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *Conheça as dez práticas recomendadas para ajudar os profissionais do Adobe Campaign a desbloquear e acelerar a transformação digital do consumidor e fornecer uma melhor experiência para seus clientes.*
+  *Conheça as dez práticas recomendadas para ajudar os profissionais do Adobe Campaign a desbloquear e acelerar a transformação digital do consumidor e fornecer uma melhor experiência para seus clientes.*
 
 </div>
 
