@@ -10,10 +10,10 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 67%
+source-wordcount: '167'
+ht-degree: 66%
 
 ---
 
@@ -31,7 +31,7 @@ A integração do Adobe Campaign Standard com o Adobe Dreamweaver permite editar
 
 O vídeo explica o que é necessário para habilitar a integração do Dreamweaver e como criar e editar conteúdo do Adobe Campaign Standard usando o Dreamweaver.
 
->[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23121?learn=on){transcript=true}
 
 *Como usar a integração do Dreamweaver no Adobe Campaign (02:37 min)*
 

@@ -10,10 +10,10 @@ team: TM
 exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
 role: User
 level: Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 28%
+source-wordcount: '80'
+ht-degree: 27%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 28%
 
 Este vídeo demonstra como um email, um delivery de SMS ou um template do delivery existente pode ser facilmente convertido em multilíngue.
 
->[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23251?learn=on){transcript=true}
 
 Consulte a documentação do produto para obter mais informações sobre [criação de um email multilíngue](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)

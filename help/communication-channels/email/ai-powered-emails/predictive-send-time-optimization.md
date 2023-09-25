@@ -10,10 +10,10 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 100%
+source-wordcount: '205'
+ht-degree: 99%
 
 ---
 
@@ -28,6 +28,6 @@ O [!UICONTROL Predictive send time optimization] prevê qual é o melhor momento
 
 Entenda quais workflows são necessários para sincronizar dados entre o Adobe Campaign e o modelo de IA de jornada. Saiba como visualizar as pontuações de tempo de envio em nível de perfil individual e como executar entregas de email usando uma fórmula de tempo de envio.
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40469?learn=on){transcript=true}
 
 Consulte a documentação do produto para saber mais sobre [otimização do design e da entrega com emails de inteligência artificial](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=pt-BR)

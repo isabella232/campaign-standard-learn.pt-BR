@@ -10,10 +10,10 @@ role: Admin
 level: Experienced
 team: TM
 exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
-source-git-commit: 9c3ca533c14c89fb11c37046feafa08181241405
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 26%
+source-wordcount: '94'
+ht-degree: 25%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 26%
 [!UICONTROL Fatigue rules] permitem que os profissionais de marketing definam regras de negócios globais entre canais que excluirão automaticamente perfis excessivamente solicitados de campanhas.
 Para criar [!UICONTROL fatigue rules], é necessário definir um número máximo de mensagens por perfil e selecionar um período ao qual a regra será aplicada. Durante a preparação do delivery, os perfis são excluídos do delivery, se aplicável, dependendo do número de mensagens já enviadas a eles.
 
->[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/28450?learn=on){transcript=true}
 
 *Como criar um [!UICONTROL fatigue rule] (04:49 min)*
 
