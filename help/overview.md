@@ -7,7 +7,7 @@ feature: Overview
 recommendations: noDisplay, noCatalog
 source-git-commit: fad29341cb352d7d010735d97954de99d5b1686e
 workflow-type: ht
-source-wordcount: '0'
+source-wordcount: '260'
 ht-degree: 100%
 
 ---
@@ -74,11 +74,11 @@ O Adobe Campaign fornece uma plataforma para criação de experiências para cli
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=br">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=pt-BR">
       <img alt="Tutorial: Introdução a notificações por push para Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=br">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=pt-BR">
     <strong>Tutorial: Introdução a notificações por push para Android™</strong>
     </a>
     </div>
